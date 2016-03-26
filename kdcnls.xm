@@ -3,12 +3,12 @@
 		<channel active="True">
 			<name>ERT1</name>
 			<type></type>
-			<url>http://nerit1-lh.akamaihd.net/i/nerit_1@120689/master.m3u8</url>
+			<url>http://38.140.63.250:1935/gr-live/et1.sdp/playlist.m3u8</url>
 		</channel>
 		<channel active="True">
 			<name>ERT2</name>
 			<type></type>
-			<url>http://nerit2-lh.akamaihd.net/i/neritplus_1@121149/master.m3u8</url>
+			<url>http://38.140.63.250:1935/gr-live/neritplus.sdp/playlist.m3u8</url>
 		</channel>
 		<channel active="True">
 			<name>ERT3</name>
@@ -83,12 +83,12 @@
 		<channel active="True">
 			<name>ERT1 (2)</name>
 			<type></type>
-			<url>http://38.140.63.250:1935/gr-live/et1.sdp/playlist.m3u8</url>
+			<url>http://over.ddns.net:65101/</url>
 		</channel>
-		<channel active="True">
+		<channel active="False">
 			<name>ERT1 (3)</name>
 			<type></type>
-			<url>http://over.ddns.net:65101/</url>
+			<url></url>
 		</channel>
 		<channel active="False">
 			<name>ERT1 (4)</name>
@@ -98,12 +98,12 @@
 		<channel active="True">
 			<name>ERT2 (2)</name>
 			<type></type>
-			<url>http://38.140.63.250:1935/gr-live/neritplus.sdp/playlist.m3u8</url>
+			<url>http://over.ddns.net:65102/</url>
 		</channel>
-		<channel active="True">
+		<channel active="False">
 			<name>ERT2 (3)</name>
 			<type></type>
-			<url>http://over.ddns.net:65102/</url>
+			<url></url>
 		</channel>
 		<channel active="False">
 			<name>ERT2 (4)</name>
