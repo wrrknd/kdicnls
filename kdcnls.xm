@@ -133,15 +133,15 @@
 		<channel active="True">
 			<name>MEGA (3)</name>
 			<type></type>
-			<url>http://94.23.218.186:1935/galanos11/galanos11/playlist.m3u8</url>
+			<url>http://38.140.63.250:1935/gr-live/mega.sdp/playlist.m3u8</url>
 		</channel>
 		<channel active="True">
 			<name>MEGA (4)</name>
 			<type></type>
-			<url>http://38.140.63.250:1935/gr-live/mega.sdp/playlist.m3u8</url>
+			<url>http://over.ddns.net:65110/</url>
 		</channel>
 		</channel>
-		<channel active="True">
+		<channel active="False">
 			<name>MEGA (5)</name>
 			<type></type>
 			<url>http://over.ddns.net:65110/</url>
@@ -169,17 +169,17 @@
 		<channel active="True">
 			<name>STAR (3)</name>
 			<type></type>
-			<url>http://94.23.218.186:1935/galanos2/galanos2/playlist.m3u8</url>
+			<url>http://38.140.63.250:1935/gr-live/star.sdp/playlist.m3u8</url>
 		</channel>
 		<channel active="True">
 			<name>STAR (4)</name>
 			<type></type>
-			<url>http://38.140.63.250:1935/gr-live/star.sdp/playlist.m3u8</url>
+			<url>http://over.ddns.net:65111/</url>
 		</channel>
-		<channel active="True">
+		<channel active="False">
 			<name>STAR (5)</name>
 			<type></type>
-			<url>http://over.ddns.net:65111/</url>
+			<url>/</url>
 		</channel>
 		<channel active="True">
 			<name>ALPHA (2)</name>
