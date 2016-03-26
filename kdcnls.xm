@@ -90,11 +90,6 @@
 			<type></type>
 			<url>http://over.ddns.net:65101/</url>
 		</channel>
-		<channel active="False">
-			<name>ERT1 (4)</name>
-			<type></type>
-			<url></url>
-		</channel>
 		<channel active="True">
 			<name>ERT2 (2)</name>
 			<type></type>
@@ -105,26 +100,6 @@
 			<type></type>
 			<url>http://over.ddns.net:65102/</url>
 		</channel>
-		<channel active="False">
-			<name>ERT2 (4)</name>
-			<type></type>
-			<url></url>
-		</channel>
-		<channel active="False">
-			<name>ERT3 (2)</name>
-			<type></type>
-			<url></url>
-		</channel>
-		<channel active="False">
-			<name>ERT3 (3)</name>
-			<type></type>
-			<url></url>
-		</channel>
-		<channel active="False">
-			<name>ERT3 (4)</name>
-			<type></type>
-			<url></url>
-		</channel>
 		<channel active="True">
 			<name>MEGA (2)</name>
 			<type></type>
@@ -133,16 +108,10 @@
 		<channel active="True">
 			<name>MEGA (3)</name>
 			<type></type>
-			<url>http://94.23.218.186:1935/galanos11/galanos11/playlist.m3u8</url>
+			<url>http://38.140.63.250:1935/gr-live/mega.sdp/playlist.m3u8</url>
 		</channel>
 		<channel active="True">
 			<name>MEGA (4)</name>
-			<type></type>
-			<url>http://38.140.63.250:1935/gr-live/mega.sdp/playlist.m3u8</url>
-		</channel>
-		</channel>
-		<channel active="True">
-			<name>MEGA (5)</name>
 			<type></type>
 			<url>http://over.ddns.net:65110/</url>
 		</channel>
@@ -169,15 +138,10 @@
 		<channel active="True">
 			<name>STAR (3)</name>
 			<type></type>
-			<url>http://94.23.218.186:1935/galanos2/galanos2/playlist.m3u8</url>
-		</channel>
-		<channel active="True">
-			<name>STAR (4)</name>
-			<type></type>
 			<url>http://38.140.63.250:1935/gr-live/star.sdp/playlist.m3u8</url>
 		</channel>
 		<channel active="True">
-			<name>STAR (5)</name>
+			<name>STAR (4)</name>
 			<type></type>
 			<url>http://over.ddns.net:65111/</url>
 		</channel>
@@ -191,11 +155,6 @@
 			<type></type>
 			<url>http://over.ddns.net:65105/</url>
 		</channel>
-		<channel active="False">
-			<name>ALPHA (4)</name>
-			<type></type>
-			<url></url>
-		</channel>
 		<channel active="True">
 			<name>SKAI (2)</name>
 			<type></type>
@@ -206,24 +165,9 @@
 			<type></type>
 			<url>http://over.ddns.net:65112/</url>
 		</channel>
-		<channel active="False">
-			<name>SKAI (4)</name>
-			<type></type>
-			<url></url>
-		</channel>
 		<channel active="True">
 			<name>E TV (2)</name>
 			<type></type>
-			<url>http://38.140.63.250:1935/gr-live/otesport5.sdp/playlist.m3u8</url>
-		</channel>
-		<channel active="True">
-			<name>E TV (3)</name>
-			<type></type>
 			<url>http://over.ddns.net:65108/</url>
-		</channel>
-		<channel active="False">
-			<name>E TV (4)</name>
-			<type></type>
-			<url></url>
 		</channel>
 </channels>
