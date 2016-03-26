@@ -3,7 +3,7 @@
 		<channel active="True">
 			<name>ERT1</name>
 			<type></type>
-			<url>http://38.140.63.250:1935/gr-live/et1.sdp/playlist.m3u8</url>
+			<url>http://ertworld-lh.akamaihd.net/i/live_1@362313/master.m3u8</url>
 		</channel>
 		<channel active="True">
 			<name>ERT2</name>
@@ -83,12 +83,12 @@
 		<channel active="True">
 			<name>ERT1 (2)</name>
 			<type></type>
-			<url>http://over.ddns.net:65101/</url>
+			<url>http://38.140.63.250:1935/gr-live/et1.sdp/playlist.m3u8</url>
 		</channel>
-		<channel active="False">
+		<channel active="True">
 			<name>ERT1 (3)</name>
 			<type></type>
-			<url></url>
+			<url>http://over.ddns.net:65101/</url>
 		</channel>
 		<channel active="False">
 			<name>ERT1 (4)</name>
