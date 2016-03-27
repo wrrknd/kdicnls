@@ -3,7 +3,7 @@
 		<channel active="True">
 			<name>ERT1</name>
 			<type></type>
-			<url>http://ertworld-lh.akamaihd.net/i/live_1@362313/master.m3u8</url>
+			<url>http://ertworld-lh.akamaihd.net/i/live_1@362313/index_800_av-b.m3u8</url>
 		</channel>
 		<channel active="True">
 			<name>ERT2</name>
