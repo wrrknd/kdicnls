@@ -13,7 +13,7 @@
 		<channel active="True">
 			<name>ERT3</name>
 			<type></type>
-			<url>http://ert3-lh.akamaihd.net/i/live_1@329807/master.m3u8</url>
+			<url>http://ert3-lh.akamaihd.net/i/live_1@329807/index_800_av-p.m3u8</url>
 		</channel>
 			<channel active="True">
 			<name>MEGA</name>
@@ -115,10 +115,10 @@
 			<type></type>
 			<url>http://over.ddns.net:65103/</url>
 		</channel>
-		<channel active="False">
+		<channel active="True">
 			<name>ERT3 (3)</name>
 			<type></type>
-			<url></url>
+			<url>http://ert3-lh.akamaihd.net/i/live_1@329807/master.m3u8</url>
 		</channel>
 		<channel active="False">
 			<name>ERT3 (4)</name>
