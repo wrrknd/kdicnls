@@ -3,17 +3,17 @@
 		<channel active="True">
 			<name>ERT1</name>
 			<type></type>
-			<url>http://ertworld-lh.akamaihd.net/i/live_1@362313/index_800_av-b.m3u8</url>
+			<url>http://ertworld-lh.akamaihd.net/i/live_1@362313/master.m3u8</url>
 		</channel>
 		<channel active="True">
 			<name>ERT2</name>
 			<type></type>
-			<url>http://38.140.63.250:1935/gr-live/neritplus.sdp/playlist.m3u8</url>
+			<url>http://ert2world-lh.akamaihd.net/i/live_1@367166/master.m3u8</url>
 		</channel>
 		<channel active="True">
 			<name>ERT3</name>
 			<type></type>
-			<url>http://ert3-lh.akamaihd.net/i/live_1@329807/index_800_av-p.m3u8</url>
+			<url>http://ert3-lh.akamaihd.net/i/live_1@329807/master.m3u8</url>
 		</channel>
 			<channel active="True">
 			<name>MEGA</name>
@@ -68,7 +68,7 @@
 		<channel active="True">
 			<name>MAD TV CYPRUS</name>
 			<type></type>
-			<url>http://eradio.networksolutions.com.cy:1935/live/livestream/playlist.m3u8</url>
+			<url>rtmp://144.76.2.213/live/livestream swfUrl=http://jwplayer.mediaserve.com/player.swf live=1 timeout=10</url>
 		</channel>
 		<channel active="True">
 			<name>EUROPE 1</name>
@@ -98,12 +98,12 @@
 		<channel active="True">
 			<name>ERT2 (2)</name>
 			<type></type>
-			<url>http://over.ddns.net:65102/</url>
+			<url>http://38.140.63.250:1935/gr-live/neritplus.sdp/playlist.m3u8</url>
 		</channel>
-		<channel active="False">
+		<channel active="True">
 			<name>ERT2 (3)</name>
 			<type></type>
-			<url></url>
+			<url>http://over.ddns.net:65102/</url>
 		</channel>
 		<channel active="False">
 			<name>ERT2 (4)</name>
@@ -115,10 +115,10 @@
 			<type></type>
 			<url>http://over.ddns.net:65103/</url>
 		</channel>
-		<channel active="True">
+		<channel active="False">
 			<name>ERT3 (3)</name>
 			<type></type>
-			<url>http://ert3-lh.akamaihd.net/i/live_1@329807/master.m3u8</url>
+			<url></url>
 		</channel>
 		<channel active="False">
 			<name>ERT3 (4)</name>
