@@ -68,7 +68,7 @@
 		<channel active="True">
 			<name>MAD TV CYPRUS</name>
 			<type></type>
-			<url>rtmp://144.76.2.213/live/livestream swfUrl=http://jwplayer.mediaserve.com/player.swf live=1 timeout=10</url>
+			<url>http://eradio.networksolutions.com.cy:1935/live/livestream/playlist.m3u8</url>
 		</channel>
 		<channel active="True">
 			<name>EUROPE 1</name>
