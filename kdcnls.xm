@@ -3,17 +3,17 @@
 		<channel active="True">
 			<name>ERT1</name>
 			<type></type>
-			<url>http://ertworld-lh.akamaihd.net/i/live_1@362313/master.m3u8</url>
+			<url>plugin://plugin.video.youtube/play/?video_id=wyBm8cFiUp0</url>
 		</channel>
 		<channel active="True">
 			<name>ERT2</name>
 			<type></type>
-			<url>http://ert2world-lh.akamaihd.net/i/live_1@367166/master.m3u8</url>
+			<url>plugin://plugin.video.youtube/play/?video_id=Zjbwf5QE7aI</url>
 		</channel>
 		<channel active="True">
 			<name>ERT3</name>
 			<type></type>
-			<url>http://ert3-lh.akamaihd.net/i/live_1@329807/master.m3u8</url>
+			<url>plugin://plugin.video.youtube/play/?video_id=ts-D2PxHbcw</url>
 		</channel>
 			<channel active="True">
 			<name>MEGA</name>
@@ -90,10 +90,10 @@
 			<type></type>
 			<url>http://over.ddns.net:65101/</url>
 		</channel>
-		<channel active="False">
+		<channel active="True">
 			<name>ERT1 (4)</name>
 			<type></type>
-			<url></url>
+			<url>plugin://plugin.video.youtube/play/?video_id=VaviMC3KGtQ</url>
 		</channel>
 		<channel active="True">
 			<name>ERT2 (2)</name>
@@ -105,20 +105,20 @@
 			<type></type>
 			<url>http://over.ddns.net:65102/</url>
 		</channel>
-		<channel active="False">
+		<channel active="True">
 			<name>ERT2 (4)</name>
 			<type></type>
-			<url></url>
+			<url>plugin://plugin.video.youtube/play/?video_id=TyvdueFoCfA</url>
 		</channel>
 		<channel active="True">
 			<name>ERT3 (2)</name>
 			<type></type>
 			<url>http://over.ddns.net:65103/</url>
 		</channel>
-		<channel active="False">
+		<channel active="True">
 			<name>ERT3 (3)</name>
 			<type></type>
-			<url></url>
+			<url>plugin://plugin.video.youtube/play/?video_id=YLAU3wraBwY</url>
 		</channel>
 		<channel active="False">
 			<name>ERT3 (4)</name>
