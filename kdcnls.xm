@@ -18,7 +18,7 @@
 			<channel active="True">
 			<name>MEGA</name>
 			<type></type>
-			<url>http://megahdlive1-f.akamaihd.net/i/live_1@105260/master.m3u8</url>
+			<url>plugin://plugin.video.youtube/play/?video_id=2Y8qsS_xH2Y</url>
 		</channel>
 		<channel active="True">
 			<name>ANT1</name>
