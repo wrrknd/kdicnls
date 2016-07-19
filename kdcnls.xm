@@ -13,7 +13,7 @@
 		<channel active="True">
 			<name>ERT3</name>
 			<type></type>
-			<url>plugin://plugin.video.youtube/play/?video_id=ts-D2PxHbcw</url>
+			<url>plugin://plugin.video.youtube/play/?video_id=TAPQISON4YM</url>
 		</channel>
 			<channel active="True">
 			<name>MEGA</name>
@@ -118,7 +118,7 @@
 		<channel active="True">
 			<name>ERT3 (3)</name>
 			<type></type>
-			<url>plugin://plugin.video.youtube/play/?video_id=YLAU3wraBwY</url>
+			<url>plugin://plugin.video.youtube/play/?video_id=Mhos_CO9M3U</url>
 		</channel>
 		<channel active="False">
 			<name>ERT3 (4)</name>
