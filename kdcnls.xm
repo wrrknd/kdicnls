@@ -210,7 +210,7 @@
 			<type></type>
 			<url></url>
 		</channel>
-		<channel active="True">
+		<channel active="False">
 			<name>E TV (2)</name>
 			<type></type>
 			<url>http://over.ddns.net:65108/</url>
