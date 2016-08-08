@@ -88,12 +88,12 @@
 		<channel active="True">
 			<name>ERT1 (3)</name>
 			<type></type>
-			<url>http://over.ddns.net:65101/</url>
+			<url>plugin://plugin.video.youtube/play/?video_id=wyBm8cFiUp0</url>
 		</channel>
-		<channel active="True">
+		<channel active="False">
 			<name>ERT1 (4)</name>
 			<type></type>
-			<url>plugin://plugin.video.youtube/play/?video_id=VaviMC3KGtQ</url>
+			<url></url>
 		</channel>
 		<channel active="True">
 			<name>ERT2 (2)</name>
@@ -103,22 +103,22 @@
 		<channel active="True">
 			<name>ERT2 (3)</name>
 			<type></type>
-			<url>http://over.ddns.net:65102/</url>
+			<url>plugin://plugin.video.youtube/play/?video_id=Zjbwf5QE7aI</url>
 		</channel>
-		<channel active="True">
+		<channel active="False">
 			<name>ERT2 (4)</name>
 			<type></type>
-			<url>plugin://plugin.video.youtube/play/?video_id=TyvdueFoCfA</url>
+			<url></url>
 		</channel>
 		<channel active="True">
 			<name>ERT3 (2)</name>
 			<type></type>
-			<url>http://over.ddns.net:65103/</url>
+			<url>plugin://plugin.video.youtube/play/?video_id=nxebm_-DkF0</url>
 		</channel>
-		<channel active="True">
+		<channel active="False">
 			<name>ERT3 (3)</name>
 			<type></type>
-			<url>plugin://plugin.video.youtube/play/?video_id=Mhos_CO9M3U</url>
+			<url></url>
 		</channel>
 		<channel active="False">
 			<name>ERT3 (4)</name>
@@ -128,18 +128,17 @@
 		<channel active="True">
 			<name>MEGA (2)</name>
 			<type></type>
-			<url>rtmp://94.75.240.74:80/megaweb/ playpath=megaweb.stream pageUrl=http://www.kanalia.eu/player/jwplayer/player.php live=1 timeout=10</url>
+			<url>http://94.23.218.186:1935/galanos3/galanos3/playlist.m3u8</url>
 		</channel>
 		<channel active="True">
 			<name>MEGA (3)</name>
 			<type></type>
 			<url>http://38.140.63.250:1935/gr-live/mega.sdp/playlist.m3u8</url>
 		</channel>
-		<channel active="True">
+		<channel active="False">
 			<name>MEGA (4)</name>
 			<type></type>
-			<url>http://over.ddns.net:65110/</url>
-		</channel>
+			<url></url>
 		</channel>
 		<channel active="False">
 			<name>MEGA (5)</name>
@@ -156,25 +155,25 @@
 			<type></type>
 			<url>http://38.140.63.250:1935/gr-live/ant1.sdp/playlist.m3u8</url>
 		</channel>
-		<channel active="True">
+		<channel active="False">
 			<name>ANT1 (4)</name>
 			<type></type>
-			<url>http://over.ddns.net:65106/</url>
+			<url></url>
 		</channel>
 		<channel active="True">
 			<name>STAR (2)</name>
 			<type></type>
-			<url>rtmp://94.75.240.74:80/alterweb/ playpath=alterweb.stream pageUrl=http://www.kanalia.eu/player/jwplayer/player.php live=1 timeout=10</url>
+			<url>http://94.23.218.186:1935/galanos21/galanos21/playlist.m3u8</url>
 		</channel>
 		<channel active="True">
 			<name>STAR (3)</name>
 			<type></type>
 			<url>http://38.140.63.250:1935/gr-live/star.sdp/playlist.m3u8</url>
 		</channel>
-		<channel active="True">
+		<channel active="False">
 			<name>STAR (4)</name>
 			<type></type>
-			<url>http://over.ddns.net:65111/</url>
+			<url></url>
 		</channel>
 		<channel active="False">
 			<name>STAR (5)</name>
@@ -186,10 +185,10 @@
 			<type></type>
 			<url>http://38.140.63.250:1935/gr-live/alpha.sdp/playlist.m3u8</url>
 		</channel>
-		<channel active="True">
+		<channel active="False">
 			<name>ALPHA (3)</name>
 			<type></type>
-			<url>http://over.ddns.net:65105/</url>
+			<url></url>
 		</channel>
 		<channel active="False">
 			<name>ALPHA (4)</name>
@@ -201,10 +200,10 @@
 			<type></type>
 			<url>http://38.140.63.250:1935/gr-live/skai.sdp/playlist.m3u8</url>
 		</channel>
-		<channel active="True">
+		<channel active="False">
 			<name>SKAI (3)</name>
 			<type></type>
-			<url>http://over.ddns.net:65112/</url>
+			<url></url>
 		</channel>
 		<channel active="False">
 			<name>SKAI (4)</name>
