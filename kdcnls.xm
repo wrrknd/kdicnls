@@ -58,7 +58,7 @@
 		<channel active="True">
 			<name>EXTRA 3</name>
 			<type></type>
-			<url>http://213.16.167.186:1935/live/mpegts_256.stream/playlist.m3u8</url>
+			<url>rtmp://213.16.167.186:1935/live playpath=mpegts_256.stream pageUrl=http://www.extratv.gr/media/imgs/flowplayer-3.2.15.swf live=1 timeout=10</url>
 		</channel>
 		<channel active="False">
 			<name>MAD TV</name>
@@ -78,7 +78,12 @@
 		<channel active="True">
 			<name>BOYLH TV</name>
 			<type></type>
-			<url>http://streamer-cache.grnet.gr/parliament/parltv.sdp/master.m3u8</url>
+			<url>http://streamer-cache.grnet.gr/parliament/hls/webtv.m3u8</url>
+		</channel>
+		<channel active="True">
+			<name>BOYLH TV (2)</name>
+			<type></type>
+			<url>http://streamer-cache.grnet.gr/parliament/hls/webtv2.m3u8</url>
 		</channel>
 		<channel active="True">
 			<name>ERT1 (2)</name>
