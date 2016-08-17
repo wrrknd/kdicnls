@@ -88,12 +88,12 @@
 		<channel active="True">
 			<name>ERT1 (2)</name>
 			<type></type>
-			<url>http://38.140.63.250:1935/gr-live/et1.sdp/playlist.m3u8</url>
+			<url>plugin://plugin.video.youtube/play/?video_id=wyBm8cFiUp0</url>
 		</channel>
-		<channel active="True">
+		<channel active="False">
 			<name>ERT1 (3)</name>
 			<type></type>
-			<url>plugin://plugin.video.youtube/play/?video_id=wyBm8cFiUp0</url>
+			<url></url>
 		</channel>
 		<channel active="False">
 			<name>ERT1 (4)</name>
@@ -103,12 +103,12 @@
 		<channel active="True">
 			<name>ERT2 (2)</name>
 			<type></type>
-			<url>http://38.140.63.250:1935/gr-live/neritplus.sdp/playlist.m3u8</url>
+			<url>plugin://plugin.video.youtube/play/?video_id=Zjbwf5QE7aI</url>
 		</channel>
-		<channel active="True">
+		<channel active="False">
 			<name>ERT2 (3)</name>
 			<type></type>
-			<url>plugin://plugin.video.youtube/play/?video_id=Zjbwf5QE7aI</url>
+			<url></url>
 		</channel>
 		<channel active="False">
 			<name>ERT2 (4)</name>
@@ -135,10 +135,10 @@
 			<type></type>
 			<url>http://94.23.218.186:1935/galanos3/galanos3/playlist.m3u8</url>
 		</channel>
-		<channel active="True">
+		<channel active="False">
 			<name>MEGA (3)</name>
 			<type></type>
-			<url>http://38.140.63.250:1935/gr-live/mega.sdp/playlist.m3u8</url>
+			<url></url>
 		</channel>
 		<channel active="False">
 			<name>MEGA (4)</name>
@@ -155,10 +155,10 @@
 			<type></type>
 			<url>http://94.23.218.186:1935/galanos11/galanos11/playlist.m3u8</url>
 		</channel>
-		<channel active="True">
+		<channel active="False">
 			<name>ANT1 (3)</name>
 			<type></type>
-			<url>http://38.140.63.250:1935/gr-live/ant1.sdp/playlist.m3u8</url>
+			<url></url>
 		</channel>
 		<channel active="False">
 			<name>ANT1 (4)</name>
@@ -170,10 +170,10 @@
 			<type></type>
 			<url>http://94.23.218.186:1935/galanos21/galanos21/playlist.m3u8</url>
 		</channel>
-		<channel active="True">
+		<channel active="False">
 			<name>STAR (3)</name>
 			<type></type>
-			<url>http://38.140.63.250:1935/gr-live/star.sdp/playlist.m3u8</url>
+			<url></url>
 		</channel>
 		<channel active="False">
 			<name>STAR (4)</name>
@@ -185,10 +185,10 @@
 			<type></type>
 			<url>/</url>
 		</channel>
-		<channel active="True">
+		<channel active="False">
 			<name>ALPHA (2)</name>
 			<type></type>
-			<url>http://38.140.63.250:1935/gr-live/alpha.sdp/playlist.m3u8</url>
+			<url></url>
 		</channel>
 		<channel active="False">
 			<name>ALPHA (3)</name>
@@ -200,10 +200,10 @@
 			<type></type>
 			<url></url>
 		</channel>
-		<channel active="True">
+		<channel active="False">
 			<name>SKAI (2)</name>
 			<type></type>
-			<url>http://38.140.63.250:1935/gr-live/skai.sdp/playlist.m3u8</url>
+			<url></url>
 		</channel>
 		<channel active="False">
 			<name>SKAI (3)</name>
@@ -218,7 +218,7 @@
 		<channel active="False">
 			<name>E TV (2)</name>
 			<type></type>
-			<url>http://over.ddns.net:65108/</url>
+			<url></url>
 		</channel>
 		<channel active="False">
 			<name>E TV (3)</name>
