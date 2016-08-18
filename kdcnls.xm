@@ -3,12 +3,12 @@
 		<channel active="True">
 			<name>ERT1</name>
 			<type></type>
-			<url>http://ert-live.hls.adaptive.level3.net/hls-live/ert-channel01/_definst_/live/stream2.m3u8</url>
+			<url>plugin://plugin.video.youtube/play/?video_id=wyBm8cFiUp0</url>
 		</channel>
 		<channel active="True">
 			<name>ERT2</name>
 			<type></type>
-			<url>http://ert2-geo-live.hls.adaptive.level3.net/hls-live/ert-channel02geo/_definst_/live/stream2.m3u8</url>
+			<url>plugin://plugin.video.youtube/play/?video_id=Zjbwf5QE7aI</url>
 		</channel>
 		<channel active="True">
 			<name>ERT3</name>
@@ -88,7 +88,7 @@
 		<channel active="True">
 			<name>ERT1 (2)</name>
 			<type></type>
-			<url>plugin://plugin.video.youtube/play/?video_id=wyBm8cFiUp0</url>
+			<url>http://ert-live.hls.adaptive.level3.net/hls-live/ert-channel01/_definst_/live.m3u8</url>
 		</channel>
 		<channel active="False">
 			<name>ERT1 (3)</name>
@@ -103,7 +103,7 @@
 		<channel active="True">
 			<name>ERT2 (2)</name>
 			<type></type>
-			<url>plugin://plugin.video.youtube/play/?video_id=Zjbwf5QE7aI</url>
+			<url>http://ert2-geo-live.hls.adaptive.level3.net/hls-live/ert-channel02geo/_definst_/live.m3u8</url>
 		</channel>
 		<channel active="False">
 			<name>ERT2 (3)</name>
