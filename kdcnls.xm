@@ -58,7 +58,7 @@
 		<channel active="True">
 			<name>EXTRA 3</name>
 			<type></type>
-			<url>rtmp://213.16.167.186:1935/live playpath=mpegts_256.stream pageUrl=http://www.extratv.gr/media/imgs/flowplayer-3.2.15.swf live=1 timeout=10</url>
+			<url></url>
 		</channel>
 		<channel active="False">
 			<name>MAD TV</name>
