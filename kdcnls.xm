@@ -93,7 +93,7 @@
 		<channel active="True">
 			<name>ERT1 (3)</name>
 			<type></type>
-			<url>rtmp://freeview.fms.visionip.tv/live/tvnetwork-hellenictv-ertworld-hsslive-25f-4x3-SDh?PHPSESSID=8blpkkmbb990ekhc80gfht1cq3</url>
+			<url>plugin://plugin.video.youtube/play/?video_id=rdlulSBQPp8</url>
 		</channel>
 		<channel active="True">
 			<name>ERT1 (4)</name>
