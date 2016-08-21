@@ -58,7 +58,7 @@
 		<channel active="True">
 			<name>EXTRA 3</name>
 			<type></type>
-			<url></url>
+			<url>rtmp://213.16.167.186:1935/live playpath=mpegts_256.stream pageUrl=http://www.extratv.gr/media/imgs/flowplayer-3.2.15.swf live=1 timeout=10</url>
 		</channel>
 		<channel active="False">
 			<name>MAD TV</name>
@@ -93,22 +93,22 @@
 		<channel active="True">
 			<name>ERT1 (3)</name>
 			<type></type>
-			<url>http://38.99.163.111/net</url>
+			<url>rtmp://freeview.fms.visionip.tv/live/tvnetwork-hellenictv-ertworld-hsslive-25f-4x3-SDh?PHPSESSID=8blpkkmbb990ekhc80gfht1cq3</url>
 		</channel>
-		<channel active="True">
+		<channel active="False">
 			<name>ERT1 (4)</name>
 			<type></type>
-			<url>rtmp://freeview.fms.visionip.tv/live/tvnetwork-hellenictv-ertworld-hsslive-25f-4x3-SDh?PHPSESSID=8blpkkmbb990ekhc80gfht1cq3</url>
+			<url></url>
 		</channel>
 		<channel active="True">
 			<name>ERT2 (2)</name>
 			<type></type>
 			<url>http://ert2-geo-live.hls.adaptive.level3.net/hls-live/ert-channel02geo/_definst_/live.m3u8</url>
 		</channel>
-		<channel active="True">
+		<channel active="False">
 			<name>ERT2 (3)</name>
 			<type></type>
-			<url>http://38.99.163.111/ERT2</url>
+			<url></url>
 		</channel>
 		<channel active="False">
 			<name>ERT2 (4)</name>
@@ -120,10 +120,10 @@
 			<type></type>
 			<url>plugin://plugin.video.youtube/play/?video_id=nxebm_-DkF0</url>
 		</channel>
-		<channel active="True">
+		<channel active="False">
 			<name>ERT3 (3)</name>
 			<type></type>
-			<url>http://38.99.163.111/ERTHD</url>
+			<url></url>
 		</channel>
 		<channel active="False">
 			<name>ERT3 (4)</name>
@@ -135,10 +135,10 @@
 			<type></type>
 			<url>http://94.23.218.186:1935/galanos3/galanos3/playlist.m3u8</url>
 		</channel>
-		<channel active="True">
+		<channel active="False">
 			<name>MEGA (3)</name>
 			<type></type>
-			<url>http://38.99.163.111/mega</url>
+			<url></url>
 		</channel>
 		<channel active="False">
 			<name>MEGA (4)</name>
@@ -155,10 +155,10 @@
 			<type></type>
 			<url>http://94.23.218.186:1935/galanos11/galanos11/playlist.m3u8</url>
 		</channel>
-		<channel active="True">
+		<channel active="False">
 			<name>ANT1 (3)</name>
 			<type></type>
-			<url>http://38.99.163.111/ant1</url>
+			<url></url>
 		</channel>
 		<channel active="False">
 			<name>ANT1 (4)</name>
@@ -170,10 +170,10 @@
 			<type></type>
 			<url>http://94.23.218.186:1935/galanos21/galanos21/playlist.m3u8</url>
 		</channel>
-		<channel active="True">
+		<channel active="False">
 			<name>STAR (3)</name>
 			<type></type>
-			<url>http://38.99.163.111/star</url>
+			<url></url>
 		</channel>
 		<channel active="False">
 			<name>STAR (4)</name>
@@ -185,10 +185,10 @@
 			<type></type>
 			<url>/</url>
 		</channel>
-		<channel active="True">
+		<channel active="False">
 			<name>ALPHA (2)</name>
 			<type></type>
-			<url>http://38.99.163.111/alpha</url>
+			<url></url>
 		</channel>
 		<channel active="False">
 			<name>ALPHA (3)</name>
@@ -200,10 +200,10 @@
 			<type></type>
 			<url></url>
 		</channel>
-		<channel active="True">
+		<channel active="False">
 			<name>SKAI (2)</name>
 			<type></type>
-			<url>http://38.99.163.111/skai</url>
+			<url></url>
 		</channel>
 		<channel active="False">
 			<name>SKAI (3)</name>
@@ -215,10 +215,10 @@
 			<type></type>
 			<url></url>
 		</channel>
-		<channel active="True">
+		<channel active="False">
 			<name>E TV (2)</name>
 			<type></type>
-			<url>http://38.99.163.111/epsilon</url>
+			<url></url>
 		</channel>
 		<channel active="False">
 			<name>E TV (3)</name>
