@@ -168,7 +168,7 @@
 		<channel active="True">
 			<name>STAR (2)</name>
 			<type></type>
-			<url>http://live.streams.ovh/galanos58/galanos58/playlist.m3u8</url>
+			<url>http://live.streams.ovh:1935/galanos58/galanos58/playlist.m3u8</url>
 		</channel>
 		<channel active="False">
 			<name>STAR (3)</name>
