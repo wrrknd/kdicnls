@@ -95,10 +95,10 @@
 			<type></type>
 			<url>rtmp://freeview.fms.visionip.tv/live/tvnetwork-hellenictv-ertworld-hsslive-25f-4x3-SDh?PHPSESSID=8blpkkmbb990ekhc80gfht1cq3</url>
 		</channel>
-		<channel active="False">
+		<channel active="True">
 			<name>ERT1 (4)</name>
 			<type></type>
-			<url></url>
+			<url>http://94.23.218.186:1935/galanos3/galanos3/playlist.m3u8</url>
 		</channel>
 		<channel active="True">
 			<name>ERT2 (2)</name>
