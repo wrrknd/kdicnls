@@ -13,7 +13,7 @@
 		<channel active="True">
 			<name>ERT3</name>
 			<type></type>
-			<url>http://live.ert.gr:1935/Live-Edge/smil:ert3-live.smil/playlist.m3u8</url>
+			<url>plugin://plugin.video.youtube/play/?video_id=nxebm_-DkF0</url>
 		</channel>
 			<channel active="True">
 			<name>MEGA</name>
@@ -118,7 +118,7 @@
 		<channel active="True">
 			<name>ERT3 (2)</name>
 			<type></type>
-			<url>plugin://plugin.video.youtube/play/?video_id=nxebm_-DkF0</url>
+			<url>http://live.ert.gr:1935/Live-Edge/smil:ert3-live.smil/playlist.m3u8</url>
 		</channel>
 		<channel active="False">
 			<name>ERT3 (3)</name>
