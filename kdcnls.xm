@@ -120,10 +120,10 @@
 			<type></type>
 			<url>http://live.ert.gr:1935/Live-Edge/smil:ert3-live.smil/playlist.m3u8</url>
 		</channel>
-		<channel active="True">
+		<channel active="False">
 			<name>ERT3 (3)</name>
 			<type></type>
-			<url>http://94.23.218.186:1935/galanos3/galanos3/playlist.m3u8</url>
+			<url></url>
 		</channel>
 		<channel active="False">
 			<name>ERT3 (4)</name>
@@ -133,7 +133,7 @@
 		<channel active="True">
 			<name>MEGA (2)</name>
 			<type></type>
-			<url>http://live.streams.ovh:1935/galanos55/galanos55/playlist.m3u8</url>
+			<url>http://94.23.218.186:1935/galanos11/galanos11/playlist.m3u8</url>
 		</channel>
 		<channel active="False">
 			<name>MEGA (3)</name>
@@ -153,7 +153,7 @@
 		<channel active="True">
 			<name>ANT1 (2)</name>
 			<type></type>
-			<url>http://94.23.218.186:1935/galanos11/galanos11/playlist.m3u8</url>
+			<url>http://94.23.218.186:1935/galanos3/galanos3/playlist.m3u8</url>
 		</channel>
 		<channel active="False">
 			<name>ANT1 (3)</name>
