@@ -88,7 +88,7 @@
 		<channel active="True">
 			<name>ERT1 (2)</name>
 			<type></type>
-			<url>http://ert-live.hls.adaptive.level3.net/hls-live/ert-channel01/_definst_/live.m3u8</url>
+			<url>plugin://plugin.video.youtube/play/?video_id=gnnO4TeJG-4</url>
 		</channel>
 		<channel active="True">
 			<name>ERT1 (3)</name>
@@ -103,7 +103,7 @@
 		<channel active="True">
 			<name>ERT2 (2)</name>
 			<type></type>
-			<url>http://ert2-geo-live.hls.adaptive.level3.net/hls-live/ert-channel02geo/_definst_/live.m3u8</url>
+			<url>plugin://plugin.video.youtube/play/?video_id=f7ISZRsgztY</url>
 		</channel>
 		<channel active="False">
 			<name>ERT2 (3)</name>
@@ -118,7 +118,7 @@
 		<channel active="True">
 			<name>ERT3 (2)</name>
 			<type></type>
-			<url>http://live.ert.gr:1935/Live-Edge/smil:ert3-live.smil/playlist.m3u8</url>
+			<url>plugin://plugin.video.youtube/play/?video_id=NdrihJS8-5g</url>
 		</channel>
 		<channel active="False">
 			<name>ERT3 (3)</name>
@@ -168,7 +168,7 @@
 		<channel active="True">
 			<name>STAR (2)</name>
 			<type></type>
-			<url>http://live.streams.ovh:1935/galanos58/galanos58/playlist.m3u8</url>
+			<url>rtmp://live.streams.ovh/galanos58/galanos58 playpath=galanos58 pageUrl=http://live.cast-control.eu/system/misc/jwplayer6/jwplayer.flash.swf live=1 timeout=10</url>
 		</channel>
 		<channel active="False">
 			<name>STAR (3)</name>
