@@ -65,7 +65,7 @@
 			<type>madtv</type>
 			<url>http://apps.route53.mad.tv/youtube/madtv</url>
 		</channel>
-		<channel active="True">
+		<channel active="False">
 			<name>MAD TV CYPRUS</name>
 			<type></type>
 			<url>rtmp://eradio.networksolutions.com.cy/live/livestream playpath=livestream pageUrl=http://jwplayer.mediaserve.com/player.swf live=1 timeout=10</url>
