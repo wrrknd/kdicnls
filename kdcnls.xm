@@ -68,7 +68,7 @@
 		<channel active="True">
 			<name>MAD TV CYPRUS</name>
 			<type></type>
-			<url>http://eradio.networksolutions.com.cy:1935/live/livestream/playlist.m3u8</url>
+			<url>rtmp://eradio.networksolutions.com.cy/live/livestream playpath=livestream pageUrl=http://jwplayer.mediaserve.com/player.swf live=1 timeout=10</url>
 		</channel>
 		<channel active="True">
 			<name>EUROPE 1</name>
@@ -185,10 +185,10 @@
 			<type></type>
 			<url>/</url>
 		</channel>
-		<channel active="False">
+		<channel active="True">
 			<name>ALPHA (2)</name>
 			<type></type>
-			<url></url>
+			<url>http://193.92.37.235:1935/liveedge/live@720/manifest.m3u8</url>
 		</channel>
 		<channel active="False">
 			<name>ALPHA (3)</name>
@@ -200,10 +200,10 @@
 			<type></type>
 			<url></url>
 		</channel>
-		<channel active="False">
+		<channel active="True">
 			<name>SKAI (2)</name>
 			<type></type>
-			<url></url>
+			<url>http://stream.ssh101.com:1935/live/skaichannel/playlist.m3u8</url>
 		</channel>
 		<channel active="False">
 			<name>SKAI (3)</name>
