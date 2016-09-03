@@ -80,7 +80,7 @@
 			<type></type>
 			<url>http://streamer-cache.grnet.gr/parliament/hls/webtv.m3u8</url>
 		</channel>
-		<channel active="True">
+		<channel active="False">
 			<name>BOYLH TV (2)</name>
 			<type></type>
 			<url>http://streamer-cache.grnet.gr/parliament/hls/webtv2.m3u8</url>
@@ -120,10 +120,10 @@
 			<type></type>
 			<url>plugin://plugin.video.youtube/play/?video_id=NdrihJS8-5g</url>
 		</channel>
-		<channel active="False">
+		<channel active="True">
 			<name>ERT3 (3)</name>
 			<type></type>
-			<url></url>
+			<url>http://94.23.218.186:1935/galanos11/galanos11/playlist.m3u8</url>
 		</channel>
 		<channel active="False">
 			<name>ERT3 (4)</name>
@@ -133,7 +133,7 @@
 		<channel active="True">
 			<name>MEGA (2)</name>
 			<type></type>
-			<url>http://94.23.218.186:1935/galanos11/galanos11/playlist.m3u8</url>
+			<url>rtmp://live.streams.ovh/galanos55/galanos55 playpath=galanos55 pageUrl=http://live.cast-control.eu/system/misc/jwplayer6/jwplayer.flash.swf live=1 timeout=10</url>
 		</channel>
 		<channel active="False">
 			<name>MEGA (3)</name>
