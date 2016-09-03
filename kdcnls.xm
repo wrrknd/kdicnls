@@ -43,7 +43,7 @@
 		<channel active="True">
 			<name>E TV</name>
 			<type></type>
-			<url>http://mgrouphdlive4-f.akamaihd.net/i/live_1@324569/master.m3u8</url>
+			<url>https://57b1c0aca53d8.streamlock.net/live/epsilontv/playlist.m3u8</url>
 		</channel>
 		<channel active="True">
 			<name>MACEDONIA TV</name>
