@@ -120,7 +120,7 @@
 			<type></type>
 			<url>plugin://plugin.video.youtube/play/?video_id=NdrihJS8-5g</url>
 		</channel>
-		<channel active="True">
+		<channel active="False">
 			<name>ERT3 (3)</name>
 			<type></type>
 			<url>http://94.23.218.186:1935/galanos11/galanos11/playlist.m3u8</url>
