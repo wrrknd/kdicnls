@@ -95,10 +95,10 @@
 			<type></type>
 			<url>plugin://plugin.video.youtube/play/?video_id=rdlulSBQPp8</url>
 		</channel>
-		<channel active="False">
+		<channel active="True">
 			<name>ERT1 (4)</name>
 			<type></type>
-			<url></url>
+			<url>rtmp://live.streams.ovh/galanos58/galanos58 playpath=galanos58 pageUrl=http://live.cast-control.eu/system/misc/jwplayer6/jwplayer.flash.swf live=1 timeout=10</url>
 		</channel>
 		<channel active="True">
 			<name>ERT2 (2)</name>
