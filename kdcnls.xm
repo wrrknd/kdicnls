@@ -168,7 +168,7 @@
 		<channel active="True">
 			<name>STAR (2)</name>
 			<type></type>
-			<url>rtmp://live.streams.ovh/galanos58/galanos58 playpath=galanos58 pageUrl=http://live.cast-control.eu/system/misc/jwplayer6/jwplayer.flash.swf live=1 timeout=10</url>
+			<url>http://94.23.218.186:1935/galanos11/galanos11/playlist.m3u8</url>
 		</channel>
 		<channel active="False">
 			<name>STAR (3)</name>
