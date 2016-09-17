@@ -103,7 +103,7 @@
 		<channel active="True">
 			<name>ERT2 (2)</name>
 			<type></type>
-			<url>plugin://plugin.video.youtube/play/?video_id=f7ISZRsgztY</url>
+			<url>http://ert2-geo-live.hls.adaptive.level3.net/hls-live/ert-channel02geo/_definst_/live/stream2.m3u8</url>
 		</channel>
 		<channel active="False">
 			<name>ERT2 (3)</name>
@@ -170,10 +170,10 @@
 			<type></type>
 			<url>http://94.23.218.186:1935/galanos11/galanos11/playlist.m3u8</url>
 		</channel>
-		<channel active="False">
+		<channel active="True">
 			<name>STAR (3)</name>
 			<type></type>
-			<url></url>
+			<url>http://s1.ukhdtv.com:7860/live/ZHNbj5QTfG/Ta4gt1CWiR/1437.m3u8</url>
 		</channel>
 		<channel active="False">
 			<name>STAR (4)</name>
@@ -190,10 +190,10 @@
 			<type></type>
 			<url>http://193.92.37.235:1935/liveedge/live@720/media.m3u8</url>
 		</channel>
-		<channel active="False">
+		<channel active="True">
 			<name>ALPHA (3)</name>
 			<type></type>
-			<url></url>
+			<url>http://s1.ukhdtv.com:7860/live/ZHNbj5QTfG/Ta4gt1CWiR/943.m3u8</url>
 		</channel>
 		<channel active="False">
 			<name>ALPHA (4)</name>
