@@ -103,7 +103,7 @@
 		<channel active="True">
 			<name>ERT2 (2)</name>
 			<type></type>
-			<url>http://ert2-geo-live.hls.adaptive.level3.net/hls-live/ert-channel02geo/_definst_/live/stream2.m3u8</url>
+			<url>plugin://plugin.video.youtube/play/?video_id=7IVPHnffeHs</url>
 		</channel>
 		<channel active="False">
 			<name>ERT2 (3)</name>
@@ -123,7 +123,7 @@
 		<channel active="False">
 			<name>ERT3 (3)</name>
 			<type></type>
-			<url>http://94.23.218.186:1935/galanos11/galanos11/playlist.m3u8</url>
+			<url></url>
 		</channel>
 		<channel active="False">
 			<name>ERT3 (4)</name>
