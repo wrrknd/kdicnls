@@ -135,10 +135,10 @@
 			<type></type>
 			<url>rtmp://live.streams.ovh/galanos55/galanos55 playpath=galanos55 pageUrl=http://live.cast-control.eu/system/misc/jwplayer6/jwplayer.flash.swf live=1 timeout=10</url>
 		</channel>
-		<channel active="False">
+		<channel active="True">
 			<name>MEGA (3)</name>
 			<type></type>
-			<url></url>
+			<url>rtmp://94.75.240.74:80/megaweb/ playpath=megaweb.stream pageUrl=http://www.kanalia.eu/player/jwplayer/player.php live=1 timeout=10</url>
 		</channel>
 		<channel active="False">
 			<name>MEGA (4)</name>
@@ -170,10 +170,10 @@
 			<type></type>
 			<url>http://94.23.218.186:1935/galanos11/galanos11/playlist.m3u8</url>
 		</channel>
-		<channel active="False">
+		<channel active="True">
 			<name>STAR (3)</name>
 			<type></type>
-			<url></url>
+			<url>rtmp://94.75.240.74:80/alterweb/ playpath=alterweb.stream pageUrl=http://www.kanalia.eu/player/jwplayer/player.php live=1 timeout=10</url>
 		</channel>
 		<channel active="False">
 			<name>STAR (4)</name>
