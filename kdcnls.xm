@@ -70,7 +70,7 @@
 			<type></type>
 			<url>rtmp://eradio.networksolutions.com.cy/live/livestream playpath=livestream pageUrl=http://jwplayer.mediaserve.com/player.swf live=1 timeout=10</url>
 		</channel>
-		<channel active="True">
+		<channel active="False">
 			<name>EUROPE 1</name>
 			<type></type>
 			<url>http://sjc-uhls-proxy-beta01.ustream.tv/watch/playlist.m3u8?cid=12548227</url>
@@ -188,7 +188,7 @@
 		<channel active="True">
 			<name>ALPHA (2)</name>
 			<type></type>
-			<url>http://193.92.37.235:1935/liveedge/live@720/media.m3u8</url>
+			<url>http://s1.finoip.com:20000/live/paolo/paolo/3068.m3u8</url>
 		</channel>
 		<channel active="False">
 			<name>ALPHA (3)</name>
