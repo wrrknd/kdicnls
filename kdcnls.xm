@@ -188,7 +188,7 @@
 		<channel active="True">
 			<name>ALPHA (2)</name>
 			<type></type>
-			<url>http://s1.finoip.com:20000/live/paolo/paolo/3068.m3u8</url>
+			<url>http://193.92.37.235:1935/liveedge/live@720/media.m3u8</url>
 		</channel>
 		<channel active="False">
 			<name>ALPHA (3)</name>
