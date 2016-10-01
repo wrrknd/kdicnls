@@ -65,7 +65,7 @@
 			<type>madtv</type>
 			<url>http://apps.route53.mad.tv/youtube/madtv</url>
 		</channel>
-		<channel active="True">
+		<channel active="False">
 			<name>MAD TV CYPRUS</name>
 			<type></type>
 			<url>rtmp://eradio.networksolutions.com.cy/live/livestream playpath=livestream pageUrl=http://jwplayer.mediaserve.com/player.swf live=1 timeout=10</url>
@@ -170,15 +170,15 @@
 			<type></type>
 			<url>http://94.23.218.186:1935/galanos11/galanos11/playlist.m3u8</url>
 		</channel>
-		<channel active="False">
+		<channel active="True">
 			<name>STAR (3)</name>
 			<type></type>
-			<url>rtmp://94.75.240.74:80/alterweb/ playpath=alterweb.stream pageUrl=http://www.kanalia.eu/player/jwplayer/player.php live=1 timeout=10</url>
+			<url>http://s1.ukhdtv.com:7860/live/gary/gary/1437.m3u8</url>
 		</channel>
 		<channel active="False">
 			<name>STAR (4)</name>
 			<type></type>
-			<url></url>
+			<url>rtmp://94.75.240.74:80/alterweb/ playpath=alterweb.stream pageUrl=http://www.kanalia.eu/player/jwplayer/player.php live=1 timeout=10</url>
 		</channel>
 		<channel active="False">
 			<name>STAR (5)</name>
