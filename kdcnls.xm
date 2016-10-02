@@ -70,7 +70,7 @@
 			<type></type>
 			<url>rtmp://eradio.networksolutions.com.cy/live/livestream playpath=livestream pageUrl=http://jwplayer.mediaserve.com/player.swf live=1 timeout=10</url>
 		</channel>
-		<channel active="True">
+		<channel active="False">
 			<name>EUROPE 1</name>
 			<type></type>
 			<url>http://sjc-uhls-proxy-beta01.ustream.tv/watch/playlist.m3u8?cid=12548227</url>
