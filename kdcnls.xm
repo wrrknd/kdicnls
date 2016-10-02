@@ -135,7 +135,7 @@
 			<type></type>
 			<url>rtmp://live.streams.ovh/galanos55/galanos55 playpath=galanos55 pageUrl=http://live.cast-control.eu/system/misc/jwplayer6/jwplayer.flash.swf live=1 timeout=10</url>
 		</channel>
-		<channel active="True">
+		<channel active="False">
 			<name>MEGA (3)</name>
 			<type></type>
 			<url>http://orbit-iptv.com:2500/live/Jacques3/Jacques3/2362.m3u8</url>
@@ -170,7 +170,7 @@
 			<type></type>
 			<url>http://94.23.218.186:1935/galanos11/galanos11/playlist.m3u8</url>
 		</channel>
-		<channel active="True">
+		<channel active="False">
 			<name>STAR (3)</name>
 			<type></type>
 			<url>http://orbit-iptv.com:2500/live/Jacques3/Jacques3/3209.m3u8</url>
