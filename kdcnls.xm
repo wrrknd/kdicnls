@@ -165,10 +165,10 @@
 			<type></type>
 			<url></url>
 		</channel>
-		<channel active="True">
+		<channel active="False">
 			<name>STAR (2)</name>
 			<type></type>
-			<url>http://iptv.re/live/1/1/3538.m3u8</url>
+			<url></url>
 		</channel>
 		<channel active="False">
 			<name>STAR (3)</name>
