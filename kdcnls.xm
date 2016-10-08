@@ -23,7 +23,7 @@
 		<channel active="True">
 			<name>ANT1</name>
 			<type></type>
-			<url>http://antennatv-lh.akamaihd.net/i/live_1@329667/master.m3u8</url>
+			<url>http://antglantennatv-lh.akamaihd.net/i/live_1@421307/master.m3u8</url>
 		</channel>
 		<channel active="True">
 			<name>STAR</name>
