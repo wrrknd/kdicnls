@@ -130,10 +130,10 @@
 			<type></type>
 			<url></url>
 		</channel>
-		<channel active="False">
+		<channel active="True">
 			<name>MEGA (2)</name>
 			<type></type>
-			<url>rtmp://live.streams.ovh/galanos55/galanos55 playpath=galanos55 pageUrl=http://live.cast-control.eu/system/misc/jwplayer6/jwplayer.flash.swf live=1 timeout=10</url>
+			<url>rtmpe://79.124.59.218/ovc/apeirontv2686 swfUrl=http://akamaistreaming.com/YjFlMTI0MT/jwplayer.flash.swf token=d.r.o.p.S.t.r.e.a.m flashver=WIN/2023,0,0,162 live=1 timeout=15 pageUrl=http://akamaistreaming.com/zn.php?id=31170</url>
 		</channel>
 		<channel active="False">
 			<name>MEGA (3)</name>
@@ -150,10 +150,10 @@
 			<type></type>
 			<url></url>
 		</channel>
-		<channel active="False">
+		<channel active="True">
 			<name>ANT1 (2)</name>
 			<type></type>
-			<url></url>
+			<url>rtmpe://79.124.59.218/ovc/apeiron1793 swfUrl=http://akamaistreaming.com/YjFlMTI0MT/jwplayer.flash.swf token=d.r.o.p.S.t.r.e.a.m flashver=WIN/2023,0,0,162 live=1 timeout=15 pageUrl=http://akamaistreaming.com/zn.php?id=31169</url>
 		</channel>
 		<channel active="False">
 			<name>ANT1 (3)</name>
@@ -165,10 +165,10 @@
 			<type></type>
 			<url></url>
 		</channel>
-		<channel active="False">
+		<channel active="True">
 			<name>STAR (2)</name>
 			<type></type>
-			<url></url>
+			<url>rtmpe://79.124.59.218/ovc/elinikes660 swfUrl=http://akamaistreaming.com/YjFlMTI0MT/jwplayer.flash.swf token=d.r.o.p.S.t.r.e.a.m flashver=WIN/2023,0,0,162 live=1 timeout=15 pageUrl=http://akamaistreaming.com/zn.php?id=31182</url>
 		</channel>
 		<channel active="False">
 			<name>STAR (3)</name>
