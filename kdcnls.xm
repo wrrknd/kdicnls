@@ -70,7 +70,7 @@
 			<type></type>
 			<url>rtmp://eradio.networksolutions.com.cy/live/livestream playpath=livestream pageUrl=http://jwplayer.mediaserve.com/player.swf live=1 timeout=10</url>
 		</channel>
-		<channel active="True">
+		<channel active="False">
 			<name>EUROPE 1</name>
 			<type></type>
 			<url>http://sjc-uhls-proxy-beta01.ustream.tv/watch/playlist.m3u8?cid=12548227</url>
@@ -95,10 +95,10 @@
 			<type></type>
 			<url>plugin://plugin.video.youtube/play/?video_id=-wnkHy7t2pY</url>
 		</channel>
-		<channel active="False">
+		<channel active="True">
 			<name>ERT1 (4)</name>
 			<type></type>
-			<url>rtmp://live.streams.ovh/galanos58/galanos58 playpath=galanos58 pageUrl=http://live.cast-control.eu/system/misc/jwplayer6/jwplayer.flash.swf live=1 timeout=10</url>
+			<url>rtmpe://79.124.59.218/ovc/ert947 swfUrl=http://akamaistreaming.com/YjFlMTI0MT/jwplayer.flash.swf token=d.r.o.p.S.t.r.e.a.m flashver=WIN\2023,0,0,162 live=1 timeout=15 pageUrl=http://akamaistreaming.com/gen_s.php?id=31275</url>
 		</channel>
 		<channel active="True">
 			<name>ERT2 (2)</name>
