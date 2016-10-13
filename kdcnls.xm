@@ -155,10 +155,10 @@
 			<type></type>
 			<url>rtmpe://79.124.59.218/ovc/apeiron1793 swfUrl=http://akamaistreaming.com/YjFlMTI0MT/jwplayer.flash.swf token=d.r.o.p.S.t.r.e.a.m flashver=WIN/2023,0,0,162 live=1 timeout=15 pageUrl=http://akamaistreaming.com/zn.php?id=31169</url>
 		</channel>
-		<channel active="False">
+		<channel active="True">
 			<name>ANT1 (3)</name>
 			<type></type>
-			<url></url>
+			<url>http://137.74.171.115:1935/galanos/live/playlist.m3u8</url>
 		</channel>
 		<channel active="False">
 			<name>ANT1 (4)</name>
