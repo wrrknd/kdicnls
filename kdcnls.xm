@@ -22,17 +22,17 @@
 		</channel>
 		<channel active="True">
 			<name>ANT1</name>
-			<type>hls</type>
+			<type></type>
 			<url>http://antglantennatv-lh.akamaihd.net/i/live_1@421307/master.m3u8</url>
 		</channel>
 		<channel active="True">
 			<name>STAR</name>
-			<type>hls</type>
+			<type></type>
 			<url>http://starhdlive2-lh.akamaihd.net/i/live_1@181243/master.m3u8</url>
 		</channel>
 		<channel active="True">
 			<name>ALPHA</name>
-			<type>hls</type>
+			<type></type>
 			<url>http://193.92.37.235:1935/liveedge/live@720/playlist.m3u8</url>
 		</channel>
 		<channel active="True">
@@ -42,22 +42,22 @@
 		</channel>
 		<channel active="True">
 			<name>E TV</name>
-			<type>hls</type>
+			<type></type>
 			<url>https://57b1c3ae400ed.streamlock.net/live/epsilontv/playlist.m3u8</url>
 		</channel>
 		<channel active="False">
 			<name>MACEDONIA TV</name>
-			<type>hls</type>
+			<type></type>
 			<url>http://stream.maktv.gr/i/live_1@332903/master.m3u8</url>
 		</channel>
 		<channel active="True">
 			<name>KONTRA CHANNEL</name>
-			<type>hls</type>
+			<type></type>
 			<url>http://flashcloud.mediacdn.com/live/kontratv/playlist.m3u8</url>
 		</channel>
 		<channel active="True">
 			<name>EXTRA 3</name>
-			<type>hls</type>
+			<type></type>
 			<url>http://213.16.167.186:1935/live/mpegts_256.stream/playlist.m3u8</url>
 		</channel>
 		<channel active="False">
@@ -77,12 +77,12 @@
 		</channel>
 		<channel active="True">
 			<name>BOYLH TV</name>
-			<type>hls</type>
+			<type></type>
 			<url>http://streamer-cache.grnet.gr/parliament/hls/webtv.m3u8</url>
 		</channel>
 		<channel active="False">
 			<name>BOYLH TV (2)</name>
-			<type>hls</type>
+			<type></type>
 			<url>http://streamer-cache.grnet.gr/parliament/hls/webtv2.m3u8</url>
 		</channel>
 		<channel active="True">
@@ -132,7 +132,7 @@
 		</channel>
 		<channel active="True">
 			<name>MEGA (2)</name>
-			<type>hls</type>
+			<type></type>
 			<url>http://137.74.171.115:1935/galanos/live2/playlist.m3u8</url>
 		</channel>
 		<channel active="False">
@@ -152,7 +152,7 @@
 		</channel>
 		<channel active="True">
 			<name>ANT1 (2)</name>
-			<type>hls</type>
+			<type></type>
 			<url>http://137.74.171.115:1935/galanos/live/playlist.m3u8</url>
 		</channel>
 		<channel active="False">
@@ -167,7 +167,7 @@
 		</channel>
 		<channel active="True">
 			<name>STAR (2)</name>
-			<type>hls</type>
+			<type></type>
 			<url>http://137.74.171.115:1935/galanos/live1/playlist.m3u8</url>
 		</channel>
 		<channel active="False">
@@ -187,7 +187,7 @@
 		</channel>
 		<channel active="True">
 			<name>ALPHA (2)</name>
-			<type>hls</type>
+			<type></type>
 			<url>http://193.92.37.235:1935/liveedge/live@720/media.m3u8</url>
 		</channel>
 		<channel active="False">
@@ -202,7 +202,7 @@
 		</channel>
 		<channel active="True">
 			<name>SKAI (2)</name>
-			<type>hls</type>
+			<type></type>
 			<url>http://stream.ssh101.com:1935/live/skaichannel/playlist.m3u8</url>
 		</channel>
 		<channel active="False">
