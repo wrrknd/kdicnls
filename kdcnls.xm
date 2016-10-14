@@ -45,7 +45,7 @@
 			<type></type>
 			<url>https://57b1c3ae400ed.streamlock.net/live/epsilontv/playlist.m3u8</url>
 		</channel>
-		<channel active="True">
+		<channel active="False">
 			<name>MACEDONIA TV</name>
 			<type></type>
 			<url>http://stream.maktv.gr/i/live_1@332903/master.m3u8</url>
@@ -133,7 +133,7 @@
 		<channel active="True">
 			<name>MEGA (2)</name>
 			<type></type>
-			<url>rtmpe://79.124.59.218/ovc/apeirontv2686 swfUrl=http://akamaistreaming.com/YjFlMTI0MT/jwplayer.flash.swf token=d.r.o.p.S.t.r.e.a.m flashver=WIN/2023,0,0,162 live=1 timeout=15 pageUrl=http://akamaistreaming.com/zn.php?id=31170</url>
+			<url>http://137.74.171.115:1935/galanos/live2/playlist.m3u8</url>
 		</channel>
 		<channel active="False">
 			<name>MEGA (3)</name>
@@ -153,12 +153,12 @@
 		<channel active="True">
 			<name>ANT1 (2)</name>
 			<type></type>
-			<url>rtmpe://79.124.59.218/ovc/apeiron1793 swfUrl=http://akamaistreaming.com/YjFlMTI0MT/jwplayer.flash.swf token=d.r.o.p.S.t.r.e.a.m flashver=WIN/2023,0,0,162 live=1 timeout=15 pageUrl=http://akamaistreaming.com/zn.php?id=31169</url>
+			<url>http://137.74.171.115:1935/galanos/live/playlist.m3u8</url>
 		</channel>
-		<channel active="True">
+		<channel active="False">
 			<name>ANT1 (3)</name>
 			<type></type>
-			<url>http://137.74.171.115:1935/galanos/live/playlist.m3u8</url>
+			<url></url>
 		</channel>
 		<channel active="False">
 			<name>ANT1 (4)</name>
@@ -168,7 +168,7 @@
 		<channel active="True">
 			<name>STAR (2)</name>
 			<type></type>
-			<url>rtmpe://79.124.59.218/ovc/elinikes660 swfUrl=http://akamaistreaming.com/YjFlMTI0MT/jwplayer.flash.swf token=d.r.o.p.S.t.r.e.a.m flashver=WIN/2023,0,0,162 live=1 timeout=15 pageUrl=http://akamaistreaming.com/zn.php?id=31182</url>
+			<url>http://137.74.171.115:1935/galanos/live1/playlist.m3u8</url>
 		</channel>
 		<channel active="False">
 			<name>STAR (3)</name>
