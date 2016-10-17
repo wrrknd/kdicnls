@@ -188,7 +188,7 @@
 		<channel active="True">
 			<name>ALPHA (2)</name>
 			<type></type>
-			<url>http://193.92.37.235:1935/liveedge/live@720/media.m3u8</url>
+			<url>mmsh://38.99.163.111/alpha</url>
 		</channel>
 		<channel active="False">
 			<name>ALPHA (3)</name>
