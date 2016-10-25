@@ -95,20 +95,20 @@
 			<type></type>
 			<url>plugin://plugin.video.youtube/play/?video_id=-wnkHy7t2pY</url>
 		</channel>
-		<channel active="False">
+		<channel active="True">
 			<name>ERT1 (4)</name>
 			<type></type>
-			<url>rtmpe://79.124.59.218/ovc/ert947 swfUrl=http://akamaistreaming.com/YjFlMTI0MT/jwplayer.flash.swf token=d.r.o.p.S.t.r.e.a.m flashver=WIN\2023,0,0,162 live=1 timeout=15 pageUrl=http://akamaistreaming.com/gen_s.php?id=31275</url>
+			<url>mmsh://38.99.163.111:80/net</url>
 		</channel>
 		<channel active="True">
 			<name>ERT2 (2)</name>
 			<type></type>
 			<url>plugin://plugin.video.youtube/play/?video_id=7IVPHnffeHs</url>
 		</channel>
-		<channel active="False">
+		<channel active="True">
 			<name>ERT2 (3)</name>
 			<type></type>
-			<url></url>
+			<url>mmsh://38.99.163.111/ert2</url>
 		</channel>
 		<channel active="False">
 			<name>ERT2 (4)</name>
@@ -120,10 +120,10 @@
 			<type></type>
 			<url>plugin://plugin.video.youtube/play/?video_id=NdrihJS8-5g</url>
 		</channel>
-		<channel active="False">
+		<channel active="True">
 			<name>ERT3 (3)</name>
 			<type></type>
-			<url></url>
+			<url>mmsh://38.99.163.111/ertHD</url>
 		</channel>
 		<channel active="False">
 			<name>ERT3 (4)</name>
@@ -215,10 +215,10 @@
 			<type></type>
 			<url></url>
 		</channel>
-		<channel active="False">
+		<channel active="True">
 			<name>E TV (2)</name>
 			<type></type>
-			<url></url>
+			<url>mmsh://38.99.163.111/epsilon</url>
 		</channel>
 		<channel active="False">
 			<name>E TV (3)</name>
