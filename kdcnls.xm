@@ -45,10 +45,10 @@
 			<type></type>
 			<url>https://57b1c3ae400ed.streamlock.net/live/epsilontv/playlist.m3u8</url>
 		</channel>
-		<channel active="False">
+		<channel active="True">
 			<name>MACEDONIA TV</name>
 			<type></type>
-			<url>http://stream.maktv.gr/i/live_1@332903/master.m3u8</url>
+			<url>http://anglantennalive5-lh.akamaihd.net/i/live_1@424766/master.m3u8</url>
 		</channel>
 		<channel active="True">
 			<name>KONTRA CHANNEL</name>
