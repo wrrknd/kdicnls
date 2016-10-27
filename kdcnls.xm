@@ -95,7 +95,7 @@
 			<type></type>
 			<url>plugin://plugin.video.youtube/play/?video_id=-wnkHy7t2pY</url>
 		</channel>
-		<channel active="True">
+		<channel active="False">
 			<name>ERT1 (4)</name>
 			<type></type>
 			<url>mmsh://38.99.163.111:80/net</url>
@@ -105,7 +105,7 @@
 			<type></type>
 			<url>plugin://plugin.video.youtube/play/?video_id=7IVPHnffeHs</url>
 		</channel>
-		<channel active="True">
+		<channel active="False">
 			<name>ERT2 (3)</name>
 			<type></type>
 			<url>mmsh://38.99.163.111/ert2</url>
@@ -120,7 +120,7 @@
 			<type></type>
 			<url>plugin://plugin.video.youtube/play/?video_id=NdrihJS8-5g</url>
 		</channel>
-		<channel active="True">
+		<channel active="False">
 			<name>ERT3 (3)</name>
 			<type></type>
 			<url>mmsh://38.99.163.111/ertHD</url>
@@ -135,7 +135,7 @@
 			<type></type>
 			<url>http://137.74.171.115:1935/galanos/1951live1/playlist.m3u8</url>
 		</channel>
-		<channel active="True">
+		<channel active="False">
 			<name>MEGA (3)</name>
 			<type></type>
 			<url>mmsh://38.99.163.111/mega</url>
@@ -155,7 +155,7 @@
 			<type></type>
 			<url>http://137.74.171.115:1935/galanos/1951live/playlist.m3u8</url>
 		</channel>
-		<channel active="True">
+		<channel active="False">
 			<name>ANT1 (3)</name>
 			<type></type>
 			<url>mmsh://38.99.163.111/ant1</url>
@@ -170,7 +170,7 @@
 			<type></type>
 			<url>http://137.74.171.115:1935/galanos/1951live2/playlist.m3u8</url>
 		</channel>
-		<channel active="True">
+		<channel active="False">
 			<name>STAR (3)</name>
 			<type></type>
 			<url>mmsh://38.99.163.111/star</url>
@@ -185,7 +185,7 @@
 			<type></type>
 			<url>/</url>
 		</channel>
-		<channel active="True">
+		<channel active="False">
 			<name>ALPHA (2)</name>
 			<type></type>
 			<url>mmsh://38.99.163.111/alpha</url>
@@ -205,7 +205,7 @@
 			<type></type>
 			<url>http://stream.ssh101.com:1935/live/skaichannel/playlist.m3u8</url>
 		</channel>
-		<channel active="True">
+		<channel active="False">
 			<name>SKAI (3)</name>
 			<type></type>
 			<url>mmsh://38.99.163.111/skai</url>
@@ -215,7 +215,7 @@
 			<type></type>
 			<url></url>
 		</channel>
-		<channel active="True">
+		<channel active="False">
 			<name>E TV (2)</name>
 			<type></type>
 			<url>mmsh://38.99.163.111/epsilon</url>
