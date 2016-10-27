@@ -98,7 +98,7 @@
 		<channel active="False">
 			<name>ERT1 (4)</name>
 			<type></type>
-			<url>mmsh://38.99.163.111:80/net</url>
+			<url></url>
 		</channel>
 		<channel active="True">
 			<name>ERT2 (2)</name>
@@ -108,7 +108,7 @@
 		<channel active="False">
 			<name>ERT2 (3)</name>
 			<type></type>
-			<url>mmsh://38.99.163.111/ert2</url>
+			<url></url>
 		</channel>
 		<channel active="False">
 			<name>ERT2 (4)</name>
@@ -123,7 +123,7 @@
 		<channel active="False">
 			<name>ERT3 (3)</name>
 			<type></type>
-			<url>mmsh://38.99.163.111/ertHD</url>
+			<url></url>
 		</channel>
 		<channel active="False">
 			<name>ERT3 (4)</name>
@@ -138,7 +138,7 @@
 		<channel active="False">
 			<name>MEGA (3)</name>
 			<type></type>
-			<url>mmsh://38.99.163.111/mega</url>
+			<url></url>
 		</channel>
 		<channel active="False">
 			<name>MEGA (4)</name>
@@ -158,7 +158,7 @@
 		<channel active="False">
 			<name>ANT1 (3)</name>
 			<type></type>
-			<url>mmsh://38.99.163.111/ant1</url>
+			<url></url>
 		</channel>
 		<channel active="False">
 			<name>ANT1 (4)</name>
@@ -173,7 +173,7 @@
 		<channel active="False">
 			<name>STAR (3)</name>
 			<type></type>
-			<url>mmsh://38.99.163.111/star</url>
+			<url></url>
 		</channel>
 		<channel active="False">
 			<name>STAR (4)</name>
@@ -188,7 +188,7 @@
 		<channel active="False">
 			<name>ALPHA (2)</name>
 			<type></type>
-			<url>mmsh://38.99.163.111/alpha</url>
+			<url></url>
 		</channel>
 		<channel active="False">
 			<name>ALPHA (3)</name>
@@ -208,7 +208,7 @@
 		<channel active="False">
 			<name>SKAI (3)</name>
 			<type></type>
-			<url>mmsh://38.99.163.111/skai</url>
+			<url></url>
 		</channel>
 		<channel active="False">
 			<name>SKAI (4)</name>
@@ -218,7 +218,7 @@
 		<channel active="False">
 			<name>E TV (2)</name>
 			<type></type>
-			<url>mmsh://38.99.163.111/epsilon</url>
+			<url></url>
 		</channel>
 		<channel active="False">
 			<name>E TV (3)</name>
