@@ -185,10 +185,10 @@
 			<type></type>
 			<url>/</url>
 		</channel>
-		<channel active="False">
+		<channel active="True">
 			<name>ALPHA (2)</name>
 			<type></type>
-			<url></url>
+			<url>http://stream2.svbllc.com:1935/alpha/alpha.stream/playlist.m3u8</url>
 		</channel>
 		<channel active="False">
 			<name>ALPHA (3)</name>
