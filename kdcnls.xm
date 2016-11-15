@@ -55,12 +55,12 @@
 			<type></type>
 			<url>http://flashcloud.mediacdn.com/live/kontratv/playlist.m3u8</url>
 		</channel>
-		<channel active="True">
+		<channel active="False">
 			<name>TV 100</name>
 			<type></type>
 			<url>http://178.62.176.153:1935/TV100/myStream/master.m3u8</url>
 		</channel>
-		<channel active="True">
+		<channel active="False">
 			<name>BLUE SKY</name>
 			<type></type>
 			<url>http://136.243.200.184:1935/live/tvlive/playlist.m3u8</url>
