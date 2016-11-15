@@ -56,6 +56,16 @@
 			<url>http://flashcloud.mediacdn.com/live/kontratv/playlist.m3u8</url>
 		</channel>
 		<channel active="True">
+			<name>TV 100</name>
+			<type></type>
+			<url>http://178.62.176.153:1935/TV100/myStream/master.m3u8</url>
+		</channel>
+		<channel active="True">
+			<name>BLUE SKY</name>
+			<type></type>
+			<url>http://136.243.200.184:1935/live/tvlive/playlist.m3u8</url>
+		</channel>
+		<channel active="True">
 			<name>EXTRA 3</name>
 			<type></type>
 			<url>http://213.16.167.186:1935/live/mpegts_256.stream/playlist.m3u8</url>
@@ -188,12 +198,12 @@
 		<channel active="True">
 			<name>ALPHA (2)</name>
 			<type></type>
-			<url>http://stream2.svbllc.com:1935/alpha/alpha.stream/playlist.m3u8</url>
+			<url>plugin://plugin.video.youtube/play/?video_id=a67XGboEcdw</url>
 		</channel>
-		<channel active="False">
+		<channel active="True">
 			<name>ALPHA (3)</name>
 			<type></type>
-			<url></url>
+			<url>http://stream2.svbllc.com:1935/alpha/alpha.stream/playlist.m3u8</url>
 		</channel>
 		<channel active="False">
 			<name>ALPHA (4)</name>
