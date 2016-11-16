@@ -55,12 +55,12 @@
 			<type></type>
 			<url>http://flashcloud.mediacdn.com/live/kontratv/playlist.m3u8</url>
 		</channel>
-		<channel active="False">
+		<channel active="True">
 			<name>TV 100</name>
 			<type></type>
 			<url>http://178.62.176.153:1935/TV100/myStream/master.m3u8</url>
 		</channel>
-		<channel active="False">
+		<channel active="True">
 			<name>BLUE SKY</name>
 			<type></type>
 			<url>http://136.243.200.184:1935/live/tvlive/playlist.m3u8</url>
@@ -145,10 +145,10 @@
 			<type></type>
 			<url>http://137.74.171.115:1935/galanos/a1951live1/playlist.m3u8</url>
 		</channel>
-		<channel active="False">
+		<channel active="True">
 			<name>MEGA (3)</name>
 			<type></type>
-			<url></url>
+			<url>http://stream.greekelitetv.com:1935/mega/mega.stream/playlist.m3u8</url>
 		</channel>
 		<channel active="False">
 			<name>MEGA (4)</name>
@@ -180,10 +180,10 @@
 			<type></type>
 			<url>http://137.74.171.115:1935/galanos/a1951live2/playlist.m3u8</url>
 		</channel>
-		<channel active="False">
+		<channel active="True">
 			<name>STAR (3)</name>
 			<type></type>
-			<url></url>
+			<url>http://stream.greekelitetv.com:1935/star/star.stream/playlist.m3u8</url>
 		</channel>
 		<channel active="False">
 			<name>STAR (4)</name>
@@ -225,10 +225,10 @@
 			<type></type>
 			<url></url>
 		</channel>
-		<channel active="False">
+		<channel active="True">
 			<name>E TV (2)</name>
 			<type></type>
-			<url></url>
+			<url>http://stream.greekelitetv.com:1935/epsilon/epsilon.stream/playlist.m3u8</url>
 		</channel>
 		<channel active="False">
 			<name>E TV (3)</name>
@@ -239,5 +239,15 @@
 			<name>E TV (4)</name>
 			<type></type>
 			<url></url>
+		</channel>
+		<channel active="True">
+			<name>TV 100 (2)</name>
+			<type></type>
+			<url>rtsp://178.62.176.153:1935/TV100/myStream</url>
+		</channel>
+		<channel active="True">
+			<name>BLUE SKY (2)</name>
+			<type></type>
+			<url>http://stream.greekelitetv.com:1935/bluesky/bluesky.stream/playlist.m3u8</url>
 		</channel>
 </channels>
