@@ -58,7 +58,7 @@
 		<channel active="True">
 			<name>TV 100</name>
 			<type></type>
-			<url>http://178.62.176.153:1935/TV100/myStream/master.m3u8</url>
+			<url>rtsp://178.62.176.153:1935/TV100/myStream</url>
 		</channel>
 		<channel active="True">
 			<name>BLUE SKY</name>
@@ -210,7 +210,7 @@
 			<type></type>
 			<url></url>
 		</channel>
-		<channel active="True">
+		<channel active="False">
 			<name>SKAI (2)</name>
 			<type></type>
 			<url>http://stream.ssh101.com:1935/live/skaichannel/playlist.m3u8</url>
@@ -240,10 +240,10 @@
 			<type></type>
 			<url></url>
 		</channel>
-		<channel active="True">
+		<channel active="False">
 			<name>TV 100 (2)</name>
 			<type></type>
-			<url>rtsp://178.62.176.153:1935/TV100/myStream</url>
+			<url></url>
 		</channel>
 		<channel active="False">
 			<name>BLUE SKY (2)</name>
