@@ -143,12 +143,12 @@
 		<channel active="True">
 			<name>MEGA (2)</name>
 			<type></type>
-			<url>http://live.streams.ovh:1935/apeiro2/apeiro2/playlist.m3u8</url>
+			<url>http://137.74.171.115:1935/live/1952/playlist.m3u8</url>
 		</channel>
-		<channel active="False">
+		<channel active="True">
 			<name>MEGA (3)</name>
 			<type></type>
-			<url></url>
+			<url>http://stream2.svbllc.com:1935/mega/mega.stream/playlist.m3u8</url>
 		</channel>
 		<channel active="False">
 			<name>MEGA (4)</name>
@@ -160,10 +160,10 @@
 			<type></type>
 			<url></url>
 		</channel>
-		<channel active="True">
+		<channel active="False">
 			<name>ANT1 (2)</name>
 			<type></type>
-			<url>http://live.streams.ovh:1935/apeiro1/apeiro1/playlist.m3u8</url>
+			<url></url>
 		</channel>
 		<channel active="False">
 			<name>ANT1 (3)</name>
@@ -178,7 +178,7 @@
 		<channel active="True">
 			<name>STAR (2)</name>
 			<type></type>
-			<url>http://live.streams.ovh:1935/apeiro3/apeiro3/playlist.m3u8</url>
+			<url>http://137.74.171.115:1935/live/1951/playlist.m3u8</url>
 		</channel>
 		<channel active="False">
 			<name>STAR (3)</name>
@@ -198,12 +198,12 @@
 		<channel active="True">
 			<name>ALPHA (2)</name>
 			<type></type>
-			<url>plugin://plugin.video.youtube/play/?video_id=a67XGboEcdw</url>
+			<url>http://stream2.svbllc.com:1935/alpha/alpha.stream/playlist.m3u8</url>
 		</channel>
-		<channel active="True">
+		<channel active="False">
 			<name>ALPHA (3)</name>
 			<type></type>
-			<url>http://stream2.svbllc.com:1935/alpha/alpha.stream/playlist.m3u8</url>
+			<url></url>
 		</channel>
 		<channel active="False">
 			<name>ALPHA (4)</name>
