@@ -3,17 +3,17 @@
 		<channel active="True">
 			<name>ERT1</name>
 			<type></type>
-			<url>plugin://plugin.video.youtube/play/?video_id=wyBm8cFiUp0</url>
+			<url>plugin://plugin.video.youtube/play/?video_id=Zx98moCvkpU</url>
 		</channel>
 		<channel active="True">
 			<name>ERT2</name>
 			<type></type>
-			<url>plugin://plugin.video.youtube/play/?video_id=Zjbwf5QE7aI</url>
+			<url>plugin://plugin.video.youtube/play/?video_id=qBxbnSwOrxE</url>
 		</channel>
 		<channel active="True">
 			<name>ERT3</name>
 			<type></type>
-			<url>plugin://plugin.video.youtube/play/?video_id=nxebm_-DkF0</url>
+			<url>plugin://plugin.video.youtube/play/?video_id=ECbJrjrcCUE</url>
 		</channel>
 			<channel active="True">
 			<name>MEGA</name>
@@ -98,12 +98,12 @@
 		<channel active="True">
 			<name>ERT1 (2)</name>
 			<type></type>
-			<url>plugin://plugin.video.youtube/play/?video_id=gnnO4TeJG-4</url>
+			<url>plugin://plugin.video.youtube/play/?video_id=pFp1gkaq-gE</url>
 		</channel>
 		<channel active="True">
 			<name>ERT1 (3)</name>
 			<type></type>
-			<url>plugin://plugin.video.youtube/play/?video_id=-wnkHy7t2pY</url>
+			<url>plugin://plugin.video.youtube/play/?video_id=qRY56sJJ2to</url>
 		</channel>
 		<channel active="False">
 			<name>ERT1 (4)</name>
@@ -113,7 +113,7 @@
 		<channel active="True">
 			<name>ERT2 (2)</name>
 			<type></type>
-			<url>plugin://plugin.video.youtube/play/?video_id=7IVPHnffeHs</url>
+			<url>plugin://plugin.video.youtube/play/?video_id=AOVVjaLbGEk</url>
 		</channel>
 		<channel active="False">
 			<name>ERT2 (3)</name>
@@ -128,7 +128,7 @@
 		<channel active="True">
 			<name>ERT3 (2)</name>
 			<type></type>
-			<url>plugin://plugin.video.youtube/play/?video_id=NdrihJS8-5g</url>
+			<url>plugin://plugin.video.youtube/play/?video_id=jSbNRrvwk4Q</url>
 		</channel>
 		<channel active="False">
 			<name>ERT3 (3)</name>
