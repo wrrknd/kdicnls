@@ -143,7 +143,7 @@
 		<channel active="True">
 			<name>MEGA (2)</name>
 			<type></type>
-			<url>http://46.4.122.162:1935/2233cb627a3/2233cb627a3/playlist.m3u8</url>
+			<url>http://46.4.122.162:1935/1300/live/playlist.m3u8</url>
 		</channel>
 		<channel active="True">
 			<name>MEGA (3)</name>
@@ -163,7 +163,7 @@
 		<channel active="True">
 			<name>ANT1 (2)</name>
 			<type></type>
-			<url>http://46.4.122.162:1935/2533cb627/2533cb627/playlist.m3u8</url>
+			<url>http://46.4.122.162:1935/1200/live/playlist.m3u8</url>
 		</channel>
 		<channel active="False">
 			<name>ANT1 (3)</name>
@@ -178,7 +178,7 @@
 		<channel active="True">
 			<name>STAR (2)</name>
 			<type></type>
-			<url>http://46.4.122.162:1935/1133cb627/1133cb627/playlist.m3u8</url>
+			<url>http://46.4.122.162:1935/1400/live/playlist.m3u8</url>
 		</channel>
 		<channel active="False">
 			<name>STAR (3)</name>
