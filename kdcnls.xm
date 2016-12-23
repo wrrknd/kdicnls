@@ -78,7 +78,7 @@
 		<channel active="True">
 			<name>MAD TV CYPRUS</name>
 			<type></type>
-			<url>rtmp://eradio.networksolutions.com.cy/live/livestream/url>
+			<url>rtmp://eradio.networksolutions.com.cy/live/livestream</url>
 		</channel>
 		<channel active="False">
 			<name>EUROPE 1</name>
