@@ -65,7 +65,7 @@
 			<type></type>
 			<url>http://136.243.200.184:1935/live/tvlive/playlist.m3u8</url>
 		</channel>
-		<channel active="True">
+		<channel active="False">
 			<name>EXTRA 3</name>
 			<type></type>
 			<url>http://213.16.167.186:1935/live/mpegts_256.stream/playlist.m3u8</url>
