@@ -75,10 +75,10 @@
 			<type>madtv</type>
 			<url>http://apps.route53.mad.tv/youtube/madtv</url>
 		</channel>
-		<channel active="False">
+		<channel active="True">
 			<name>MAD TV CYPRUS</name>
 			<type></type>
-			<url>rtmp://eradio.networksolutions.com.cy/live/livestream playpath=livestream pageUrl=http://jwplayer.mediaserve.com/player.swf live=1 timeout=10</url>
+			<url>rtmp://eradio.networksolutions.com.cy/live/livestream/url>
 		</channel>
 		<channel active="False">
 			<name>EUROPE 1</name>
