@@ -143,7 +143,7 @@
 		<channel active="True">
 			<name>MEGA (2)</name>
 			<type></type>
-			<url>http://46.4.122.162:1935/6002/live/playlist.m3u8</url>
+			<url>http://46.4.122.162:1935/7000/live/playlist.m3u8</url>
 		</channel>
 		<channel active="True">
 			<name>MEGA (3)</name>
