@@ -178,7 +178,7 @@
 		<channel active="True">
 			<name>STAR (2)</name>
 			<type></type>
-			<url>http://46.4.122.162:1935/6000/live/playlist.m3u8</url>
+			<url>http://46.4.122.162:1935/8000/live/playlist.m3u8</url>
 		</channel>
 		<channel active="False">
 			<name>STAR (3)</name>
