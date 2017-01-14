@@ -143,7 +143,7 @@
 		<channel active="True">
 			<name>MEGA (2)</name>
 			<type></type>
-			<url>http://46.4.122.162:1935/0002/live/playlist.m3u8</url>
+			<url>http://46.4.122.162:1935/002/live/playlist.m3u8</url>
 		</channel>
 		<channel active="True">
 			<name>MEGA (3)</name>
@@ -163,7 +163,7 @@
 		<channel active="True">
 			<name>ANT1 (2)</name>
 			<type></type>
-			<url>http://46.4.122.162:1935/0001/live/playlist.m3u8</url>
+			<url>http://46.4.122.162:1935/001/live/playlist.m3u8</url>
 		</channel>
 		<channel active="False">
 			<name>ANT1 (3)</name>
