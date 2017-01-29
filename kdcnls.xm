@@ -150,7 +150,7 @@
 			<type></type>
 			<url>http://s2.greekelitetv.com:1935/mega/mega.stream/playlist.m3u8</url>
 		</channel>
-		<channel active="False">
+		<channel active="True">
 			<name>MEGA (4)</name>
 			<type></type>
 			<url>http://stream.ssh101.com:1935/live/mega100/playlist.m3u8</url>
