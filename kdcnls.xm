@@ -143,17 +143,17 @@
 		<channel active="True">
 			<name>MEGA (2)</name>
 			<type></type>
-			<url>rtmp://94.75.240.96:1935/mega/mega.sdp</url>
+			<url>http://stream.ssh101.com:1935/live/mega100/playlist.m3u8</url>
 		</channel>
 		<channel active="True">
 			<name>MEGA (3)</name>
 			<type></type>
 			<url>http://s2.greekelitetv.com:1935/mega/mega.stream/playlist.m3u8</url>
 		</channel>
-		<channel active="True">
+		<channel active="False">
 			<name>MEGA (4)</name>
 			<type></type>
-			<url>http://stream.ssh101.com:1935/live/mega100/playlist.m3u8</url>
+			<url></url>
 		</channel>
 		<channel active="True">
 			<name>MEGA Cosmos</name>
@@ -178,17 +178,17 @@
 		<channel active="True">
 			<name>STAR (2)</name>
 			<type></type>
-			<url>rtmp://94.75.240.96:1935/star/star.sdp</url>
+			<url>http://stream.ssh101.com:1935/live/star100/playlist.m3u8</url>
 		</channel>
 		<channel active="True">
 			<name>STAR (3)</name>
 			<type></type>
 			<url>http://s2.greekelitetv.com:1935/star/star.stream/playlist.m3u8</url>
 		</channel>
-		<channel active="True">
+		<channel active="False">
 			<name>STAR (4)</name>
 			<type></type>
-			<url>http://stream.ssh101.com:1935/live/star100/playlist.m3u8</url>
+			<url></url>
 		</channel>
 		<channel active="False">
 			<name>STAR (5)</name>
