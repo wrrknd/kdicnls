@@ -33,7 +33,7 @@
 		<channel active="True">
 			<name>ALPHA</name>
 			<type></type>
-			<url>rtsp://193.92.37.235:1935/LiveEdgeTV/live@720</url>
+			<url>http://193.92.37.235:1935/LiveEdgeTV/live@720/playlist.m3u8</url>
 		</channel>
 		<channel active="True">
 			<name>SKAI</name>
@@ -200,10 +200,10 @@
 			<type></type>
 			<url>http://s2.greekelitetv.com:1935/alpha/alpha.stream/playlist.m3u8</url>
 		</channel>
-		<channel active="False">
+		<channel active="True">
 			<name>ALPHA (3)</name>
 			<type></type>
-			<url></url>
+			<url>rtsp://193.92.37.235:1935/LiveEdgeTV/live@720</url>
 		</channel>		
 		<channel active="True">
 			<name>ALPHA Sat</name>
