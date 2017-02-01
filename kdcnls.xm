@@ -203,7 +203,7 @@
 		<channel active="True">
 			<name>ALPHA (3)</name>
 			<type></type>
-			<url>http://193.92.37.235:1935/LiveEdgeTV/live@720/playlist.m3u8</url>
+			<url>http://193.92.37.235:1935/LiveEdgeTV/live@720/manifest.m3u8</url>
 		</channel>		
 		<channel active="True">
 			<name>ALPHA Sat</name>
