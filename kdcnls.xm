@@ -58,7 +58,7 @@
 		<channel active="True">
 			<name>TV 100</name>
 			<type></type>
-			<url>rtsp://178.62.176.153:1935/TV100/myStream</url>
+			<url>http://178.62.176.153/hls/tv100/index.m3u8</url>
 		</channel>
 		<channel active="True">
 			<name>BLUE SKY</name>
