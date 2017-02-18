@@ -225,10 +225,10 @@
 			<type></type>
 			<url></url>
 		</channel>
-		<channel active="False">
+		<channel active="True">
 			<name>E TV (2)</name>
 			<type></type>
-			<url></url>
+			<url>https://57b1c3ae400ed.streamlock.net/live/epsilontv/playlist.m3u8</url>
 		</channel>
 		<channel active="False">
 			<name>E TV (3)</name>
