@@ -43,7 +43,7 @@
 		<channel active="True">
 			<name>E TV</name>
 			<type></type>
-			<url>https://57c821d91eac3.streamlock.net/live/epsilontv/playlist.m3u8</url>
+			<url>https://57b1c3ae400ed.streamlock.net/live/epsilontv/playlist.m3u8</url>
 		</channel>
 		<channel active="True">
 			<name>MACEDONIA TV</name>
@@ -228,7 +228,7 @@
 		<channel active="True">
 			<name>E TV (2)</name>
 			<type></type>
-			<url>https://57b1c3ae400ed.streamlock.net/live/epsilontv/playlist.m3u8</url>
+			<url>https://57c821d91eac3.streamlock.net/live/epsilontv/playlist.m3u8</url>
 		</channel>
 		<channel active="False">
 			<name>E TV (3)</name>
