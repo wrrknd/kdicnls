@@ -18,7 +18,7 @@
 			<channel active="True">
 			<name>MEGA</name>
 			<type></type>
-			<url>plugin://plugin.video.youtube/play/?video_id=2Y8qsS_xH2Y</url>
+			<url>plugin://plugin.video.youtube/play/?video_id=wI7R80MtIT0</url>
 		</channel>
 		<channel active="True">
 			<name>ANT1</name>
@@ -148,12 +148,12 @@
 		<channel active="True">
 			<name>MEGA (3)</name>
 			<type></type>
-			<url>http://stream2.svbllc.com:1935/mega/mega.stream/playlist.m3u8</url>
+			<url>http://xmega0x.api.channel.livestream.com/3.0/playlist.m3u8</url>
 		</channel>
-		<channel active="False">
+		<channel active="True">
 			<name>MEGA (4)</name>
 			<type></type>
-			<url></url>
+			<url>http://stream2.svbllc.com:1935/mega/mega.stream/playlist.m3u8</url>
 		</channel>
 		<channel active="False">
 			<name>ANT1 (2)</name>
@@ -175,10 +175,10 @@
 			<type></type>
 			<url>http://s2.greekelitetv.com:1935/star/star.stream/playlist.m3u8</url>
 		</channel>
-		<channel active="False">
+		<channel active="True">
 			<name>STAR (3)</name>
 			<type></type>
-			<url></url>
+			<url>rtmp://94.75.240.96:1935/star/star.sdp</url>
 		</channel>
 		<channel active="False">
 			<name>STAR (4)</name>
