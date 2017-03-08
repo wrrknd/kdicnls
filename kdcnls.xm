@@ -148,7 +148,7 @@
 		<channel active="True">
 			<name>MEGA (3)</name>
 			<type></type>
-			<url>http://xmega0x.api.channel.livestream.com/3.0/playlist.m3u8</url>
+			<url>rtmp://94.75.240.96:1935/mega/mega.sdp</url>
 		</channel>
 		<channel active="True">
 			<name>MEGA (4)</name>
