@@ -18,7 +18,7 @@
 			<channel active="True">
 			<name>MEGA</name>
 			<type></type>
-			<url>plugin://plugin.video.youtube/play/?video_id=FQ3a0uRdx9E</url>
+			<url>plugin://plugin.video.youtube/play/?video_id=FlGQYLvbqPQ</url>
 		</channel>
 		<channel active="True">
 			<name>ANT1</name>
