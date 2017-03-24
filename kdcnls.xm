@@ -230,10 +230,10 @@
 			<type></type>
 			<url>https://57c821d91eac3.streamlock.net/live/epsilontv/playlist.m3u8</url>
 		</channel>
-		<channel active="False">
+		<channel active="True">
 			<name>E TV (3)</name>
 			<type></type>
-			<url></url>
+			<url>http://88.198.90.103:1935/live/mp4:epsilontv_720p/playlist.m3u8</url>
 		</channel>
 		<channel active="False">
 			<name>E TV (4)</name>
