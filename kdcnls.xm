@@ -63,7 +63,7 @@
 		<channel active="True">
 			<name>BLUE SKY</name>
 			<type></type>
-			<url>http://136.243.200.184:1935/live/tvlive/playlist.m3u8</url>
+			<url>plugin://plugin.video.youtube/play/?video_id=BQEgopNTX-8</url>
 		</channel>
 		<channel active="False">
 			<name>EXTRA 3</name>
