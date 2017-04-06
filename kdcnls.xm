@@ -43,7 +43,7 @@
 		<channel active="True">
 			<name>E TV</name>
 			<type></type>
-			<url>https://s3.streamings.gr/epsilontv/epsilontv.m3u8</url>
+			<url>https://origin1.streamings.gr/epsilontv</url>
 		</channel>
 		<channel active="True">
 			<name>MACEDONIA TV</name>
