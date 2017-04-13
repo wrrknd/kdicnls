@@ -18,7 +18,7 @@
 			<channel active="True">
 			<name>MEGA</name>
 			<type></type>
-			<url>http://38.99.163.117/nimble_live/mega_low/playlist.m3u8</url>
+			<url>rtmp://94.75.240.96:1935/mega/mega.sdp</url>
 		</channel>
 		<channel active="True">
 			<name>ANT1</name>
@@ -145,10 +145,10 @@
 			<type></type>
 			<url>http://s2.greekelitetv.com:1935/mega/mega.stream/playlist.m3u8</url>
 		</channel>
-		<channel active="True">
+		<channel active="False">
 			<name>MEGA (3)</name>
 			<type></type>
-			<url>rtmp://94.75.240.96:1935/mega/mega.sdp</url>
+			<url></url>
 		</channel>
 		<channel active="True">
 			<name>MEGA (4)</name>
