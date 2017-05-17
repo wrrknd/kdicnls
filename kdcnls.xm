@@ -18,7 +18,7 @@
 			<channel active="True">
 			<name>MEGA</name>
 			<type></type>
-			<url>plugin://plugin.video.youtube/play/?video_id=pgXdDLCq64Y</url>
+			<url>plugin://plugin.video.youtube/play/?video_id=mgI0BhMAUPI</url>
 		</channel>
 		<channel active="True">
 			<name>ANT1</name>
@@ -28,7 +28,7 @@
 		<channel active="True">
 			<name>STAR</name>
 			<type></type>
-			<url>http://starhdlive2-lh.akamaihd.net/i/live_1@181243/master.m3u8</url>
+			<url>http://cdnapi.kaltura.com/p/713821/sp/71382100/playManifest/entryId/1_fp7fyi3j/protocol/http/format/applehttp/a.m3u8</url>
 		</channel>
 		<channel active="True">
 			<name>ALPHA</name>
