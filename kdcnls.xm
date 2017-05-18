@@ -18,7 +18,7 @@
 			<channel active="True">
 			<name>MEGA</name>
 			<type></type>
-			<url>plugin://plugin.video.youtube/play/?video_id=mgI0BhMAUPI</url>
+			<url>http://master.cystreams.com:25461/live/galanos/galanos123/41.m3u8</url>
 		</channel>
 		<channel active="True">
 			<name>ANT1</name>
@@ -180,10 +180,10 @@
 			<type></type>
 			<url>rtmp://94.75.240.96:1935/star/star.sdp</url>
 		</channel>
-		<channel active="False">
+		<channel active="True">
 			<name>STAR (4)</name>
 			<type></type>
-			<url></url>
+			<url>http://master.cystreams.com:25461/live/galanos/galanos123/40.m3u8</url>
 		</channel>
 		<channel active="False">
 			<name>STAR (5)</name>
