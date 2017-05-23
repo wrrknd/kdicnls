@@ -18,7 +18,7 @@
 			<channel active="True">
 			<name>MEGA</name>
 			<type></type>
-			<url>http://master.cystreams.com:25461/live/galanos/galanos123/41.m3u8</url>
+			<url>http://master.cystreams.com:25461/live/galanos/galanos123/43.m3u8</url>
 		</channel>
 		<channel active="True">
 			<name>ANT1</name>
