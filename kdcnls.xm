@@ -98,7 +98,7 @@
 		<channel active="True">
 			<name>ERT1 (2)</name>
 			<type></type>
-			<url>plugin://plugin.video.youtube/play/?video_id=pFp1gkaq-gE</url>
+			<url>plugin://plugin.video.youtube/play/?video_id=GAser_IkADU</url>
 		</channel>
 		<channel active="True">
 			<name>ERT1 (3)</name>
@@ -145,7 +145,7 @@
 			<type></type>
 			<url>http://s2.greekelitetv.com:1935/mega/mega.stream/playlist.m3u8</url>
 		</channel>
-		<channel active="True">
+		<channel active="False">
 			<name>MEGA (3)</name>
 			<type></type>
 			<url>rtmp://94.75.240.96:1935/mega/mega.sdp</url>
@@ -175,7 +175,7 @@
 			<type></type>
 			<url>http://s2.greekelitetv.com:1935/star/star.stream/playlist.m3u8</url>
 		</channel>
-		<channel active="True">
+		<channel active="False">
 			<name>STAR (3)</name>
 			<type></type>
 			<url>rtmp://94.75.240.96:1935/star/star.sdp</url>
