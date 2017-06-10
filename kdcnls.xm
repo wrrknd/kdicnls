@@ -200,7 +200,7 @@
 			<type></type>
 			<url></url>
 		</channel>		
-		<channel active="False">
+		<channel active="True">
 			<name>ALPHA (4)</name>
 			<type></type>
 			<url>http://l4.cloudskep.com/alphacy/acy/playlist.m3u8</url>
