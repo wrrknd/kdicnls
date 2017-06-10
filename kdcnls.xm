@@ -203,7 +203,7 @@
 		<channel active="False">
 			<name>ALPHA (4)</name>
 			<type></type>
-			<url>http://stream2.svbllc.com:1935/alpha/alpha.stream/playlist.m3u8</url>
+			<url>http://l4.cloudskep.com/alphacy/acy/playlist.m3u8</url>
 		</channel>
 		<channel active="False">
 			<name>ALPHA (4)</name>
