@@ -140,15 +140,15 @@
 			<type></type>
 			<url></url>
 		</channel>
-		<channel active="True">
+		<channel active="False">
 			<name>MEGA (2)</name>
 			<type></type>
-			<url>http://s2.greekelitetv.com:1935/mega/mega.stream/playlist.m3u8</url>
+			<url></url>
 		</channel>
 		<channel active="False">
 			<name>MEGA (3)</name>
 			<type></type>
-			<url>rtmp://94.75.240.96:1935/mega/mega.sdp</url>
+			<url></url>
 		</channel>
 		<channel active="True">
 			<name>MEGA (4)</name>
@@ -173,17 +173,17 @@
 		<channel active="True">
 			<name>STAR (2)</name>
 			<type></type>
-			<url>http://s2.greekelitetv.com:1935/star/star.stream/playlist.m3u8</url>
+			<url>http://master.cystreams.com:25461/live/galanos/galanos123/41.m3u8</url>
 		</channel>
 		<channel active="False">
 			<name>STAR (3)</name>
 			<type></type>
-			<url>rtmp://94.75.240.96:1935/star/star.sdp</url>
+			<url></url>
 		</channel>
-		<channel active="True">
+		<channel active="False">
 			<name>STAR (4)</name>
 			<type></type>
-			<url>http://master.cystreams.com:25461/live/galanos/galanos123/41.m3u8</url>
+			<url></url>
 		</channel>
 		<channel active="False">
 			<name>STAR (5)</name>
@@ -193,14 +193,14 @@
 		<channel active="True">
 			<name>ALPHA (2)</name>
 			<type></type>
-			<url>http://s2.greekelitetv.com:1935/alpha/alpha.stream/playlist.m3u8</url>
+			<url>http://193.92.37.235:1935/LiveEdgeTV/live@720/manifest.m3u8</url>
 		</channel>
-		<channel active="True">
+		<channel active="False">
 			<name>ALPHA (3)</name>
 			<type></type>
-			<url>http://193.92.37.235:1935/LiveEdgeTV/live@720/manifest.m3u8</url>
+			<url></url>
 		</channel>		
-		<channel active="True">
+		<channel active="False">
 			<name>ALPHA (4)</name>
 			<type></type>
 			<url>http://stream2.svbllc.com:1935/alpha/alpha.stream/playlist.m3u8</url>
