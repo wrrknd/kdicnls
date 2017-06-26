@@ -140,10 +140,10 @@
 			<type></type>
 			<url></url>
 		</channel>
-		<channel active="False">
+		<channel active="True">
 			<name>MEGA (2)</name>
 			<type></type>
-			<url></url>
+			<url>plugin://plugin.video.youtube/play/?video_id=tug1qABlQ-M</url>
 		</channel>
 		<channel active="False">
 			<name>MEGA (3)</name>
