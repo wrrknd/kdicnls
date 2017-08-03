@@ -63,7 +63,7 @@
 		<channel active="True">
 			<name>BLUE SKY</name>
 			<type></type>
-			<url>plugin://plugin.video.youtube/play/?video_id=knhVhKw2B3o</url>
+			<url>plugin://plugin.video.youtube/play/?video_id=SpTEWRRMDYI</url>
 		</channel>
 		<channel active="False">
 			<name>EXTRA 3</name>
