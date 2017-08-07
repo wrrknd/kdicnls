@@ -63,7 +63,7 @@
 		<channel active="True">
 			<name>BLUE SKY</name>
 			<type></type>
-			<url>plugin://plugin.video.youtube/play/?video_id=SpTEWRRMDYI</url>
+			<url>plugin://plugin.video.youtube/play/?video_id=qv3MBTOa640</url>
 		</channel>
 		<channel active="False">
 			<name>EXTRA 3</name>
@@ -145,10 +145,10 @@
 			<type></type>
 			<url>plugin://plugin.video.youtube/play/?video_id=tug1qABlQ-M</url>
 		</channel>
-		<channel active="False">
+		<channel active="True">
 			<name>MEGA (3)</name>
 			<type></type>
-			<url></url>
+			<url>http://s2.greekelitetv.com:1935/mega/mega.stream/playlist.m3u8</url>
 		</channel>
 		<channel active="True">
 			<name>MEGA (4)</name>
@@ -175,10 +175,10 @@
 			<type></type>
 			<url>http://master.cystreams.com:25461/live/galanos/galanos123/40.m3u8</url>
 		</channel>
-		<channel active="False">
+		<channel active="True">
 			<name>STAR (3)</name>
 			<type></type>
-			<url></url>
+			<url>http://s2.greekelitetv.com:1935/star/star.stream/playlist.m3u8</url>
 		</channel>
 		<channel active="False">
 			<name>STAR (4)</name>
