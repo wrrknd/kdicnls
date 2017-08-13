@@ -195,10 +195,10 @@
 			<type></type>
 			<url>http://193.92.37.235:1935/LiveEdgeTV/live@720/manifest.m3u8</url>
 		</channel>
-		<channel active="False">
+		<channel active="True">
 			<name>ALPHA (3)</name>
 			<type></type>
-			<url></url>
+			<url>http://s2.greekelitetv.com:1935/alpha/alpha.stream/playlist.m3u8</url>
 		</channel>		
 		<channel active="True">
 			<name>ALPHA (4)</name>
