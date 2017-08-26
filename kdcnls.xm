@@ -98,7 +98,7 @@
 		<channel active="True">
 			<name>ERT1 (2)</name>
 			<type></type>
-			<url>plugin://plugin.video.youtube/play/?video_id=GAser_IkADU</url>
+			<url>plugin://plugin.video.youtube/play/?video_id=0XYWTzFlEyo</url>
 		</channel>
 		<channel active="True">
 			<name>ERT1 (3)</name>
@@ -145,7 +145,7 @@
 			<type></type>
 			<url>plugin://plugin.video.youtube/play/?video_id=tug1qABlQ-M</url>
 		</channel>
-		<channel active="True">
+		<channel active="False">
 			<name>MEGA (3)</name>
 			<type></type>
 			<url>http://s2.greekelitetv.com:1935/mega/mega.stream/playlist.m3u8</url>
@@ -175,7 +175,7 @@
 			<type></type>
 			<url>http://master.cystreams.com:25461/live/galanos/galanos123/40.m3u8</url>
 		</channel>
-		<channel active="True">
+		<channel active="False">
 			<name>STAR (3)</name>
 			<type></type>
 			<url>http://s2.greekelitetv.com:1935/star/star.stream/playlist.m3u8</url>
@@ -195,7 +195,7 @@
 			<type></type>
 			<url>http://193.92.37.235:1935/LiveEdgeTV/live@720/manifest.m3u8</url>
 		</channel>
-		<channel active="True">
+		<channel active="False">
 			<name>ALPHA (3)</name>
 			<type></type>
 			<url>http://s2.greekelitetv.com:1935/alpha/alpha.stream/playlist.m3u8</url>
