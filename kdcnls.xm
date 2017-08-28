@@ -18,7 +18,7 @@
 			<channel active="True">
 			<name>MEGA</name>
 			<type></type>
-			<url>http://master.cystreams.com:25461/live/galanos/galanos123/43.m3u8</url>
+			<url>plugin://plugin.video.youtube/play/?video_id=tug1qABlQ-M</url>
 		</channel>
 		<channel active="True">
 			<name>ANT1</name>
@@ -63,7 +63,7 @@
 		<channel active="True">
 			<name>BLUE SKY</name>
 			<type></type>
-			<url>plugin://plugin.video.youtube/play/?video_id=qv3MBTOa640</url>
+			<url>plugin://plugin.video.youtube/play/?video_id=6wTqFInWTUE</url>
 		</channel>
 		<channel active="False">
 			<name>EXTRA 3</name>
@@ -140,10 +140,10 @@
 			<type></type>
 			<url></url>
 		</channel>
-		<channel active="True">
+		<channel active="False">
 			<name>MEGA (2)</name>
 			<type></type>
-			<url>plugin://plugin.video.youtube/play/?video_id=tug1qABlQ-M</url>
+			<url></url>
 		</channel>
 		<channel active="False">
 			<name>MEGA (3)</name>
@@ -170,7 +170,7 @@
 			<type></type>
 			<url></url>
 		</channel>
-		<channel active="True">
+		<channel active="False">
 			<name>STAR (2)</name>
 			<type></type>
 			<url>http://master.cystreams.com:25461/live/galanos/galanos123/40.m3u8</url>
