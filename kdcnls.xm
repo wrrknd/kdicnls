@@ -15,7 +15,7 @@
 			<type></type>
 			<url>plugin://plugin.video.youtube/play/?video_id=5r5iftFbASw</url>
 		</channel>
-			<channel active="True">
+		<channel active="True">
 			<name>MEGA</name>
 			<type></type>
 			<url>plugin://plugin.video.youtube/play/?video_id=tug1qABlQ-M</url>
@@ -150,7 +150,7 @@
 			<type></type>
 			<url>http://s2.greekelitetv.com:1935/mega/mega.stream/playlist.m3u8</url>
 		</channel>
-		<channel active="True">
+		<channel active="False">
 			<name>MEGA (4)</name>
 			<type></type>
 			<url>http://stream2.svbllc.com:1935/mega/mega.stream/playlist.m3u8</url>
@@ -200,7 +200,7 @@
 			<type></type>
 			<url>http://s2.greekelitetv.com:1935/alpha/alpha.stream/playlist.m3u8</url>
 		</channel>		
-		<channel active="True">
+		<channel active="False">
 			<name>ALPHA (4)</name>
 			<type></type>
 			<url>http://l4.cloudskep.com/alphacy/acy/playlist.m3u8</url>
@@ -225,7 +225,7 @@
 			<type></type>
 			<url></url>
 		</channel>
-		<channel active="True">
+		<channel active="False">
 			<name>E TV (2)</name>
 			<type></type>
 			<url>https://57c821d91eac3.streamlock.net/live/epsilontv/playlist.m3u8</url>
