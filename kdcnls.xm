@@ -233,7 +233,7 @@
 		<channel active="True">
 			<name>E TV (3)</name>
 			<type></type>
-			<url>http://88.198.90.103:1935/live/mp4:epsilontv_720p/playlist.m3u8</url>
+			<url>https://s1.streamings.gr/epsilontv/epsilontv.m3u8</url>
 		</channel>
 		<channel active="False">
 			<name>E TV (4)</name>
