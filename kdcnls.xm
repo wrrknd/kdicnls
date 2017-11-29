@@ -68,7 +68,7 @@
 		<channel active="False">
 			<name>EXTRA 3</name>
 			<type></type>
-			<url>http://213.16.167.186:1935/live/mpegts_256.stream/playlist.m3u8</url>
+			<url>https://origin1.streamings.gr/extratv</url>
 		</channel>
 		<channel active="False">
 			<name>MAD TV</name>
