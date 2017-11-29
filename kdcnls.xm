@@ -65,7 +65,7 @@
 			<type></type>
 			<url>plugin://plugin.video.youtube/play/?video_id=SlEjtVw9u2M</url>
 		</channel>
-		<channel active="False">
+		<channel active="True">
 			<name>EXTRA 3</name>
 			<type></type>
 			<url>https://origin1.streamings.gr/extratv</url>
