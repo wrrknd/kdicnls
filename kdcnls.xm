@@ -23,7 +23,7 @@
 		<channel active="True">
 			<name>ANT1</name>
 			<type></type>
-			<url>http://antglantennatv-lh.akamaihd.net/i/live_1@421307/master.m3u8</url>
+			<url>http://antglantennatv-lh.akamaihd.net/i/live_2@421307/master.m3u8</url>
 		</channel>
 		<channel active="True">
 			<name>STAR</name>
@@ -63,7 +63,7 @@
 		<channel active="True">
 			<name>BLUE SKY</name>
 			<type></type>
-			<url>plugin://plugin.video.youtube/play/?video_id=SlEjtVw9u2M</url>
+			<url>plugin://plugin.video.youtube/play/?video_id=ys_5EbgWtkM</url>
 		</channel>
 		<channel active="True">
 			<name>EXTRA 3</name>
