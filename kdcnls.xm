@@ -23,7 +23,7 @@
 		<channel active="True">
 			<name>ANT1</name>
 			<type></type>
-			<url>http://antglantennatv-lh.akamaihd.net/i/live_2@421307/master.m3u8</url>
+			<url>http://antglantennatv-lh.akamaihd.net/i/live_1@421307/master.m3u8</url>
 		</channel>
 		<channel active="True">
 			<name>STAR</name>
@@ -155,10 +155,10 @@
 			<type></type>
 			<url>http://stream2.svbllc.com:1935/mega/mega.stream/playlist.m3u8</url>
 		</channel>
-		<channel active="False">
+		<channel active="True">
 			<name>ANT1 (2)</name>
 			<type></type>
-			<url></url>
+			<url>http://antglantennatv-lh.akamaihd.net/i/live_2@421307/master.m3u8</url>
 		</channel>
 		<channel active="False">
 			<name>ANT1 (3)</name>
