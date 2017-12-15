@@ -38,7 +38,7 @@
 		<channel active="True">
 			<name>SKAI</name>
 			<type>skai</type>
-			<url>http://www.skai.gr/player/tvlive/</url>
+			<url>http://www.skai.gr/ajax.aspx?m=Skai.Mobile.Media.LookupMultimedia&record=true&mmid=3</url>
 		</channel>
 		<channel active="True">
 			<name>E TV</name>
