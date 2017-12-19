@@ -18,7 +18,7 @@
 		<channel active="True">
 			<name>MEGA</name>
 			<type></type>
-			<url>plugin://plugin.video.youtube/play/?video_id=tug1qABlQ-M</url>
+			<url>plugin://plugin.video.youtube/play/?video_id=vbJFLi86nDc</url>
 		</channel>
 		<channel active="True">
 			<name>ANT1</name>
@@ -63,7 +63,7 @@
 		<channel active="True">
 			<name>BLUE SKY</name>
 			<type></type>
-			<url>plugin://plugin.video.youtube/play/?video_id=ys_5EbgWtkM</url>
+			<url>plugin://plugin.video.youtube/play/?video_id=m9HpJ7O2S5k</url>
 		</channel>
 		<channel active="True">
 			<name>EXTRA 3</name>
