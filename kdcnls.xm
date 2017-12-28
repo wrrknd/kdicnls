@@ -65,32 +65,17 @@
 			<type></type>
 			<url>plugin://plugin.video.youtube/play/?video_id=m9HpJ7O2S5k</url>
 		</channel>
-		<channel active="True">
+		<channel active="False">
 			<name>EXTRA 3</name>
 			<type></type>
 			<url>https://origin1.streamings.gr/extratv</url>
-		</channel>
-		<channel active="False">
-			<name>MAD TV</name>
-			<type>madtv</type>
-			<url>http://apps.route53.mad.tv/youtube/madtv</url>
-		</channel>
-		<channel active="False">
-			<name>MAD TV CYPRUS</name>
-			<type></type>
-			<url>rtmp://eradio.networksolutions.com.cy/live/livestream</url>
-		</channel>
-		<channel active="False">
-			<name>EUROPE 1</name>
-			<type></type>
-			<url>http://sjc-uhls-proxy-beta01.ustream.tv/watch/playlist.m3u8?cid=12548227</url>
 		</channel>
 		<channel active="True">
 			<name>BOYLH TV</name>
 			<type></type>
 			<url>http://streamer-cache.grnet.gr/parliament/hls/webtv.m3u8</url>
 		</channel>
-		<channel active="False">
+		<channel active="True">
 			<name>BOYLH TV (2)</name>
 			<type></type>
 			<url>http://streamer-cache.grnet.gr/parliament/hls/webtv2.m3u8</url>
@@ -148,12 +133,12 @@
 		<channel active="False">
 			<name>MEGA (3)</name>
 			<type></type>
-			<url>http://s2.greekelitetv.com:1935/mega/mega.stream/playlist.m3u8</url>
+			<url></url>
 		</channel>
 		<channel active="False">
 			<name>MEGA (4)</name>
 			<type></type>
-			<url>http://stream2.svbllc.com:1935/mega/mega.stream/playlist.m3u8</url>
+			<url></url>
 		</channel>
 		<channel active="True">
 			<name>ANT1 (2)</name>
@@ -173,12 +158,12 @@
 		<channel active="False">
 			<name>STAR (2)</name>
 			<type></type>
-			<url>http://master.cystreams.com:25461/live/galanos/galanos123/40.m3u8</url>
+			<url></url>
 		</channel>
 		<channel active="False">
 			<name>STAR (3)</name>
 			<type></type>
-			<url>http://s2.greekelitetv.com:1935/star/star.stream/playlist.m3u8</url>
+			<url></url>
 		</channel>
 		<channel active="False">
 			<name>STAR (4)</name>
@@ -198,12 +183,12 @@
 		<channel active="False">
 			<name>ALPHA (3)</name>
 			<type></type>
-			<url>http://s2.greekelitetv.com:1935/alpha/alpha.stream/playlist.m3u8</url>
+			<url></url>
 		</channel>		
 		<channel active="False">
 			<name>ALPHA (4)</name>
 			<type></type>
-			<url>http://l4.cloudskep.com/alphacy/acy/playlist.m3u8</url>
+			<url></url>
 		</channel>
 		<channel active="False">
 			<name>ALPHA (4)</name>
@@ -213,7 +198,7 @@
 		<channel active="False">
 			<name>SKAI (2)</name>
 			<type></type>
-			<url>http://stream.ssh101.com:1935/live/skaichannel/playlist.m3u8</url>
+			<url></url>
 		</channel>
 		<channel active="False">
 			<name>SKAI (3)</name>
@@ -225,15 +210,15 @@
 			<type></type>
 			<url></url>
 		</channel>
-		<channel active="False">
+		<channel active="True">
 			<name>E TV (2)</name>
 			<type></type>
-			<url>https://57c821d91eac3.streamlock.net/live/epsilontv/playlist.m3u8</url>
+			<url>https://s1.streamings.gr/epsilontv/epsilontv.m3u8</url>
 		</channel>
-		<channel active="True">
+		<channel active="False">
 			<name>E TV (3)</name>
 			<type></type>
-			<url>https://s1.streamings.gr/epsilontv/epsilontv.m3u8</url>
+			<url></url>
 		</channel>
 		<channel active="False">
 			<name>E TV (4)</name>
