@@ -17,8 +17,8 @@
 		</channel>
 		<channel active="True">
 			<name>MEGA</name>
-			<type></type>
-			<url>plugin://plugin.video.youtube/play/?video_id=vbJFLi86nDc</url>
+			<type>ytliv</type>
+			<url>https://www.youtube.com/channel/UCZgPAKk8KSCoxP0Z93Ey0Vg/live</url>
 		</channel>
 		<channel active="True">
 			<name>ANT1</name>
@@ -62,8 +62,8 @@
 		</channel>
 		<channel active="True">
 			<name>BLUE SKY</name>
-			<type></type>
-			<url>plugin://plugin.video.youtube/play/?video_id=m9HpJ7O2S5k</url>
+			<type>ytliv</type>
+			<url>https://www.youtube.com/channel/UCBuEruzW_f-Qpj_sABmuYSg/live</url>
 		</channel>
 		<channel active="False">
 			<name>EXTRA 3</name>
@@ -75,7 +75,7 @@
 			<type></type>
 			<url>http://streamer-cache.grnet.gr/parliament/hls/webtv.m3u8</url>
 		</channel>
-		<channel active="True">
+		<channel active="False">
 			<name>BOYLH TV (2)</name>
 			<type></type>
 			<url>http://streamer-cache.grnet.gr/parliament/hls/webtv2.m3u8</url>
@@ -86,7 +86,7 @@
 			<url>plugin://plugin.video.youtube/play/?video_id=0XYWTzFlEyo</url>
 		</channel>
 		<channel active="True">
-			<name>ERT1 (3)</name>
+			<name>EPT WORLD</name>
 			<type></type>
 			<url>plugin://plugin.video.youtube/play/?video_id=qRY56sJJ2to</url>
 		</channel>
