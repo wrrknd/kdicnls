@@ -17,8 +17,8 @@
 		</channel>
 		<channel active="True">
 			<name>MEGA</name>
-			<type>ytliv</type>
-			<url>https://www.youtube.com/channel/UCZgPAKk8KSCoxP0Z93Ey0Vg/live</url>
+			<type></type>
+			<url>plugin://plugin.video.youtube/play/?video_id=vbJFLi86nDc</url>
 		</channel>
 		<channel active="True">
 			<name>ANT1</name>
@@ -62,8 +62,8 @@
 		</channel>
 		<channel active="True">
 			<name>BLUE SKY</name>
-			<type>ytliv</type>
-			<url>https://www.youtube.com/channel/UCBuEruzW_f-Qpj_sABmuYSg/live</url>
+			<type></type>
+			<url>plugin://plugin.video.youtube/play/?video_id=m9HpJ7O2S5k</url>
 		</channel>
 		<channel active="False">
 			<name>EXTRA 3</name>
@@ -155,10 +155,10 @@
 			<type></type>
 			<url></url>
 		</channel>
-		<channel active="False">
+		<channel active="True">
 			<name>STAR (2)</name>
 			<type></type>
-			<url></url>
+			<url>http://master.cystreams.com:25461/live/greek/donald/40.ts</url>
 		</channel>
 		<channel active="False">
 			<name>STAR (3)</name>
