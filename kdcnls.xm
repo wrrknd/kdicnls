@@ -75,11 +75,6 @@
 			<type></type>
 			<url>http://streamer-cache.grnet.gr/parliament/hls/webtv.m3u8</url>
 		</channel>
-		<channel active="False">
-			<name>BOYLH TV (2)</name>
-			<type></type>
-			<url>http://streamer-cache.grnet.gr/parliament/hls/webtv2.m3u8</url>
-		</channel>
 		<channel active="True">
 			<name>ERT1 (2)</name>
 			<type></type>
@@ -90,90 +85,30 @@
 			<type></type>
 			<url>plugin://plugin.video.youtube/play/?video_id=qRY56sJJ2to</url>
 		</channel>
-		<channel active="False">
-			<name>ERT1 (4)</name>
-			<type></type>
-			<url></url>
-		</channel>
 		<channel active="True">
 			<name>ERT2 (2)</name>
 			<type></type>
 			<url>plugin://plugin.video.youtube/play/?video_id=AOVVjaLbGEk</url>
-		</channel>
-		<channel active="False">
-			<name>ERT2 (3)</name>
-			<type></type>
-			<url></url>
-		</channel>
-		<channel active="False">
-			<name>ERT2 (4)</name>
-			<type></type>
-			<url></url>
 		</channel>
 		<channel active="True">
 			<name>ERT3 (2)</name>
 			<type></type>
 			<url>plugin://plugin.video.youtube/play/?video_id=ELB7cKTx5ig</url>
 		</channel>
-		<channel active="False">
-			<name>ERT3 (3)</name>
-			<type></type>
-			<url></url>
-		</channel>
-		<channel active="False">
-			<name>ERT3 (4)</name>
-			<type></type>
-			<url></url>
-		</channel>
-		<channel active="False">
+		<channel active="True">
 			<name>MEGA (2)</name>
 			<type></type>
-			<url></url>
-		</channel>
-		<channel active="False">
-			<name>MEGA (3)</name>
-			<type></type>
-			<url></url>
-		</channel>
-		<channel active="False">
-			<name>MEGA (4)</name>
-			<type></type>
-			<url></url>
+			<url>http://master.cystreams.com:25461/live/greek/donald/43.ts</url>
 		</channel>
 		<channel active="True">
 			<name>ANT1 (2)</name>
 			<type></type>
 			<url>http://antglantennatv-lh.akamaihd.net/i/live_2@421307/master.m3u8</url>
 		</channel>
-		<channel active="False">
-			<name>ANT1 (3)</name>
-			<type></type>
-			<url></url>
-		</channel>
-		<channel active="False">
-			<name>ANT1 (4)</name>
-			<type></type>
-			<url></url>
-		</channel>
 		<channel active="True">
 			<name>STAR (2)</name>
 			<type></type>
 			<url>http://master.cystreams.com:25461/live/greek/donald/40.ts</url>
-		</channel>
-		<channel active="False">
-			<name>STAR (3)</name>
-			<type></type>
-			<url></url>
-		</channel>
-		<channel active="False">
-			<name>STAR (4)</name>
-			<type></type>
-			<url></url>
-		</channel>
-		<channel active="False">
-			<name>STAR (5)</name>
-			<type></type>
-			<url>/</url>
 		</channel>
 		<channel active="True">
 			<name>ALPHA (2)</name>
@@ -185,54 +120,14 @@
 			<type></type>
 			<url></url>
 		</channel>		
-		<channel active="False">
-			<name>ALPHA (4)</name>
-			<type></type>
-			<url></url>
-		</channel>
-		<channel active="False">
-			<name>ALPHA (4)</name>
-			<type></type>
-			<url></url>
-		</channel>
-		<channel active="False">
+		<channel active="True">
 			<name>SKAI (2)</name>
 			<type></type>
-			<url></url>
-		</channel>
-		<channel active="False">
-			<name>SKAI (3)</name>
-			<type></type>
-			<url></url>
-		</channel>
-		<channel active="False">
-			<name>SKAI (4)</name>
-			<type></type>
-			<url></url>
+			<url>http://master.cystreams.com:25461/live/greek/donald/42.ts</url>
 		</channel>
 		<channel active="True">
 			<name>E TV (2)</name>
 			<type></type>
 			<url>https://s1.streamings.gr/epsilontv/epsilontv.m3u8</url>
-		</channel>
-		<channel active="False">
-			<name>E TV (3)</name>
-			<type></type>
-			<url></url>
-		</channel>
-		<channel active="False">
-			<name>E TV (4)</name>
-			<type></type>
-			<url></url>
-		</channel>
-		<channel active="False">
-			<name>TV 100 (2)</name>
-			<type></type>
-			<url></url>
-		</channel>
-		<channel active="False">
-			<name>BLUE SKY (2)</name>
-			<type></type>
-			<url></url>
 		</channel>
 </channels>
