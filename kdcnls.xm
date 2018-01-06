@@ -98,7 +98,7 @@
 		<channel active="True">
 			<name>MEGA (2)</name>
 			<type></type>
-			<url>http://master.cystreams.com:25461/live/greek/donald/43.ts</url>
+			<url>http://master.cystreams.com:25461/live/kostas/omorfos/43.m3u8|User-Agent=Mozilla/5.0</url>
 		</channel>
 		<channel active="True">
 			<name>ANT1 (2)</name>
@@ -108,7 +108,7 @@
 		<channel active="True">
 			<name>STAR (2)</name>
 			<type></type>
-			<url>http://master.cystreams.com:25461/live/greek/donald/40.ts</url>
+			<url>http://master.cystreams.com:25461/live/kostas/omorfos/40.m3u8|User-Agent=Mozilla/5.0</url>
 		</channel>
 		<channel active="True">
 			<name>ALPHA (2)</name>
@@ -123,7 +123,7 @@
 		<channel active="True">
 			<name>SKAI (2)</name>
 			<type></type>
-			<url>http://master.cystreams.com:25461/live/greek/donald/42.ts</url>
+			<url>http://master.cystreams.com:25461/live/kostas/omorfos/42.m3u8|User-Agent=Mozilla/5.0</url>
 		</channel>
 		<channel active="True">
 			<name>E TV (2)</name>
