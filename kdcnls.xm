@@ -62,8 +62,8 @@
 		</channel>
 		<channel active="True">
 			<name>BLUE SKY</name>
-			<type></type>
-			<url>plugin://plugin.video.youtube/play/?video_id=m9HpJ7O2S5k</url>
+			<type>ytliv</type>
+			<url>https://www.youtube.com/channel/UCBuEruzW_f-Qpj_sABmuYSg/live</url>
 		</channel>
 		<channel active="False">
 			<name>EXTRA 3</name>
