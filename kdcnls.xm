@@ -17,8 +17,8 @@
 		</channel>
 		<channel active="True">
 			<name>MEGA</name>
-			<type></type>
-			<url>plugin://plugin.video.youtube/play/?video_id=vbJFLi86nDc</url>
+			<type>ytliv</type>
+			<url>https://www.youtube.com/channel/UCZgPAKk8KSCoxP0Z93Ey0Vg/live</url>
 		</channel>
 		<channel active="True">
 			<name>ANT1</name>
