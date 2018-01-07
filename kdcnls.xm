@@ -115,10 +115,10 @@
 			<type></type>
 			<url>http://193.92.37.235:1935/LiveEdgeTV/live@720/manifest.m3u8</url>
 		</channel>
-		<channel active="False">
+		<channel active="True">
 			<name>ALPHA (3)</name>
 			<type></type>
-			<url></url>
+			<url>http://l4.cloudskep.com/alphacyp/acy/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS83LzIwMTggMjozNjoyMyBBTSZoYXNoX3ZhbHVlPU1MYWZaMW1jL2pVaWhmU3BoOHR6WXc9PSZ2YWxpZG1pbnV0ZXM9MzYw|User-Agent=Mozilla/5.0</url>
 		</channel>		
 		<channel active="True">
 			<name>SKAI (2)</name>
