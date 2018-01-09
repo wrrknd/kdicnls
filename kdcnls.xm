@@ -97,8 +97,8 @@
 		</channel>
 		<channel active="True">
 			<name>MEGA (2)</name>
-			<type></type>
-			<url>http://master.cystreams.com:25461/live/kostas/omorfos/43.m3u8|User-Agent=Mozilla/5.0</url>
+			<type>gln</type>
+			<url>http://webtv-tv.eu/cha1/3.html</url>
 		</channel>
 		<channel active="True">
 			<name>ANT1 (2)</name>
@@ -107,8 +107,8 @@
 		</channel>
 		<channel active="True">
 			<name>STAR (2)</name>
-			<type></type>
-			<url>http://master.cystreams.com:25461/live/kostas/omorfos/40.m3u8|User-Agent=Mozilla/5.0</url>
+			<type>gln</type>
+			<url>http://webtv-tv.eu/cha1/5.html</url>
 		</channel>
 		<channel active="True">
 			<name>ALPHA (2)</name>
@@ -122,8 +122,8 @@
 		</channel>		
 		<channel active="True">
 			<name>SKAI (2)</name>
-			<type></type>
-			<url>http://master.cystreams.com:25461/live/kostas/omorfos/42.m3u8|User-Agent=Mozilla/5.0</url>
+			<type>gln</type>
+			<url>http://webtv-tv.eu/cha1/7.html</url>
 		</channel>
 		<channel active="True">
 			<name>E TV (2)</name>
