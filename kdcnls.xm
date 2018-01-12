@@ -100,7 +100,7 @@
 			<type>gln</type>
 			<url>http://webtv-tv.eu/cha1/3.html</url>
 		</channel>
-		<channel active="True">
+		<channel active="False">
 			<name>ANT1 (2)</name>
 			<type></type>
 			<url>http://antglantennatv-lh.akamaihd.net/i/live_2@421307/master.m3u8</url>
