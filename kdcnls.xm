@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <channels>
-		<channel active="False">
+		<channel active="True">
 			<name>ERT1</name>
 			<type></type>
 			<url>plugin://plugin.video.youtube/play/?video_id=Zx98moCvkpU</url>
 		</channel>
-		<channel active="False">
+		<channel active="True">
 			<name>ERT2</name>
 			<type></type>
 			<url>plugin://plugin.video.youtube/play/?video_id=qBxbnSwOrxE</url>
 		</channel>
-		<channel active="False">
+		<channel active="True">
 			<name>ERT3</name>
 			<type></type>
 			<url>plugin://plugin.video.youtube/play/?video_id=5r5iftFbASw</url>
 		</channel>
 		<channel active="True">
 			<name>MEGA</name>
-			<type>gln</type>
-			<url>http://webtv-tv.eu/cha1/3.html</url>
+			<type>ytliv</type>
+			<url>https://www.youtube.com/channel/UCZgPAKk8KSCoxP0Z93Ey0Vg/live</url>
 		</channel>
 		<channel active="True">
 			<name>ANT1</name>
@@ -37,8 +37,8 @@
 		</channel>
 		<channel active="True">
 			<name>SKAI</name>
-			<type>gln</type>
-			<url>http://webtv-tv.eu/cha1/7.html</url>
+			<type>skai</type>
+			<url>http://www.skai.gr/ajax.aspx?m=Skai.Mobile.Media.LookupMultimedia&record=true&mmid=3</url>
 		</channel>
 		<channel active="True">
 			<name>E TV</name>
@@ -75,27 +75,27 @@
 			<type></type>
 			<url>http://streamer-cache.grnet.gr/parliament/hls/webtv.m3u8</url>
 		</channel>
-		<channel active="False">
+		<channel active="True">
 			<name>ERT1 (2)</name>
 			<type></type>
 			<url>plugin://plugin.video.youtube/play/?video_id=0XYWTzFlEyo</url>
 		</channel>
-		<channel active="False">
+		<channel active="True">
 			<name>EPT WORLD</name>
 			<type></type>
 			<url>plugin://plugin.video.youtube/play/?video_id=qRY56sJJ2to</url>
 		</channel>
-		<channel active="False">
+		<channel active="True">
 			<name>ERT2 (2)</name>
 			<type></type>
 			<url>plugin://plugin.video.youtube/play/?video_id=AOVVjaLbGEk</url>
 		</channel>
-		<channel active="False">
+		<channel active="True">
 			<name>ERT3 (2)</name>
 			<type></type>
 			<url>plugin://plugin.video.youtube/play/?video_id=ELB7cKTx5ig</url>
 		</channel>
-		<channel active="False">
+		<channel active="True">
 			<name>MEGA (2)</name>
 			<type>gln</type>
 			<url>http://webtv-tv.eu/cha1/3.html</url>
@@ -120,7 +120,7 @@
 			<type>acy</type>
 			<url>http://www.alphacyprus.com.cy/webtv/live</url>
 		</channel>		
-		<channel active="False">
+		<channel active="True">
 			<name>SKAI (2)</name>
 			<type>gln</type>
 			<url>http://webtv-tv.eu/cha1/7.html</url>
