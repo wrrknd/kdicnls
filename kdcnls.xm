@@ -33,7 +33,7 @@
 		<channel active="True">
 			<name>ALPHA</name>
 			<type></type>
-			<url>rtsp://193.92.37.235:1935/LiveEdgeTV/live@720</url>
+			<url>http://193.92.37.235:1935/LiveEdgeTV/live@720/manifest.m3u8</url>
 		</channel>
 		<channel active="True">
 			<name>SKAI</name>
@@ -113,7 +113,7 @@
 		<channel active="True">
 			<name>ALPHA (2)</name>
 			<type></type>
-			<url>http://193.92.37.235:1935/LiveEdgeTV/live@720/manifest.m3u8</url>
+			<url>rtsp://193.92.37.235:1935/LiveEdgeTV/live@720</url>
 		</channel>
 		<channel active="True">
 			<name>ALPHA CY</name>
