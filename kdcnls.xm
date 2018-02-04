@@ -36,6 +36,11 @@
 			<url>http://193.92.37.235:1935/LiveEdgeTV/live@720/manifest.m3u8|User-Agent=Mozilla/5.0</url>
 		</channel>
 		<channel active="True">
+			<name>ALPHA CY</name>
+			<type>acy</type>
+			<url>http://www.alphacyprus.com.cy/webtv/live</url>
+		</channel>
+		<channel active="True">
 			<name>SKAI</name>
 			<type>skai</type>
 			<url>http://www.skai.gr/ajax.aspx?m=Skai.Mobile.Media.LookupMultimedia&record=true&mmid=3</url>
@@ -110,16 +115,11 @@
 			<type>gln</type>
 			<url>http://webtv-tv.eu/cha1/5.html</url>
 		</channel>
-		<channel active="True">
+		<channel active="False">
 			<name>ALPHA (2)</name>
 			<type></type>
 			<url>rtsp://193.92.37.235:1935/LiveEdgeTV/live@720</url>
-		</channel>
-		<channel active="True">
-			<name>ALPHA CY</name>
-			<type>acy</type>
-			<url>http://www.alphacyprus.com.cy/webtv/live</url>
-		</channel>		
+		</channel>	
 		<channel active="True">
 			<name>SKAI (2)</name>
 			<type>gln</type>
