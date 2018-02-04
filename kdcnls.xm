@@ -128,6 +128,6 @@
 		<channel active="True">
 			<name>E TV (2)</name>
 			<type></type>
-			<url>https://s1.streamings.gr/epsilontv/epsilontv.m3u8</url>
+			<url>https://s2.streamings.gr/epsilontv/epsilontv.m3u8</url>
 		</channel>
 </channels>
