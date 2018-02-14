@@ -115,7 +115,7 @@
 			<type>gln</type>
 			<url>http://webtv-tv.eu/cha1/5.html</url>
 		</channel>
-		<channel active="False">
+		<channel active="True">
 			<name>ALPHA (2)</name>
 			<type></type>
 			<url>rtsp://193.92.37.235:1935/LiveEdgeTV/live@720</url>
