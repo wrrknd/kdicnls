@@ -108,7 +108,7 @@
 		<channel active="True">
 			<name>ANT1 (2)</name>
 			<type></type>
-			<url>http://antglantennatv-lh.akamaihd.net/i/live_1@421307/index_1500_av-p.m3u8</url>
+			<url>https://antglantennatv-lh.akamaihd.net/i/live_1@421307/master.m3u8</url>
 		</channel>
 		<channel active="True">
 			<name>STAR (2)</name>
