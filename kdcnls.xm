@@ -23,7 +23,7 @@
 		<channel active="True">
 			<name>ANT1</name>
 			<type></type>
-			<url>http://antglantennatv-lh.akamaihd.net/i/live_1@421307/master.m3u8</url>
+			<url>https://glmxantennatvsec-lh.akamaihd.net/i/live_1@536771/master.m3u8</url>
 		</channel>
 		<channel active="True">
 			<name>STAR</name>
@@ -108,7 +108,7 @@
 		<channel active="True">
 			<name>ANT1 (2)</name>
 			<type></type>
-			<url>https://antglantennatv-lh.akamaihd.net/i/live_1@421307/master.m3u8</url>
+			<url>http://glmxantennatvsec-lh.akamaihd.net/i/live_1@536771/master.m3u8</url>
 		</channel>
 		<channel active="True">
 			<name>STAR (2)</name>
