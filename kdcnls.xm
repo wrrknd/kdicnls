@@ -23,7 +23,7 @@
 		<channel active="True">
 			<name>ANT1</name>
 			<type></type>
-			<url>https://glmxantennatvsec-lh.akamaihd.net/i/live_1@536771/index_1500_av-p.m3u8?sd=10&rebase=on|User-Agent=Mozilla/5.0</url>
+			<url>https://glmxantennatvsec-lh.akamaihd.net/i/live_1@536771/index_1500_av-b.m3u8?sd=10&rebase=on|User-Agent=Mozilla/5.0</url>
 		</channel>
 		<channel active="True">
 			<name>STAR</name>
