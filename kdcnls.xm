@@ -18,7 +18,7 @@
 		<channel active="True">
 			<name>MEGA</name>
 			<type>ytliv</type>
-			<url>https://www.youtube.com/channel/UCZgPAKk8KSCoxP0Z93Ey0Vg/live</url>
+			<url>http://webtv-tv.eu/cha1/3.html</url>
 		</channel>
 		<channel active="True">
 			<name>ANT1</name>
@@ -100,10 +100,10 @@
 			<type></type>
 			<url>plugin://plugin.video.youtube/play/?video_id=ELB7cKTx5ig</url>
 		</channel>
-		<channel active="True">
+		<channel active="False">
 			<name>MEGA (2)</name>
 			<type>gln</type>
-			<url>http://webtv-tv.eu/cha1/3.html</url>
+			<url></url>
 		</channel>
 		<channel active="True">
 			<name>ANT1 (2)</name>
