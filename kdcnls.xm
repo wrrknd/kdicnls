@@ -17,7 +17,7 @@
 		</channel>
 		<channel active="True">
 			<name>MEGA</name>
-			<type>ytliv</type>
+			<type>gln</type>
 			<url>http://webtv-tv.eu/cha1/3.html</url>
 		</channel>
 		<channel active="True">
