@@ -93,7 +93,7 @@
 		<channel active="True">
 			<name>ERT2 (2)</name>
 			<type></type>
-			<url>http://ertlive2.akamaized.net/ertlive/live2/playlist.m3u8</url>
+			<url>plugin://plugin.video.youtube/play/?video_id=AOVVjaLbGEk</url>
 		</channel>
 		<channel active="True">
 			<name>ERT3 (2)</name>
