@@ -70,7 +70,7 @@
 			<type>ytliv</type>
 			<url>https://www.youtube.com/channel/UCBuEruzW_f-Qpj_sABmuYSg/live</url>
 		</channel>
-		<channel active="True">
+		<channel active="False">
 			<name>EXTRA 3</name>
 			<type></type>
 			<url>https://origin1.streamings.gr/extratv</url>
