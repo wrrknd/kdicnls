@@ -33,7 +33,7 @@
 		<channel active="True">
 			<name>ALPHA</name>
 			<type></type>
-			<url>http://193.92.37.235:1935/LiveEdgeTV/live@720/master.m3u8|User-Agent=Mozilla/5.0</url>
+			<url>https://alphalive-i.akamaihd.net/hls/live/682300/live/master.m3u8|User-Agent=Mozilla/5.0</url>
 		</channel>
 		<channel active="True">
 			<name>ALPHA CY</name>
@@ -76,6 +76,11 @@
 			<url>https://origin1.streamings.gr/extratv</url>
 		</channel>
 		<channel active="True">
+			<name>NEO TV</name>
+			<type></type>
+			<url>https://neotv.streamings.gr/live/tv/index.m3u8|User-Agent=Mozilla/5.0</url>
+		</channel>
+		<channel active="True">
 			<name>BOYLH TV</name>
 			<type></type>
 			<url>http://streamer-cache.grnet.gr/parliament/hls/webtv.m3u8</url>
@@ -115,10 +120,10 @@
 			<type>gln</type>
 			<url>http://webtv-tv.eu/cha1/5.html</url>
 		</channel>
-		<channel active="False">
+		<channel active="True">
 			<name>ALPHA (2)</name>
 			<type></type>
-			<url>rtsp://193.92.37.235:1935/LiveEdgeTV/live@720</url>
+			<url>http://193.92.37.235:1935/LiveEdgeTV/live@720/master.m3u8|User-Agent=Mozilla/5.0</url>
 		</channel>	
 		<channel active="True">
 			<name>SKAI (2)</name>
