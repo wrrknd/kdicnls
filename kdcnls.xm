@@ -88,7 +88,7 @@
 		<channel active="True">
 			<name>ERT1 (2)</name>
 			<type></type>
-			<url>http://ertlive.mdc.akamaized.net/ertlive/live1/playlist.m3u8</url>
+			<url>plugin://plugin.video.youtube/play/?video_id=WY_Zhh9-bI8</url>
 		</channel>
 		<channel active="True">
 			<name>EPT WORLD</name>
