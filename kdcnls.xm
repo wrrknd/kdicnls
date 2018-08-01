@@ -48,7 +48,7 @@
 		<channel active="True">
 			<name>E TV</name>
 			<type></type>
-			<url>https://origin1.streamings.gr/epsilontv</url>
+			<url>https://epsilonlivehls.akamaized.net/hls/live/683532/stream1a/master.m3u8</url>
 		</channel>
 		<channel active="True">
 			<name>MACEDONIA TV</name>
@@ -130,7 +130,7 @@
 			<type>gln</type>
 			<url>http://webtv-tv.eu/cha1/7.html</url>
 		</channel>
-		<channel active="True">
+		<channel active="False">
 			<name>E TV (2)</name>
 			<type></type>
 			<url>https://s2.streamings.gr/epsilontv/epsilontv.m3u8</url>
