@@ -120,7 +120,7 @@
 			<type>gln</type>
 			<url>http://webtv-tv.eu/cha1/5.html</url>
 		</channel>
-		<channel active="True">
+		<channel active="False">
 			<name>ALPHA (2)</name>
 			<type></type>
 			<url>http://193.92.37.235:1935/LiveEdgeTV/live@720/master.m3u8|User-Agent=Mozilla/5.0</url>
