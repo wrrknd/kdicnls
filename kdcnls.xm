@@ -103,7 +103,7 @@
 		<channel active="True">
 			<name>ERT3 (2)</name>
 			<type></type>
-			<url>plugin://plugin.video.youtube/play/?video_id=ELB7cKTx5ig</url>
+			<url>plugin://plugin.video.youtube/play/?video_id=x3IIDO6C-kc</url>
 		</channel>
 		<channel active="False">
 			<name>MEGA (2)</name>
@@ -120,6 +120,11 @@
 			<type>gln</type>
 			<url>http://webtv-tv.eu/cha1/5.html</url>
 		</channel>
+		<channel active="True">
+			<name>STAR (3)</name>
+			<type>gln</type>
+			<url>http://87.229.71.54:8081/1/E-star/playlist.m3u8</url>
+		</channel>
 		<channel active="False">
 			<name>ALPHA (2)</name>
 			<type></type>
@@ -130,9 +135,14 @@
 			<type>gln</type>
 			<url>http://webtv-tv.eu/cha1/7.html</url>
 		</channel>
-		<channel active="False">
+		<channel active="True">
+			<name>SKAI (3)</name>
+			<type>gln</type>
+			<url>http://87.229.71.54:8081/1/E-skai/playlist.m3u8</url>
+		</channel>
+		<channel active="True">
 			<name>E TV (2)</name>
 			<type></type>
-			<url>https://s2.streamings.gr/epsilontv/epsilontv.m3u8</url>
+			<url>http://87.229.71.54:8081/1/epsilon/playlist.m3u8</url>
 		</channel>
 </channels>
