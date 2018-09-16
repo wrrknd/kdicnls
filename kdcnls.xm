@@ -122,8 +122,8 @@
 		</channel>
 		<channel active="True">
 			<name>STAR (3)</name>
-			<type>gln</type>
-			<url>http://87.229.71.54:8081/1/E-star/playlist.m3u8</url>
+			<type></type>
+			<url>http://87.229.71.54:8081/1/E-star/playlist.m3u8|User-Agent=Mozilla/5.0</url>
 		</channel>
 		<channel active="False">
 			<name>ALPHA (2)</name>
@@ -137,12 +137,12 @@
 		</channel>
 		<channel active="True">
 			<name>SKAI (3)</name>
-			<type>gln</type>
-			<url>http://87.229.71.54:8081/1/E-skai/playlist.m3u8</url>
+			<type></type>
+			<url>http://87.229.71.54:8081/1/E-skai/playlist.m3u8|User-Agent=Mozilla/5.0</url>
 		</channel>
 		<channel active="True">
 			<name>E TV (2)</name>
 			<type></type>
-			<url>http://87.229.71.54:8081/1/epsilon/playlist.m3u8</url>
+			<url>http://87.229.71.54:8081/1/epsilon/playlist.m3u8|User-Agent=Mozilla/5.0</url>
 		</channel>
 </channels>
