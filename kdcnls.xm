@@ -143,6 +143,6 @@
 		<channel active="True">
 			<name>E TV (2)</name>
 			<type></type>
-			<url>http://87.229.71.54:8081/1/epsilon/playlist.m3u8|User-Agent=Mozilla/5.0</url>
+			<url>http://87.229.71.54:8081/1/E-epsilon/playlist.m3u8|User-Agent=Mozilla/5.0</url>
 		</channel>
 </channels>
