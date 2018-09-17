@@ -120,7 +120,7 @@
 			<type>gln</type>
 			<url>http://webtv-tv.eu/cha1/5.html</url>
 		</channel>
-		<channel active="True">
+		<channel active="False">
 			<name>STAR (3)</name>
 			<type></type>
 			<url>http://87.229.71.54:8081/1/E-star/playlist.m3u8|User-Agent=Mozilla/5.0</url>
@@ -135,12 +135,12 @@
 			<type>gln</type>
 			<url>http://webtv-tv.eu/cha1/7.html</url>
 		</channel>
-		<channel active="True">
+		<channel active="False">
 			<name>SKAI (3)</name>
 			<type></type>
 			<url>http://87.229.71.54:8081/1/E-skai/playlist.m3u8|User-Agent=Mozilla/5.0</url>
 		</channel>
-		<channel active="True">
+		<channel active="False">
 			<name>E TV (2)</name>
 			<type></type>
 			<url>http://87.229.71.54:8081/1/E-epsilon/playlist.m3u8|User-Agent=Mozilla/5.0</url>
