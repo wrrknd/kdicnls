@@ -50,7 +50,7 @@
 			<type></type>
 			<url>https://epsilonlivehls.akamaized.net/hls/live/683532/stream1a/master.m3u8</url>
 		</channel>
-		<channel active="True">
+		<channel active="False">
 			<name>MACEDONIA TV</name>
 			<type></type>
 			<url>http://anglantennalive5-lh.akamaihd.net/i/live_1@424766/master.m3u8</url>
