@@ -37,7 +37,7 @@
 		</channel>
 		<channel active="True">
 			<name>ALPHA CY</name>
-			<type>acy</type>
+			<type>rls</type>
 			<url>http://www.alphacyprus.com.cy/page/live</url>
 		</channel>
 		<channel active="True">
