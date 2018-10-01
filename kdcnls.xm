@@ -38,7 +38,7 @@
 		<channel active="True">
 			<name>ALPHA CY</name>
 			<type>acy</type>
-			<url>http://www.alphacyprus.com.cy/webtv/live</url>
+			<url>http://www.alphacyprus.com.cy/page/live</url>
 		</channel>
 		<channel active="True">
 			<name>SKAI</name>
