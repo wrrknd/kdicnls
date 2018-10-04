@@ -18,7 +18,7 @@
 		<channel active="True">
 			<name>MEGA</name>
 			<type>gln</type>
-			<url>http://webtv-tv.eu/cha1/3.html</url>
+			<url>http://webtv-tv.gr/cha1/3.html</url>
 		</channel>
 		<channel active="True">
 			<name>ANT1</name>
@@ -118,22 +118,22 @@
 		<channel active="True">
 			<name>STAR (2)</name>
 			<type>gln</type>
-			<url>http://webtv-tv.eu/cha1/5.html</url>
+			<url>http://webtv-tv.gr/cha1/5.html</url>
 		</channel>
 		<channel active="False">
 			<name>STAR (3)</name>
 			<type></type>
 			<url>http://87.229.71.54:8081/1/E-star/playlist.m3u8|User-Agent=Mozilla/5.0</url>
 		</channel>
-		<channel active="False">
+		<channel active="True">
 			<name>ALPHA (2)</name>
 			<type></type>
-			<url>http://193.92.37.235:1935/LiveEdgeTV/live@720/master.m3u8|User-Agent=Mozilla/5.0</url>
+			<url>https://alphalive-i.akamaihd.net/hls/live/682300/live/high/prog_index.m3u8|User-Agent=Mozilla/5.0</url>
 		</channel>	
 		<channel active="True">
 			<name>SKAI (2)</name>
 			<type>gln</type>
-			<url>http://webtv-tv.eu/cha1/7.html</url>
+			<url>http://webtv-tv.gr/cha1/7.html</url>
 		</channel>
 		<channel active="False">
 			<name>SKAI (3)</name>
