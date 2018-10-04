@@ -105,10 +105,10 @@
 			<type></type>
 			<url>plugin://plugin.video.youtube/play/?video_id=x3IIDO6C-kc</url>
 		</channel>
-		<channel active="False">
+		<channel active="True">
 			<name>MEGA (2)</name>
-			<type>gln</type>
-			<url></url>
+			<type>rls</type>
+			<url>http://pl.kineskop.tv/?page=watch&ch=360</url>
 		</channel>
 		<channel active="True">
 			<name>ANT1 (2)</name>
@@ -116,29 +116,39 @@
 			<url>https://antennalivesp-lh.akamaihd.net/i/live_1@715138/index_800_av-p.m3u8|User-Agent=Mozilla/5.0</url>
 		</channel>
 		<channel active="True">
+			<name>ANT1 (3)</name>
+			<type>rls</type>
+			<url>http://pl.kineskop.tv/?page=watch&ch=428</url>
+		</channel>
+		<channel active="True">
 			<name>STAR (2)</name>
 			<type>gln</type>
 			<url>http://webtv-tv.gr/cha1/5.html</url>
 		</channel>
-		<channel active="False">
+		<channel active="True">
 			<name>STAR (3)</name>
-			<type></type>
-			<url>http://87.229.71.54:8081/1/E-star/playlist.m3u8|User-Agent=Mozilla/5.0</url>
+			<type>rls</type>
+			<url>http://pl.kineskop.tv/?page=watch&ch=362</url>
 		</channel>
 		<channel active="True">
 			<name>ALPHA (2)</name>
 			<type></type>
 			<url>https://alphalive-i.akamaihd.net/hls/live/682300/live/high/prog_index.m3u8|User-Agent=Mozilla/5.0</url>
-		</channel>	
+		</channel>
+		<channel active="True">
+			<name>ALPHA (3)</name>
+			<type>rls</type>
+			<url>http://pl.kineskop.tv/?page=watch&ch=427</url>
+		</channel>
 		<channel active="True">
 			<name>SKAI (2)</name>
 			<type>gln</type>
 			<url>http://webtv-tv.gr/cha1/7.html</url>
 		</channel>
-		<channel active="False">
+		<channel active="True">
 			<name>SKAI (3)</name>
-			<type></type>
-			<url>http://87.229.71.54:8081/1/E-skai/playlist.m3u8|User-Agent=Mozilla/5.0</url>
+			<type>rls</type>
+			<url>http://pl.kineskop.tv/?page=watch&ch=361</url>
 		</channel>
 		<channel active="False">
 			<name>E TV (2)</name>
