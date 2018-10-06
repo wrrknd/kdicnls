@@ -16,6 +16,21 @@
 			<url>plugin://plugin.video.youtube/play/?video_id=5r5iftFbASw</url>
 		</channel>
 		<channel active="True">
+			<name>ERT1 (3)</name>
+			<type>rls</type>
+			<url>http://pl.kineskop.tv/?page=watch&ch=363</url>
+		</channel>
+		<channel active="True">
+			<name>ERT2 (3)</name>
+			<type>rls</type>
+			<url>http://pl.kineskop.tv/?page=watch&ch=364</url>
+		</channel>
+		<channel active="True">
+			<name>ERT3 (3)</name>
+			<type>rls</type>
+			<url>http://pl.kineskop.tv/?page=watch&ch=366</url>
+		</channel>
+		<channel active="True">
 			<name>MEGA</name>
 			<type>gln</type>
 			<url>http://webtv-tv.gr/cha1/3.html</url>
