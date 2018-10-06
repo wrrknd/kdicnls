@@ -6,24 +6,24 @@
 			<url>plugin://plugin.video.youtube/play/?video_id=Zx98moCvkpU</url>
 		</channel>
 		<channel active="True">
-			<name>ERT2</name>
-			<type></type>
-			<url>plugin://plugin.video.youtube/play/?video_id=qBxbnSwOrxE</url>
-		</channel>
-		<channel active="True">
-			<name>ERT3</name>
-			<type></type>
-			<url>plugin://plugin.video.youtube/play/?video_id=5r5iftFbASw</url>
-		</channel>
-		<channel active="True">
 			<name>ERT1 (3)</name>
 			<type>rls</type>
 			<url>http://pl.kineskop.tv/?page=watch&ch=363</url>
 		</channel>
 		<channel active="True">
+			<name>ERT2</name>
+			<type></type>
+			<url>plugin://plugin.video.youtube/play/?video_id=qBxbnSwOrxE</url>
+		</channel>
+		<channel active="True">
 			<name>ERT2 (3)</name>
 			<type>rls</type>
 			<url>http://pl.kineskop.tv/?page=watch&ch=364</url>
+		</channel>
+		<channel active="True">
+			<name>ERT3</name>
+			<type></type>
+			<url>plugin://plugin.video.youtube/play/?video_id=5r5iftFbASw</url>
 		</channel>
 		<channel active="True">
 			<name>ERT3 (3)</name>
