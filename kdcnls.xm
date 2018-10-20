@@ -73,7 +73,7 @@
 		<channel active="True">
 			<name>KONTRA CHANNEL</name>
 			<type></type>
-			<url>http://flashcloud.mediacdn.com/live/kontratv/playlist.m3u8|User-Agent=Mozilla/5.0</url>
+			<url>http:/http://flashcloud.mediacdn.com/live/kontratv/.m3u8</url>
 		</channel>
 		<channel active="True">
 			<name>TV 100</name>
@@ -128,7 +128,7 @@
 		<channel active="True">
 			<name>ANT1 (2)</name>
 			<type></type>
-			<url>https://antennalivesp-lh.akamaihd.net/i/live_1@715138/index_800_av-p.m3u8|User-Agent=Mozilla/5.0</url>
+			<url>https://antennalivesp-lh.akamaihd.net/i/live_1@715138/index_800_av-b.m3u8?sd=10&rebase=on|User-Agent=Mozilla/5.0</url>
 		</channel>
 		<channel active="True">
 			<name>ANT1 (3)</name>
