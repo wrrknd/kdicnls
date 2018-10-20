@@ -73,7 +73,7 @@
 		<channel active="True">
 			<name>KONTRA CHANNEL</name>
 			<type></type>
-			<url>http:/http://flashcloud.mediacdn.com/live/kontratv/.m3u8</url>
+			<url>http://flashcloud.mediacdn.com/live/kontratv/.m3u8|User-Agent=Mozilla/5.0</url>
 		</channel>
 		<channel active="True">
 			<name>TV 100</name>
