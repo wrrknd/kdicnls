@@ -165,9 +165,9 @@
 			<type>rls</type>
 			<url>http://pl.kineskop.tv/?page=watch&ch=361</url>
 		</channel>
-		<channel active="False">
+		<channel active="True">
 			<name>E TV (2)</name>
 			<type></type>
-			<url>http://87.229.71.54:8081/1/E-epsilon/playlist.m3u8|User-Agent=Mozilla/5.0</url>
+			<url>http://5.135.92.138:31783/out/u/581_1.m3u8|User-Agent=Mozilla/5.0</url>
 		</channel>
 </channels>
