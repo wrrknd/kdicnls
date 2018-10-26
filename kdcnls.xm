@@ -168,6 +168,6 @@
 		<channel active="False">
 			<name>E TV (2)</name>
 			<type></type>
-			<url>http://5.135.92.138:31783/out/u/581_1.m3u8|User-Agent=Mozilla/5.0</url>
+			<url></url>
 		</channel>
 </channels>
