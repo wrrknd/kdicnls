@@ -30,7 +30,7 @@
 			<type>rls</type>
 			<url>http://pl.kineskop.tv/?page=watch&ch=366</url>
 		</channel>
-		<channel active="True">
+		<channel active="False">
 			<name>MEGA</name>
 			<type>gln</type>
 			<url>http://webtv-tv.gr/cha1/3.html</url>
@@ -120,7 +120,7 @@
 			<type></type>
 			<url>plugin://plugin.video.youtube/play/?video_id=x3IIDO6C-kc</url>
 		</channel>
-		<channel active="True">
+		<channel active="False">
 			<name>MEGA (2)</name>
 			<type>rls</type>
 			<url>http://pl.kineskop.tv/?page=watch&ch=360</url>
