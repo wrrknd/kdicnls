@@ -31,6 +31,11 @@
 			<url>http://pl.kineskop.tv/?page=watch&ch=366</url>
 		</channel>
 		<channel active="True">
+			<name>E TV</name>
+			<type>rls</type>
+			<url>http://webtv-tv.gr/cha1/3.html</url>
+		</channel>
+		<channel active="True">
 			<name>ANT1</name>
 			<type></type>
 			<url>https://antennalivesp-lh.akamaihd.net/i/live_1@715138/master.m3u8|User-Agent=Mozilla/5.0</url>
@@ -54,11 +59,6 @@
 			<name>SKAI</name>
 			<type>skai</type>
 			<url>http://www.skai.gr/ajax.aspx?m=Skai.Mobile.Media.LookupMultimedia&record=true&mmid=3</url>
-		</channel>
-		<channel active="True">
-			<name>E TV</name>
-			<type>rls</type>
-			<url>http://webtv-tv.gr/cha1/3.html</url>
 		</channel>
 		<channel active="False">
 			<name>MACEDONIA TV</name>
@@ -116,6 +116,11 @@
 			<url>plugin://plugin.video.youtube/play/?video_id=x3IIDO6C-kc</url>
 		</channel>
 		<channel active="True">
+			<name>E TV (2)</name>
+			<type></type>
+			<url>https://epsilonlivehls.akamaized.net/hls/live/683532/stream1a/master.m3u8</url>
+		</channel>
+		<channel active="True">
 			<name>ANT1 (2)</name>
 			<type></type>
 			<url>https://antennalivesp-lh.akamaihd.net/i/live_1@715138/index_800_av-b.m3u8?sd=10&rebase=on|User-Agent=Mozilla/5.0</url>
@@ -154,10 +159,5 @@
 			<name>SKAI (3)</name>
 			<type>rls</type>
 			<url>http://pl.kineskop.tv/?page=watch&ch=361</url>
-		</channel>
-		<channel active="True">
-			<name>E TV (2)</name>
-			<type></type>
-			<url>https://epsilonlivehls.akamaized.net/hls/live/683532/stream1a/master.m3u8</url>
 		</channel>
 </channels>
