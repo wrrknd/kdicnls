@@ -57,8 +57,8 @@
 		</channel>
 		<channel active="True">
 			<name>E TV</name>
-			<type></type>
-			<url>https://epsilonlivehls.akamaized.net/hls/live/683532/stream1a/master.m3u8</url>
+			<type>rls</type>
+			<url>http://webtv-tv.gr/cha1/3.html</url>
 		</channel>
 		<channel active="False">
 			<name>MACEDONIA TV</name>
@@ -127,7 +127,7 @@
 		</channel>
 		<channel active="True">
 			<name>STAR (2)</name>
-			<type>gln</type>
+			<type>rls</type>
 			<url>http://webtv-tv.gr/cha1/5.html</url>
 		</channel>
 		<channel active="True">
@@ -147,7 +147,7 @@
 		</channel>
 		<channel active="True">
 			<name>SKAI (2)</name>
-			<type>gln</type>
+			<type>rls</type>
 			<url>http://webtv-tv.gr/cha1/7.html</url>
 		</channel>
 		<channel active="True">
@@ -155,9 +155,9 @@
 			<type>rls</type>
 			<url>http://pl.kineskop.tv/?page=watch&ch=361</url>
 		</channel>
-		<channel active="False">
+		<channel active="True">
 			<name>E TV (2)</name>
 			<type></type>
-			<url></url>
+			<url>https://epsilonlivehls.akamaized.net/hls/live/683532/stream1a/master.m3u8</url>
 		</channel>
 </channels>
