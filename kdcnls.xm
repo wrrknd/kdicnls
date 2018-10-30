@@ -6,7 +6,7 @@
 			<url>plugin://plugin.video.youtube/play/?video_id=Zx98moCvkpU</url>
 		</channel>
 		<channel active="True">
-			<name>ERT1 (3)</name>
+			<name>ERT1 (2)</name>
 			<type>rls</type>
 			<url>http://pl.kineskop.tv/?page=watch&ch=363</url>
 		</channel>
@@ -16,7 +16,7 @@
 			<url>plugin://plugin.video.youtube/play/?video_id=qBxbnSwOrxE</url>
 		</channel>
 		<channel active="True">
-			<name>ERT2 (3)</name>
+			<name>ERT2 (2)</name>
 			<type>rls</type>
 			<url>http://pl.kineskop.tv/?page=watch&ch=364</url>
 		</channel>
@@ -26,7 +26,7 @@
 			<url>plugin://plugin.video.youtube/play/?video_id=5r5iftFbASw</url>
 		</channel>
 		<channel active="True">
-			<name>ERT3 (3)</name>
+			<name>ERT3 (2)</name>
 			<type>rls</type>
 			<url>http://pl.kineskop.tv/?page=watch&ch=366</url>
 		</channel>
@@ -96,22 +96,22 @@
 			<url>http://streamer-cache.grnet.gr/parliament/hls/webtv.m3u8</url>
 		</channel>
 		<channel active="True">
-			<name>ERT1 (2)</name>
-			<type></type>
-			<url>plugin://plugin.video.youtube/play/?video_id=WY_Zhh9-bI8</url>
-		</channel>
-		<channel active="True">
 			<name>EPT WORLD</name>
 			<type></type>
 			<url>plugin://plugin.video.youtube/play/?video_id=qRY56sJJ2to</url>
 		</channel>
 		<channel active="True">
-			<name>ERT2 (2)</name>
+			<name>ERT1 GR</name>
+			<type></type>
+			<url>plugin://plugin.video.youtube/play/?video_id=WY_Zhh9-bI8</url>
+		</channel>
+		<channel active="True">
+			<name>ERT2 GR</name>
 			<type></type>
 			<url>plugin://plugin.video.youtube/play/?video_id=AOVVjaLbGEk</url>
 		</channel>
 		<channel active="True">
-			<name>ERT3 (2)</name>
+			<name>ERT3 GR</name>
 			<type></type>
 			<url>plugin://plugin.video.youtube/play/?video_id=x3IIDO6C-kc</url>
 		</channel>
