@@ -6,29 +6,14 @@
 			<url>plugin://plugin.video.youtube/play/?video_id=Zx98moCvkpU</url>
 		</channel>
 		<channel active="True">
-			<name>ERT1 (2)</name>
-			<type>rls</type>
-			<url>http://pl.kineskop.tv/?page=watch&ch=363</url>
-		</channel>
-		<channel active="True">
 			<name>ERT2</name>
 			<type></type>
 			<url>plugin://plugin.video.youtube/play/?video_id=qBxbnSwOrxE</url>
 		</channel>
 		<channel active="True">
-			<name>ERT2 (2)</name>
-			<type>rls</type>
-			<url>http://pl.kineskop.tv/?page=watch&ch=364</url>
-		</channel>
-		<channel active="True">
 			<name>ERT3</name>
 			<type></type>
 			<url>plugin://plugin.video.youtube/play/?video_id=5r5iftFbASw</url>
-		</channel>
-		<channel active="True">
-			<name>ERT3 (2)</name>
-			<type>rls</type>
-			<url>http://pl.kineskop.tv/?page=watch&ch=366</url>
 		</channel>
 		<channel active="True">
 			<name>OPEN</name>
@@ -66,7 +51,7 @@
 			<url>http://anglantennalive5-lh.akamaihd.net/i/live_1@424766/master.m3u8</url>
 		</channel>
 		<channel active="True">
-			<name>KONTRA CHANNEL</name>
+			<name>KONTRA</name>
 			<type></type>
 			<url>http://flashcloud.mediacdn.com/live/kontratv/.m3u8|User-Agent=Mozilla/5.0</url>
 		</channel>
@@ -74,16 +59,6 @@
 			<name>TV 100</name>
 			<type></type>
 			<url>http://178.62.176.153/hls/tv100/index.m3u8</url>
-		</channel>
-		<channel active="False">
-			<name>BLUE SKY</name>
-			<type>ytliv</type>
-			<url>https://www.youtube.com/channel/UCBuEruzW_f-Qpj_sABmuYSg/live</url>
-		</channel>
-		<channel active="False">
-			<name>EXTRA 3</name>
-			<type></type>
-			<url>https://origin1.streamings.gr/extratv</url>
 		</channel>
 		<channel active="True">
 			<name>NEO TV</name>
@@ -96,24 +71,24 @@
 			<url>http://streamer-cache.grnet.gr/parliament/hls/webtv.m3u8</url>
 		</channel>
 		<channel active="True">
+			<name>ERT1 (2)</name>
+			<type>rls</type>
+			<url>http://pl.kineskop.tv/?page=watch&ch=363</url>
+		</channel>
+		<channel active="True">
+			<name>ERT2 (2)</name>
+			<type>rls</type>
+			<url>http://pl.kineskop.tv/?page=watch&ch=364</url>
+		</channel>
+		<channel active="True">
+			<name>ERT3 (2)</name>
+			<type>rls</type>
+			<url>http://pl.kineskop.tv/?page=watch&ch=366</url>
+		</channel>
+		<channel active="True">
 			<name>EPT WORLD</name>
 			<type></type>
 			<url>plugin://plugin.video.youtube/play/?video_id=qRY56sJJ2to</url>
-		</channel>
-		<channel active="True">
-			<name>ERT1 GR</name>
-			<type></type>
-			<url>plugin://plugin.video.youtube/play/?video_id=WY_Zhh9-bI8</url>
-		</channel>
-		<channel active="True">
-			<name>ERT2 GR</name>
-			<type></type>
-			<url>plugin://plugin.video.youtube/play/?video_id=AOVVjaLbGEk</url>
-		</channel>
-		<channel active="True">
-			<name>ERT3 GR</name>
-			<type></type>
-			<url>plugin://plugin.video.youtube/play/?video_id=x3IIDO6C-kc</url>
 		</channel>
 		<channel active="True">
 			<name>OPEN (2)</name>
@@ -159,5 +134,20 @@
 			<name>SKAI (3)</name>
 			<type>rls</type>
 			<url>http://pl.kineskop.tv/?page=watch&ch=361</url>
+		</channel>
+		<channel active="True">
+			<name>ERT1 GR</name>
+			<type></type>
+			<url>plugin://plugin.video.youtube/play/?video_id=WY_Zhh9-bI8</url>
+		</channel>
+		<channel active="True">
+			<name>ERT2 GR</name>
+			<type></type>
+			<url>plugin://plugin.video.youtube/play/?video_id=AOVVjaLbGEk</url>
+		</channel>
+		<channel active="True">
+			<name>ERT3 GR</name>
+			<type></type>
+			<url>plugin://plugin.video.youtube/play/?video_id=x3IIDO6C-kc</url>
 		</channel>
 </channels>
