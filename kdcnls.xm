@@ -73,17 +73,17 @@
 		<channel active="True">
 			<name>ERT1 (2)</name>
 			<type>rls</type>
-			<url>http://pl.kineskop.tv/?page=watch&ch=363</url>
+			<url>http://ru.kineskop.tv/?page=watch&ch=363</url>
 		</channel>
 		<channel active="True">
 			<name>ERT2 (2)</name>
 			<type>rls</type>
-			<url>http://pl.kineskop.tv/?page=watch&ch=364</url>
+			<url>http://ru.kineskop.tv/?page=watch&ch=364</url>
 		</channel>
 		<channel active="True">
 			<name>ERT3 (2)</name>
 			<type>rls</type>
-			<url>http://pl.kineskop.tv/?page=watch&ch=366</url>
+			<url>http://ru.kineskop.tv/?page=watch&ch=366</url>
 		</channel>
 		<channel active="True">
 			<name>EPT WORLD</name>
@@ -103,7 +103,7 @@
 		<channel active="True">
 			<name>ANT1 (3)</name>
 			<type>rls</type>
-			<url>http://pl.kineskop.tv/?page=watch&ch=428</url>
+			<url>http://ru.kineskop.tv/?page=watch&ch=428</url>
 		</channel>
 		<channel active="True">
 			<name>STAR (2)</name>
@@ -113,7 +113,7 @@
 		<channel active="True">
 			<name>STAR (3)</name>
 			<type>rls</type>
-			<url>http://pl.kineskop.tv/?page=watch&ch=362</url>
+			<url>http://ru.kineskop.tv/?page=watch&ch=362</url>
 		</channel>
 		<channel active="True">
 			<name>ALPHA (2)</name>
@@ -123,7 +123,7 @@
 		<channel active="True">
 			<name>ALPHA (3)</name>
 			<type>rls</type>
-			<url>http://pl.kineskop.tv/?page=watch&ch=427</url>
+			<url>http://ru.kineskop.tv/?page=watch&ch=427</url>
 		</channel>
 		<channel active="True">
 			<name>SKAI (2)</name>
@@ -133,7 +133,7 @@
 		<channel active="True">
 			<name>SKAI (3)</name>
 			<type>rls</type>
-			<url>http://pl.kineskop.tv/?page=watch&ch=361</url>
+			<url>http://ru.kineskop.tv/?page=watch&ch=361</url>
 		</channel>
 		<channel active="True">
 			<name>ERT1 GR</name>
