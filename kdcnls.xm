@@ -138,7 +138,7 @@
 		<channel active="True">
 			<name>ERT1 GR</name>
 			<type></type>
-			<url>plugin://plugin.video.youtube/play/?video_id=WY_Zhh9-bI8</url>
+			<url>plugin://plugin.video.youtube/play/?video_id=SbZQY3UYw_Y</url>
 		</channel>
 		<channel active="True">
 			<name>ERT2 GR</name>
