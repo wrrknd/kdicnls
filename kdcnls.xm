@@ -17,8 +17,8 @@
 		</channel>
 		<channel active="True">
 			<name>OPEN</name>
-			<type>rls</type>
-			<url>http://webtv-tv.gr/cha1/3.html</url>
+			<type></type>
+			<url>http://master.cystreams.com:25461/live/greek/asshole/43.ts</url>
 		</channel>
 		<channel active="True">
 			<name>ANT1</name>
@@ -102,13 +102,18 @@
 		</channel>
 		<channel active="True">
 			<name>ANT1 (3)</name>
+			<type></type>
+			<url>http://5.135.92.138:40327/out/u/atsykmssuyrsyhth.m3u8</url>
+		</channel>
+		<channel active="True">
+			<name>ANT1 (4)</name>
 			<type>rls</type>
 			<url>http://ru.kineskop.tv/?page=watch&ch=428</url>
 		</channel>
 		<channel active="True">
 			<name>STAR (2)</name>
-			<type>rls</type>
-			<url>http://webtv-tv.gr/cha1/5.html</url>
+			<type></type>
+			<url>http://master.cystreams.com:25461/live/greek/asshole/40.ts</url>
 		</channel>
 		<channel active="True">
 			<name>STAR (3)</name>
@@ -127,8 +132,8 @@
 		</channel>
 		<channel active="True">
 			<name>SKAI (2)</name>
-			<type>rls</type>
-			<url>http://webtv-tv.gr/cha1/7.html</url>
+			<type></type>
+			<url>http://master.cystreams.com:25461/live/greek/asshole/42.ts</url>
 		</channel>
 		<channel active="True">
 			<name>SKAI (3)</name>
