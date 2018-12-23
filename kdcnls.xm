@@ -102,11 +102,6 @@
 		</channel>
 		<channel active="True">
 			<name>ANT1 (3)</name>
-			<type></type>
-			<url>http://5.135.92.138:40327/out/u/atsykmssuyrsyhth.m3u8</url>
-		</channel>
-		<channel active="True">
-			<name>ANT1 (4)</name>
 			<type>rls</type>
 			<url>http://ru.kineskop.tv/?page=watch&ch=428</url>
 		</channel>
