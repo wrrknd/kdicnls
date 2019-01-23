@@ -88,7 +88,7 @@
 		<channel active="True">
 			<name>EPT WORLD</name>
 			<type></type>
-			<url>plugin://plugin.video.youtube/play/?video_id=qRY56sJJ2to</url>
+			<url>plugin://plugin.video.youtube/play/?video_id=MRDeOhioF3g</url>
 		</channel>
 		<channel active="True">
 			<name>OPEN (2)</name>
