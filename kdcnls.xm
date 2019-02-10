@@ -16,6 +16,11 @@
 			<url>plugin://plugin.video.youtube/play/?video_id=5r5iftFbASw</url>
 		</channel>
 		<channel active="True">
+			<name>ΕΡΤ SPORTS</name>
+			<type></type>
+			<url>plugin://plugin.video.youtube/play/?video_id=M0InlvUsshM</url>
+		</channel>
+		<channel active="True">
 			<name>OPEN</name>
 			<type></type>
 			<url>http://master.cystreams.com:25461/live/greek/asshole/43.ts</url>
@@ -149,5 +154,10 @@
 			<name>ERT3 GR</name>
 			<type></type>
 			<url>plugin://plugin.video.youtube/play/?video_id=x3IIDO6C-kc</url>
+		</channel>
+		<channel active="True">
+			<name>ΕΡΤ SPORTS GR</name>
+			<type></type>
+			<url>plugin://plugin.video.youtube/play/?video_id=MP8Htwny-T4</url>
 		</channel>
 </channels>
