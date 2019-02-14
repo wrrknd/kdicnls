@@ -61,6 +61,11 @@
 			<url>http://flashcloud.mediacdn.com/live/kontratv/.m3u8|User-Agent=Mozilla/5.0</url>
 		</channel>
 		<channel active="True">
+			<name>KONTRA (2)</name>
+			<type>ytliv</type>
+			<url>https://www.youtube.com/user/kontrachannelhellas/live</url>
+		</channel>
+		<channel active="True">
 			<name>TV 100</name>
 			<type></type>
 			<url>http://178.62.176.153/hls/tv100/index.m3u8</url>
