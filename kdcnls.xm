@@ -107,11 +107,6 @@
 		</channel>
 		<channel active="True">
 			<name>ANT1 (2)</name>
-			<type></type>
-			<url>https://antennalivesp-lh.akamaihd.net/i/live_1@715138/index_800_av-p.m3u8?sd=10&rebase=on|User-Agent=Mozilla/5.0</url>
-		</channel>
-		<channel active="True">
-			<name>ANT1 (3)</name>
 			<type>rls</type>
 			<url>http://ru.kineskop.tv/?page=watch&ch=428</url>
 		</channel>
