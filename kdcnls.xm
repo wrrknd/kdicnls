@@ -40,7 +40,7 @@
 			<type></type>
 			<url>https://alphalive-i.akamaihd.net/hls/live/682300/live/master.m3u8|User-Agent=Mozilla/5.0</url>
 		</channel>
-		<channel active="True">
+		<channel active="False">
 			<name>ALPHA CY</name>
 			<type>rls</type>
 			<url>http://www.alphacyprus.com.cy/page/live</url>
