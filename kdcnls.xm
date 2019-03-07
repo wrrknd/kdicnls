@@ -80,17 +80,17 @@
 			<type></type>
 			<url>http://streamer-cache.grnet.gr/parliament/hls/webtv.m3u8</url>
 		</channel>
-		<channel active="True">
+		<channel active="False">
 			<name>ERT1 (2)</name>
 			<type>rls</type>
 			<url>http://ru.kineskop.tv/?page=watch&ch=363</url>
 		</channel>
-		<channel active="True">
+		<channel active="False">
 			<name>ERT2 (2)</name>
 			<type>rls</type>
 			<url>http://ru.kineskop.tv/?page=watch&ch=364</url>
 		</channel>
-		<channel active="True">
+		<channel active="False">
 			<name>ERT3 (2)</name>
 			<type>rls</type>
 			<url>http://ru.kineskop.tv/?page=watch&ch=366</url>
