@@ -132,8 +132,8 @@
 		</channel>
 		<channel active="True">
 			<name>SKAI (2)</name>
-			<type></type>
-			<url>http://master.cystreams.com:25461/live/greek/asshole/42.ts</url>
+			<type>rls</type>
+			<url>http://webtv-tv.gr/cha1/7.html</url>
 		</channel>
 		<channel active="True">
 			<name>SKAI (3)</name>
