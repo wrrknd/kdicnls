@@ -75,7 +75,7 @@
 			<type></type>
 			<url>https://neotv.streamings.gr/live/tv/index.m3u8|User-Agent=Mozilla/5.0</url>
 		</channel>
-		<channel active="True">
+		<channel active="False">
 			<name>ONE</name>
 			<type>ytliv</type>
 			<url>https://www.youtube.com/channel/UCXK1REWlDre0WyKXqCBxeSg/live</url>
