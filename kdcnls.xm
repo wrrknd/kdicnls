@@ -76,6 +76,11 @@
 			<url>https://neotv.streamings.gr/live/tv/index.m3u8|User-Agent=Mozilla/5.0</url>
 		</channel>
 		<channel active="True">
+			<name>ONE</name>
+			<type>ytliv</type>
+			<url>https://www.youtube.com/channel/UCXK1REWlDre0WyKXqCBxeSg/live</url>
+		</channel>
+		<channel active="True">
 			<name>BOYLH TV</name>
 			<type></type>
 			<url>http://streamer-cache.grnet.gr/parliament/hls/webtv.m3u8</url>
