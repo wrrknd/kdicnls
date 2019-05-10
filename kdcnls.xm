@@ -47,8 +47,8 @@
 		</channel>
 		<channel active="True">
 			<name>SKAI</name>
-			<type>skai</type>
-			<url>http://www.skai.gr/ajax.aspx?m=NewModules.LookupMultimedia&record=true&mmid=3</url>
+			<type></type>
+			<url>plugin://plugin.video.youtube/play/?video_id=zQgtrjjHVtc</url>
 		</channel>
 		<channel active="False">
 			<name>MACEDONIA TV</name>
