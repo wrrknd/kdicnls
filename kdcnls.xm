@@ -50,11 +50,6 @@
 			<type>skai</type>
 			<url>http://www.skaitv.gr/json/live.php</url>
 		</channel>
-		<channel active="True">
-			<name>SKAI (4)</name>
-			<type></type>
-			<url>plugin://plugin.video.youtube/play/?video_id=zQgtrjjHVtc</url>
-		</channel>
 		<channel active="False">
 			<name>MACEDONIA TV</name>
 			<type></type>
