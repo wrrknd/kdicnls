@@ -22,8 +22,8 @@
 		</channel>
 		<channel active="True">
 			<name>OPEN</name>
-			<type></type>
-			<url>http://master.cystreams.com:25461/live/greek/asshole/43.ts</url>
+			<type>rls</type>
+			<url>http://webtv-tv.gr/cha1/3.html</url>
 		</channel>
 		<channel active="True">
 			<name>ANT1</name>
@@ -111,6 +111,11 @@
 			<url>https://epsilonlivehls.akamaized.net/hls/live/683532/stream1a/master.m3u8|User-Agent=Mozilla/5.0</url>
 		</channel>
 		<channel active="True">
+			<name>OPEN (3)</name>
+			<type></type>
+			<url>http://master.cystreams.com:25461/live/greek/asshole/43.ts</url>
+		</channel>
+		<channel active="True">
 			<name>ANT1 (2)</name>
 			<type>rls</type>
 			<url>http://ru.kineskop.tv/?page=watch&ch=428</url>
@@ -123,7 +128,12 @@
 		<channel active="True">
 			<name>STAR (3)</name>
 			<type>rls</type>
-			<url>http://ru.kineskop.tv/?page=watch&ch=362</url>
+			<url>http://webtv-tv.gr/cha1/5.html</url>
+		</channel>
+		<channel active="True">
+			<name>STAR (4)</name>
+			<type></type>
+			<url>plugin://plugin.video.youtube/play/?video_id=L4tD9P-ZHIs</url>
 		</channel>
 		<channel active="True">
 			<name>ALPHA (2)</name>
@@ -142,8 +152,8 @@
 		</channel>
 		<channel active="True">
 			<name>SKAI (3)</name>
-			<type>rls</type>
-			<url>http://ru.kineskop.tv/?page=watch&ch=361</url>
+			<type></type>
+			<url>http://master.cystreams.com:25461/live/greek/asshole/42.ts</url>
 		</channel>
 		<channel active="True">
 			<name>ERT1 GR</name>
