@@ -113,7 +113,7 @@
 		<channel active="True">
 			<name>OPEN (3)</name>
 			<type></type>
-			<url>http://master.cystreams.com:25461/live/greek/asshole/43.ts</url>
+			<url>http://master.cystreams.com:25461/live/greek/macedonia/43.ts</url>
 		</channel>
 		<channel active="True">
 			<name>ANT1 (2)</name>
@@ -123,7 +123,7 @@
 		<channel active="True">
 			<name>STAR (2)</name>
 			<type></type>
-			<url>http://master.cystreams.com:25461/live/greek/asshole/40.ts</url>
+			<url>http://master.cystreams.com:25461/live/greek/macedonia/40.ts</url>
 		</channel>
 		<channel active="True">
 			<name>STAR (3)</name>
@@ -153,7 +153,7 @@
 		<channel active="True">
 			<name>SKAI (3)</name>
 			<type></type>
-			<url>http://master.cystreams.com:25461/live/greek/asshole/42.ts</url>
+			<url>http://master.cystreams.com:25461/live/greek/macedonia/42.ts</url>
 		</channel>
 		<channel active="True">
 			<name>ERT1 GR</name>
