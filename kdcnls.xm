@@ -3,7 +3,7 @@
 		<channel active="True">
 			<name>ERT1</name>
 			<type></type>
-			<url>plugin://plugin.video.youtube/play/?video_id=Zx98moCvkpU</url>
+			<url>plugin://plugin.video.youtube/play/?video_id=Rrpmhd-U7WM</url>
 		</channel>
 		<channel active="True">
 			<name>ERT2</name>
