@@ -20,7 +20,7 @@
 			<type></type>
 			<url>plugin://plugin.video.youtube/play/?video_id=M0InlvUsshM</url>
 		</channel>
-		<channel active="True">
+		<channel active="False">
 			<name>OPEN</name>
 			<type>rls</type>
 			<url>http://webtv-tv.gr/cha1/3.html</url>
@@ -110,7 +110,7 @@
 			<type></type>
 			<url>https://epsilonlivehls.akamaized.net/hls/live/683532/stream1a/master.m3u8|User-Agent=Mozilla/5.0</url>
 		</channel>
-		<channel active="True">
+		<channel active="False">
 			<name>OPEN (3)</name>
 			<type></type>
 			<url>http://master.cystreams.com:25461/live/greek/macedonia/43.ts</url>
@@ -130,7 +130,7 @@
 			<type>rls</type>
 			<url>http://webtv-tv.gr/cha1/5.html</url>
 		</channel>
-		<channel active="True">
+		<channel active="False">
 			<name>STAR (4)</name>
 			<type></type>
 			<url>plugin://plugin.video.youtube/play/?video_id=L4tD9P-ZHIs</url>
@@ -145,12 +145,12 @@
 			<type>rls</type>
 			<url>http://ru.kineskop.tv/?page=watch&ch=427</url>
 		</channel>
-		<channel active="True">
+		<channel active="False">
 			<name>SKAI (2)</name>
 			<type>rls</type>
 			<url>http://webtv-tv.gr/cha1/7.html</url>
 		</channel>
-		<channel active="True">
+		<channel active="False">
 			<name>SKAI (3)</name>
 			<type></type>
 			<url>http://master.cystreams.com:25461/live/greek/macedonia/42.ts</url>
