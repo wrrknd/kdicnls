@@ -3,12 +3,12 @@
 		<channel active="True">
 			<name>ERT1</name>
 			<type></type>
-			<url>plugin://plugin.video.youtube/play/?video_id=Rrpmhd-U7WM</url>
+			<url>plugin://plugin.video.youtube/play/?video_id=oKDOnAf7xmg</url>
 		</channel>
 		<channel active="True">
 			<name>ERT2</name>
 			<type></type>
-			<url>plugin://plugin.video.youtube/play/?video_id=qBxbnSwOrxE</url>
+			<url>plugin://plugin.video.youtube/play/?video_id=7vutpv0TESc</url>
 		</channel>
 		<channel active="True">
 			<name>ERT3</name>
@@ -18,7 +18,7 @@
 		<channel active="True">
 			<name>ERT SPORTS</name>
 			<type></type>
-			<url>plugin://plugin.video.youtube/play/?video_id=M0InlvUsshM</url>
+			<url>plugin://plugin.video.youtube/play/?video_id=j4d1iqW1GvM</url>
 		</channel>
 		<channel active="False">
 			<name>OPEN</name>
@@ -103,7 +103,7 @@
 		<channel active="True">
 			<name>EPT WORLD</name>
 			<type></type>
-			<url>plugin://plugin.video.youtube/play/?video_id=MRDeOhioF3g</url>
+			<url>plugin://plugin.video.youtube/play/?video_id=bxJIXgqbxkI</url>
 		</channel>
 		<channel active="True">
 			<name>OPEN (2)</name>
@@ -158,12 +158,12 @@
 		<channel active="True">
 			<name>ERT1 GR</name>
 			<type></type>
-			<url>plugin://plugin.video.youtube/play/?video_id=SbZQY3UYw_Y</url>
+			<url>plugin://plugin.video.youtube/play/?video_id=XB5EniQqFT4</url>
 		</channel>
 		<channel active="True">
 			<name>ERT2 GR</name>
 			<type></type>
-			<url>plugin://plugin.video.youtube/play/?video_id=AOVVjaLbGEk</url>
+			<url>plugin://plugin.video.youtube/play/?video_id=H8cREgvj1oU</url>
 		</channel>
 		<channel active="True">
 			<name>ERT3 GR</name>
@@ -173,6 +173,6 @@
 		<channel active="True">
 			<name>ERT SPORTS GR</name>
 			<type></type>
-			<url>plugin://plugin.video.youtube/play/?video_id=MP8Htwny-T4</url>
+			<url>plugin://plugin.video.youtube/play/?video_id=ykRc-EJm148</url>
 		</channel>
 </channels>
