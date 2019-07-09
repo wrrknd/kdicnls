@@ -145,7 +145,7 @@
 			<type>rls</type>
 			<url>http://ru.kineskop.tv/?page=watch&ch=427</url>
 		</channel>
-		<channel active="False">
+		<channel active="True">
 			<name>SKAI (2)</name>
 			<type>rls</type>
 			<url>http://webtv-tv.gr/cha1/7.html</url>
