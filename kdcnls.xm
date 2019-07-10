@@ -40,7 +40,7 @@
 			<type></type>
 			<url>https://alphalive-i.akamaihd.net/hls/live/682300/live/master.m3u8|User-Agent=Mozilla/5.0</url>
 		</channel>
-		<channel active="False">
+		<channel active="True">
 			<name>ALPHA CY</name>
 			<type>rls</type>
 			<url>http://www.alphacyprus.com.cy/page/live</url>
@@ -150,7 +150,7 @@
 			<type>rls</type>
 			<url>http://webtv-tv.gr/cha1/7.html</url>
 		</channel>
-		<channel active="False">
+		<channel active="True">
 			<name>SKAI (3)</name>
 			<type></type>
 			<url>http://master.cystreams.com:25461/live/greek/macedonia/42.ts</url>
