@@ -20,7 +20,7 @@
 			<type></type>
 			<url>plugin://plugin.video.youtube/play/?video_id=j4d1iqW1GvM</url>
 		</channel>
-		<channel active="False">
+		<channel active="True">
 			<name>OPEN</name>
 			<type>rls</type>
 			<url>http://webtv-tv.gr/cha1/3.html</url>
@@ -110,7 +110,7 @@
 			<type></type>
 			<url>https://epsilonlivehls.akamaized.net/hls/live/683532/stream1a/master.m3u8|User-Agent=Mozilla/5.0</url>
 		</channel>
-		<channel active="False">
+		<channel active="True">
 			<name>OPEN (3)</name>
 			<type></type>
 			<url>http://master.cystreams.com:25461/live/greek/macedonia/43.ts</url>
