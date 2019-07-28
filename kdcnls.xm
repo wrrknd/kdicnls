@@ -118,7 +118,7 @@
 		<channel active="True">
 			<name>ANT1 (2)</name>
 			<type>rls</type>
-			<url>http://ru.kineskop.tv/?page=watch&ch=428</url>
+			<url>http://pl.kineskop.tv/?page=watch&ch=428</url>
 		</channel>
 		<channel active="True">
 			<name>STAR (2)</name>
@@ -142,8 +142,8 @@
 		</channel>
 		<channel active="True">
 			<name>ALPHA (3)</name>
-			<type>rls</type>
-			<url>http://ru.kineskop.tv/?page=watch&ch=427</url>
+			<type>rls</type
+			<url>http://pl.kineskop.tv/?page=watch&ch=427</url>
 		</channel>
 		<channel active="True">
 			<name>SKAI (2)</name>
