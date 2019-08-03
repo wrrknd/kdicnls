@@ -22,8 +22,8 @@
 		</channel>
 		<channel active="True">
 			<name>OPEN</name>
-			<type>rls</type>
-			<url>http://webtv-tv.gr/cha1/3.html</url>
+			<type></type>
+			<url>https://opentvlive.siliconweb.com/openTvLive/stream1a/playlist.m3u8|User-Agent=Mozilla/5.0</url>
 		</channel>
 		<channel active="True">
 			<name>ANT1</name>
@@ -107,8 +107,8 @@
 		</channel>
 		<channel active="True">
 			<name>OPEN (2)</name>
-			<type></type>
-			<url>https://epsilonlivehls.akamaized.net/hls/live/683532/stream1a/master.m3u8|User-Agent=Mozilla/5.0</url>
+			<type>rls</type>
+			<url>http://webtv-tv.gr/cha1/3.html</url>
 		</channel>
 		<channel active="True">
 			<name>OPEN (3)</name>
