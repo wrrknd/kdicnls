@@ -23,7 +23,7 @@
 		<channel active="True">
 			<name>OPEN</name>
 			<type></type>
-			<url>https://opentvlive.siliconweb.com/openTvLive/stream1a/playlist.m3u8|User-Agent=Mozilla/5.0</url>
+			<url>https://liveopen.siliconweb.com/openTvLive/stream2a/playlist.m3u8|User-Agent=Mozilla/5.0</url>
 		</channel>
 		<channel active="True">
 			<name>ANT1</name>
