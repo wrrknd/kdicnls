@@ -3,22 +3,22 @@
 		<channel active="True">
 			<name>ERT1</name>
 			<type></type>
-			<url>plugin://plugin.video.youtube/play/?video_id=oKDOnAf7xmg</url>
+			<url>https://ert-live.siliconweb.com/media/ert_1/ert_1.m3u8|User-Agent=Mozilla/5.0</url>
 		</channel>
 		<channel active="True">
 			<name>ERT2</name>
 			<type></type>
-			<url>plugin://plugin.video.youtube/play/?video_id=7vutpv0TESc</url>
+			<url>https://ert-live.siliconweb.com/media/ert_2/ert_2.m3u8|User-Agent=Mozilla/5.0</url>
 		</channel>
 		<channel active="True">
 			<name>ERT3</name>
 			<type></type>
-			<url>plugin://plugin.video.youtube/play/?video_id=5r5iftFbASw</url>
+			<url>https://ert-live.siliconweb.com/media/ert_3/ert_3.m3u8|User-Agent=Mozilla/5.0</url>
 		</channel>
 		<channel active="True">
 			<name>ERT SPORTS</name>
 			<type></type>
-			<url>plugin://plugin.video.youtube/play/?video_id=j4d1iqW1GvM</url>
+			<url>https://ert-live.siliconweb.com/media/ert_sports/ert_sportshigh.m3u8|User-Agent=Mozilla/5.0</url>
 		</channel>
 		<channel active="True">
 			<name>OPEN</name>
@@ -110,7 +110,7 @@
 			<type>rls</type>
 			<url>http://webtv-tv.gr/cha1/3.html</url>
 		</channel>
-		<channel active="True">
+		<channel active="False">
 			<name>OPEN (3)</name>
 			<type></type>
 			<url>http://master.cystreams.com:25461/live/greek/macedonia/43.ts</url>
@@ -120,7 +120,7 @@
 			<type>rls</type>
 			<url>http://pl.kineskop.tv/?page=watch&ch=428</url>
 		</channel>
-		<channel active="True">
+		<channel active="False">
 			<name>STAR (2)</name>
 			<type></type>
 			<url>http://master.cystreams.com:25461/live/greek/macedonia/40.ts</url>
@@ -135,7 +135,7 @@
 			<type></type>
 			<url>plugin://plugin.video.youtube/play/?video_id=L4tD9P-ZHIs</url>
 		</channel>
-		<channel active="True">
+		<channel active="False">
 			<name>ALPHA (2)</name>
 			<type></type>
 			<url>https://alphalive-i.akamaihd.net/hls/live/682300/live/high/prog_index.m3u8|User-Agent=Mozilla/5.0</url>
@@ -150,27 +150,27 @@
 			<type>rls</type>
 			<url>http://webtv-tv.gr/cha1/7.html</url>
 		</channel>
-		<channel active="True">
+		<channel active="False">
 			<name>SKAI (3)</name>
 			<type></type>
 			<url>http://master.cystreams.com:25461/live/greek/macedonia/42.ts</url>
 		</channel>
-		<channel active="True">
+		<channel active="False">
 			<name>ERT1 GR</name>
 			<type></type>
 			<url>plugin://plugin.video.youtube/play/?video_id=XB5EniQqFT4</url>
 		</channel>
-		<channel active="True">
+		<channel active="False">
 			<name>ERT2 GR</name>
 			<type></type>
 			<url>plugin://plugin.video.youtube/play/?video_id=H8cREgvj1oU</url>
 		</channel>
-		<channel active="True">
+		<channel active="False">
 			<name>ERT3 GR</name>
 			<type></type>
 			<url>plugin://plugin.video.youtube/play/?video_id=x3IIDO6C-kc</url>
 		</channel>
-		<channel active="True">
+		<channel active="False">
 			<name>ERT SPORTS GR</name>
 			<type></type>
 			<url>plugin://plugin.video.youtube/play/?video_id=ykRc-EJm148</url>
