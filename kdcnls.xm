@@ -68,7 +68,7 @@
 		<channel active="False">
 			<name>ONE</name>
 			<type></type>
-			<url></url>
+			<url>https://streaming.onetv.gr/show/onetv_mid/index.m3u8|User-Agent=Mozilla/5.0</url>
 		</channel>
 		<channel active="True">
 			<name>TV 100</name>
@@ -108,7 +108,7 @@
 		<channel active="True">
 			<name>OPEN (2)</name>
 			<type>rls</type>
-			<url>http://webtv-tv.gr/cha1/3.html</url>
+			<url>http://webtv-tv.gr/cha1/3.php</url>
 		</channel>
 		<channel active="False">
 			<name>OPEN (3)</name>
@@ -128,7 +128,7 @@
 		<channel active="True">
 			<name>STAR (3)</name>
 			<type>rls</type>
-			<url>http://webtv-tv.gr/cha1/5.html</url>
+			<url>http://webtv-tv.gr/cha1/5.php</url>
 		</channel>
 		<channel active="False">
 			<name>STAR (4)</name>
@@ -148,7 +148,7 @@
 		<channel active="True">
 			<name>SKAI (2)</name>
 			<type>rls</type>
-			<url>http://webtv-tv.gr/cha1/7.html</url>
+			<url>http://webtv-tv.gr/cha1/7.php</url>
 		</channel>
 		<channel active="False">
 			<name>SKAI (3)</name>
