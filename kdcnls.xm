@@ -65,7 +65,7 @@
 			<type>ytliv</type>
 			<url>https://www.youtube.com/user/kontrachannelhellas/live</url>
 		</channel>
-		<channel active="False">
+		<channel active="True">
 			<name>ONE</name>
 			<type></type>
 			<url>https://streaming.onetv.gr/show/onetv_mid/index.m3u8|User-Agent=Mozilla/5.0</url>
