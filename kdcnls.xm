@@ -3,17 +3,17 @@
 		<channel active="True">
 			<name>ERT1</name>
 			<type></type>
-			<url>https://ert-live.siliconweb.com/media/ert_1/ert_1.m3u8|User-Agent=Mozilla/5.0</url>
+			<url>https://ert-live.siliconweb.com/media/ert_1/ert_1.m3u8</url>
 		</channel>
 		<channel active="True">
 			<name>ERT2</name>
 			<type></type>
-			<url>https://ert-live.siliconweb.com/media/ert_2/ert_2.m3u8|User-Agent=Mozilla/5.0</url>
+			<url>https://ert-live.siliconweb.com/media/ert_2/ert_2.m3u8</url>
 		</channel>
 		<channel active="True">
 			<name>ERT3</name>
 			<type></type>
-			<url>https://ert-live.siliconweb.com/media/ert_3/ert_3.m3u8|User-Agent=Mozilla/5.0</url>
+			<url>plugin://plugin.video.youtube/play/?video_id=TNVdb0tT0PM</url>
 		</channel>
 		<channel active="True">
 			<name>ERT SPORTS</name>
@@ -75,7 +75,7 @@
 			<type></type>
 			<url>http://178.62.176.153/hls/tv100/index.m3u8</url>
 		</channel>
-		<channel active="True">
+		<channel active="False">
 			<name>NEO TV</name>
 			<type></type>
 			<url>https://neotv.streamings.gr/live/tv/index.m3u8|User-Agent=Mozilla/5.0</url>
@@ -95,15 +95,15 @@
 			<type>rls</type>
 			<url>http://ru.kineskop.tv/?page=watch&ch=364</url>
 		</channel>
-		<channel active="False">
+		<channel active="True">
 			<name>ERT3 (2)</name>
-			<type>rls</type>
-			<url>http://ru.kineskop.tv/?page=watch&ch=366</url>
+			<type></type>
+			<url>plugin://plugin.video.youtube/play/?video_id=F_jfMlJiDcc</url>
 		</channel>
 		<channel active="True">
 			<name>EPT WORLD</name>
 			<type></type>
-			<url>plugin://plugin.video.youtube/play/?video_id=bxJIXgqbxkI</url>
+			<url>plugin://plugin.video.youtube/play/?video_id=9ZUfOVfcE0M</url>
 		</channel>
 		<channel active="True">
 			<name>OPEN (2)</name>
