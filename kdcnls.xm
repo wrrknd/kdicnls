@@ -3,12 +3,12 @@
 		<channel active="True">
 			<name>ERT1</name>
 			<type></type>
-			<url>https://ert-live.siliconweb.com/media/ert_1/ert_1.m3u8</url>
+			<url>plugin://plugin.video.youtube/play/?video_id=YFONjt_PwRI</url>
 		</channel>
 		<channel active="True">
 			<name>ERT2</name>
 			<type></type>
-			<url>https://ert-live.siliconweb.com/media/ert_2/ert_2.m3u8</url>
+			<url>plugin://plugin.video.youtube/play/?video_id=a-25qoU0OH0</url>
 		</channel>
 		<channel active="True">
 			<name>ERT3</name>
@@ -18,7 +18,7 @@
 		<channel active="True">
 			<name>ERT SPORTS</name>
 			<type></type>
-			<url>https://ert-live.siliconweb.com/media/ert_sports/ert_sportshigh.m3u8|User-Agent=Mozilla/5.0</url>
+			<url>plugin://plugin.video.youtube/play/?video_id=bWNVlOORSBQ</url>
 		</channel>
 		<channel active="True">
 			<name>OPEN</name>
@@ -48,7 +48,7 @@
 		<channel active="True">
 			<name>SKAI</name>
 			<type>skai</type>
-			<url>http://www.skaitv.gr/json/live.php</url>
+			<url>http://www.skaitv.gr/live</url>
 		</channel>
 		<channel active="False">
 			<name>MACEDONIA TV</name>
@@ -155,24 +155,24 @@
 			<type></type>
 			<url>http://master.cystreams.com:25461/live/greek/macedonia/42.ts</url>
 		</channel>
-		<channel active="False">
+		<channel active="True">
 			<name>ERT1 GR</name>
 			<type></type>
-			<url>plugin://plugin.video.youtube/play/?video_id=XB5EniQqFT4</url>
+			<url>https://ert-live.siliconweb.com/media/ert_1/ert_1.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)</url>
 		</channel>
-		<channel active="False">
+		<channel active="True">
 			<name>ERT2 GR</name>
 			<type></type>
-			<url>plugin://plugin.video.youtube/play/?video_id=H8cREgvj1oU</url>
+			<urlhttps://ert-live.siliconweb.com/media/ert_2/ert_2.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)</url>
 		</channel>
-		<channel active="False">
+		<channel active="True">
 			<name>ERT3 GR</name>
 			<type></type>
-			<url>plugin://plugin.video.youtube/play/?video_id=x3IIDO6C-kc</url>
+			<url>plugin://plugin.video.youtube/play/?video_id=F_jfMlJiDcc</url>
 		</channel>
-		<channel active="False">
+		<channel active="True">
 			<name>ERT SPORTS GR</name>
 			<type></type>
-			<url>plugin://plugin.video.youtube/play/?video_id=ykRc-EJm148</url>
+			<url>https://ert-live.siliconweb.com/media/ert_sports/ert_sportshigh.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)</url>
 		</channel>
 </channels>
