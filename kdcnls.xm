@@ -163,7 +163,7 @@
 		<channel active="True">
 			<name>ERT2 GR</name>
 			<type></type>
-			<urlhttps://ert-live.siliconweb.com/media/ert_2/ert_2.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)</url>
+			<url>https://ert-live.siliconweb.com/media/ert_2/ert_2.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)</url>
 		</channel>
 		<channel active="True">
 			<name>ERT3 GR</name>
