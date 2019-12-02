@@ -95,7 +95,7 @@
 			<type>rls</type>
 			<url>http://ru.kineskop.tv/?page=watch&ch=364</url>
 		</channel>
-		<channel active="True">
+		<channel active="False">
 			<name>ERT3 (2)</name>
 			<type></type>
 			<url>plugin://plugin.video.youtube/play/?video_id=F_jfMlJiDcc</url>
