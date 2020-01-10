@@ -38,7 +38,7 @@
 		<channel active="True">
 			<name>ALPHA</name>
 			<type></type>
-			<url>https://alphalive-i.akamaihd.net/hls/live/682300/live/master.m3u8|User-Agent=Mozilla/5.0</url>
+			<url>https://alphalive-i.akamaihd.net/hls/live/682300/live/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)</url>
 		</channel>
 		<channel active="True">
 			<name>ALPHA CY</name>
@@ -68,7 +68,7 @@
 		<channel active="True">
 			<name>ONE</name>
 			<type></type>
-			<url>https://streaming.onetv.gr/show/onetv_mid/index.m3u8|User-Agent=Mozilla/5.0</url>
+			<url>https://streaming.onetv.gr/show/onetv_mid/index.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)</url>
 		</channel>
 		<channel active="True">
 			<name>TV 100</name>
@@ -117,8 +117,8 @@
 		</channel>
 		<channel active="True">
 			<name>ANT1 (2)</name>
-			<type>rls</type>
-			<url>http://pl.kineskop.tv/?page=watch&ch=428</url>
+			<type></type>
+			<url>https://antennalivesp-lh.akamaihd.net/i/live_1@715138/index_800_av-p.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)</url>
 		</channel>
 		<channel active="False">
 			<name>STAR (2)</name>
@@ -135,12 +135,12 @@
 			<type></type>
 			<url>plugin://plugin.video.youtube/play/?video_id=L4tD9P-ZHIs</url>
 		</channel>
-		<channel active="False">
+		<channel active="True">
 			<name>ALPHA (2)</name>
 			<type></type>
-			<url>https://alphalive-i.akamaihd.net/hls/live/682300/live/high/prog_index.m3u8|User-Agent=Mozilla/5.0</url>
+			<url>https://alphalive-i.akamaihd.net/hls/live/682300/live/low/prog_index.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)</url>
 		</channel>
-		<channel active="True">
+		<channel active="False">
 			<name>ALPHA (3)</name>
 			<type>rls</type
 			<url>http://pl.kineskop.tv/?page=watch&ch=427</url>
