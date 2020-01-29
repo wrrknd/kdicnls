@@ -3,12 +3,12 @@
 		<channel active="True">
 			<name>ERT1</name>
 			<type></type>
-			<url>plugin://plugin.video.youtube/play/?video_id=YFONjt_PwRI</url>
+			<url>plugin://plugin.video.youtube/play/?video_id=ImCrZ9wqiVg</url>
 		</channel>
 		<channel active="True">
 			<name>ERT2</name>
 			<type></type>
-			<url>plugin://plugin.video.youtube/play/?video_id=a-25qoU0OH0</url>
+			<url>plugin://plugin.video.youtube/play/?video_id=3NVSO_utp0U</url>
 		</channel>
 		<channel active="True">
 			<name>ERT3</name>
@@ -40,7 +40,7 @@
 			<type></type>
 			<url>https://alphalive-i.akamaihd.net/hls/live/682300/live/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)</url>
 		</channel>
-		<channel active="True">
+		<channel active="False">
 			<name>ALPHA CY</name>
 			<type>rls</type>
 			<url>http://www.alphacyprus.com.cy/page/live</url>
