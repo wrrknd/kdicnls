@@ -50,6 +50,11 @@
 			<type>skai</type>
 			<url>http://www.skaitv.gr/live</url>
 		</channel>
+		<channel active="True">
+			<name>MEGA</name>
+			<type></type>
+			<url>https://c98db5952cb54b358365984178fb898a.msvdn.net/live/S86713049/gonOwuUacAxM/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)</url>
+		</channel>
 		<channel active="False">
 			<name>MACEDONIA TV</name>
 			<type></type>
@@ -64,11 +69,6 @@
 			<name>KONTRA (2)</name>
 			<type>ytliv</type>
 			<url>https://www.youtube.com/user/kontrachannelhellas/live</url>
-		</channel>
-		<channel active="True">
-			<name>ONE</name>
-			<type></type>
-			<url>https://streaming.onetv.gr/show/onetv_mid/index.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)</url>
 		</channel>
 		<channel active="True">
 			<name>TV 100</name>
@@ -153,7 +153,17 @@
 		<channel active="False">
 			<name>SKAI (3)</name>
 			<type></type>
-			<url>http://master.cystreams.com:25461/live/greek/macedonia/42.ts</url>
+			<url></url>
+		</channel>
+		<channel active="True">
+			<name>MEGA (2)</name>
+			<type>rls</type>
+			<url>https://www.megatv.com/default.asp?catid=13480</url>
+		</channel>
+		<channel active="False">
+			<name>MEGA (3)</name>
+			<type></type>
+			<url></url>
 		</channel>
 		<channel active="True">
 			<name>ERT1 GR</name>
