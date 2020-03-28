@@ -13,7 +13,7 @@
 		<channel active="True">
 			<name>ERT3</name>
 			<type></type>
-			<url>https://ert-live.siliconweb.com/media/ert_3/ert_3.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)</url>
+			<url>plugin://plugin.video.youtube/play/?video_id=TNVdb0tT0PM</url>
 		</channel>
 		<channel active="True">
 			<name>ERT SPORTS</name>
@@ -80,7 +80,7 @@
 			<type></type>
 			<url>https://ert-live.siliconweb.com/media/ert_2/ert_2low.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)</url>
 		</channel>
-		<channel active="True">
+		<channel active="False">
 			<name>ERT3 (2)</name>
 			<type></type>
 			<url>https://ert-live.siliconweb.com/media/ert_3/ert_3low.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)</url>
@@ -135,10 +135,10 @@
 			<type></type>
 			<url></url>
 		</channel>
-		<channel active="False">
+		<channel active="True">
 			<name>ERT3 GR</name>
 			<type></type>
-			<url></url>
+			<url>plugin://plugin.video.youtube/play/?video_id=F_jfMlJiDcc</url>
 		</channel>
 		<channel active="False">
 			<name>ERT SPORTS GR</name>
