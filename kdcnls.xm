@@ -47,8 +47,8 @@
 		</channel>
 		<channel active="True">
 			<name>SKAI</name>
-			<type></type>
-			<url>https://livestreaming.skai.gr/hls/live/1009402/15a83ddd/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)</url>
+			<type>skai</type>
+			<url>https://www.skaitv.gr/live</url>
 		</channel>
 		<channel active="True">
 			<name>MEGA</name>
