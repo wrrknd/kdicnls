@@ -3,12 +3,12 @@
 		<channel active="True">
 			<name>ERT1</name>
 			<type></type>
-			<url>https://ert-live.siliconweb.com/media/ert_1/ert_1.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)</url>
+			<url>https://ert-live.siliconweb.com/media/ert_1_ww/ert_1_ww.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)</url>
 		</channel>
 		<channel active="True">
 			<name>ERT2</name>
 			<type></type>
-			<url>https://ert-live.siliconweb.com/media/ert_2/ert_2.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)</url>
+			<url>https://ert-live.siliconweb.com/media/ert_2_ww/ert_2_ww.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)</url>
 		</channel>
 		<channel active="True">
 			<name>ERT3</name>
@@ -18,7 +18,7 @@
 		<channel active="True">
 			<name>ERT SPORTS</name>
 			<type></type>
-			<url>https://ert-live.siliconweb.com/media/ert_sports/ert_sports.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)</url>
+			<url>https://ert-live.siliconweb.com/media/ert_sports_ww/ert_sports_ww.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)</url>
 		</channel>
 		<channel active="True">
 			<name>OPEN</name>
@@ -70,12 +70,12 @@
 			<type></type>
 			<url>http://streamer-cache.grnet.gr/parliament/hls/webtv.m3u8</url>
 		</channel>
-		<channel active="True">
+		<channel active="False">
 			<name>ERT1 (2)</name>
 			<type></type>
 			<url>https://ert-live.siliconweb.com/media/ert_1/ert_1low.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)</url>
 		</channel>
-		<channel active="True">
+		<channel active="False">
 			<name>ERT2 (2)</name>
 			<type></type>
 			<url>https://ert-live.siliconweb.com/media/ert_2/ert_2low.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)</url>
@@ -85,7 +85,7 @@
 			<type></type>
 			<url>https://ert-live.siliconweb.com/media/ert_3/ert_3low.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)</url>
 		</channel>
-		<channel active="True">
+		<channel active="False">
 			<name>ERT SPORTS (2)</name>
 			<type></type>
 			<url>https://ert-live.siliconweb.com/media/ert_sports/ert_sportslow.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)</url>
@@ -125,24 +125,24 @@
 			<type>rls</type>
 			<url>https://www.megatv.com/default.asp?catid=13480</url>
 		</channel>
-		<channel active="False">
+		<channel active="True">
 			<name>ERT1 GR</name>
 			<type></type>
-			<url></url>
+			<url>https://ert-live.siliconweb.com/media/ert_1/ert_1.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)</url>
 		</channel>
-		<channel active="False">
+		<channel active="True">
 			<name>ERT2 GR</name>
 			<type></type>
-			<url></url>
+			<url>https://ert-live.siliconweb.com/media/ert_2/ert_2.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)</url>
 		</channel>
 		<channel active="True">
 			<name>ERT3 GR</name>
 			<type></type>
 			<url>plugin://plugin.video.youtube/play/?video_id=F_jfMlJiDcc</url>
 		</channel>
-		<channel active="False">
+		<channel active="True">
 			<name>ERT SPORTS GR</name>
 			<type></type>
-			<url></url>
+			<url>https://ert-live.siliconweb.com/media/ert_sports/ert_sports.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)</url>
 		</channel>
 </channels>
