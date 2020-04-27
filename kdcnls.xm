@@ -28,7 +28,7 @@
 		<channel active="True">
 			<name>ANT1</name>
 			<type></type>
-			<url>https://antennalivesp-lh.akamaihd.net/i/live_1@715138/master.m3u8|User-Agent=Mozilla/5.0</url>
+			<url>https://antennalivesp-lh.akamaihd.net/i/live_1@715138/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)</url>
 		</channel>
 		<channel active="True">
 			<name>STAR</name>
@@ -58,37 +58,17 @@
 		<channel active="True">
 			<name>KONTRA</name>
 			<type></type>
-			<url>http://flashcloud.mediacdn.com/live/kontratv/.m3u8|User-Agent=Mozilla/5.0</url>
+			<url>http://flashcloud.mediacdn.com/live/kontratv/.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)</url>
 		</channel>
 		<channel active="True">
 			<name>TV 100</name>
 			<type></type>
-			<url>http://178.62.176.153/hls/tv100/index.m3u8</url>
+			<url>http://178.62.176.153/hls/tv100/index.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)</url>
 		</channel>
 		<channel active="True">
 			<name>BOYLH TV</name>
 			<type></type>
-			<url>http://streamer-cache.grnet.gr/parliament/hls/webtv.m3u8</url>
-		</channel>
-		<channel active="False">
-			<name>ERT1 (2)</name>
-			<type></type>
-			<url>https://ert-live.siliconweb.com/media/ert_1/ert_1low.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)</url>
-		</channel>
-		<channel active="False">
-			<name>ERT2 (2)</name>
-			<type></type>
-			<url>https://ert-live.siliconweb.com/media/ert_2/ert_2low.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)</url>
-		</channel>
-		<channel active="False">
-			<name>ERT3 (2)</name>
-			<type></type>
-			<url>https://ert-live.siliconweb.com/media/ert_3/ert_3low.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)</url>
-		</channel>
-		<channel active="False">
-			<name>ERT SPORTS (2)</name>
-			<type></type>
-			<url>https://ert-live.siliconweb.com/media/ert_sports/ert_sportslow.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)</url>
+			<url>http://streamer-cache.grnet.gr/parliament/hls/webtv.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)</url>
 		</channel>
 		<channel active="True">
 			<name>EPT WORLD</name>
@@ -98,27 +78,27 @@
 		<channel active="True">
 			<name>OPEN (2)</name>
 			<type>rls</type>
-			<url>http://webtv-tv.gr/cha1/3.php</url>
+			<url>https://www.tvopen.gr/templates/data/LiveDetails</url>
 		</channel>
 		<channel active="True">
 			<name>ANT1 (2)</name>
 			<type></type>
 			<url>https://antennalivesp-lh.akamaihd.net/i/live_1@715138/index_800_av-p.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)</url>
 		</channel>
-		<channel active="True">
+		<channel active="False">
 			<name>STAR (2)</name>
-			<type>rls</type>
-			<url>http://webtv-tv.gr/cha1/5.php</url>
+			<type></type>
+			<url></url>
 		</channel>
 		<channel active="True">
 			<name>ALPHA (2)</name>
 			<type></type>
 			<url>https://alphalive-i.akamaihd.net/hls/live/682300/live/low/prog_index.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)</url>
 		</channel>
-		<channel active="True">
+		<channel active="False">
 			<name>SKAI (2)</name>
-			<type>rls</type>
-			<url>http://webtv-tv.gr/cha1/7.php</url>
+			<type></type>
+			<url></url>
 		</channel>
 		<channel active="True">
 			<name>MEGA (2)</name>
