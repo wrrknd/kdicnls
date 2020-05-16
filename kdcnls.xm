@@ -23,7 +23,7 @@
 		<channel active="True">
 			<name>OPEN</name>
 			<type></type>
-			<url>https://liveopencloud.siliconweb.com/1/ZlRza2R6L2tFRnFJ/eWVLSlQx/hls/live/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)</url>
+			<url>https://liveopen.siliconweb.com/openTvLive/OpenLive2/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)</url>
 		</channel>
 		<channel active="True">
 			<name>ANT1</name>
