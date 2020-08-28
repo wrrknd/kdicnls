@@ -33,7 +33,7 @@
 		<channel active="True">
 			<name>STAR</name>
 			<type></type>
-			<url>https://cdnapisec.siliconweb.com/p/713821/sp/0/playManifest/entryId/1_fp7fyi3j/format/applehttp/protocol/https/flavorParamId/0/manifest.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)</url>
+			<url>https://livestar.siliconweb.com/media/star1/star1mediumhd.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)</url>
 		</channel>
 		<channel active="True">
 			<name>ALPHA</name>
