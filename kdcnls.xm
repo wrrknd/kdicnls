@@ -63,7 +63,7 @@
 		<channel active="True">
 			<name>TV 100</name>
 			<type></type>
-			<url>http://178.62.176.153/hls/tv100/index.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)</url>
+			<url>https://live.fm100.gr/hls/tv100/index.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)</url>
 		</channel>
 		<channel active="True">
 			<name>BOYLH TV</name>
@@ -104,6 +104,11 @@
 			<name>MEGA (2)</name>
 			<type>rls</type>
 			<url>https://www.megatv.com/default.asp?catid=13480</url>
+		</channel>
+		<channel active="True">
+			<name>KONTRA (2)</name>
+			<type></type>
+			<url>https://kontralive.siliconweb.com/live/kontratv/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)</url>
 		</channel>
 		<channel active="True">
 			<name>ERT1 GR</name>
