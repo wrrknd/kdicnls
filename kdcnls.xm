@@ -82,7 +82,7 @@
 		</channel>
 		<channel active="True">
 			<name>ANT1 (2)</name>
-			<type>rls</type>
+			<type></type>
 			<url>https://antennalivesp-lh.akamaihd.net/i/live_1@715138/index_1500_av-p.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)</url>
 		</channel>
 		<channel active="True">
