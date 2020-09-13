@@ -82,18 +82,18 @@
 		</channel>
 		<channel active="True">
 			<name>ANT1 (2)</name>
-			<type></type>
-			<url>https://antennalivesp-lh.akamaihd.net/i/live_1@715138/index_800_av-p.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)</url>
+			<type>rls</type>
+			<url>https://antennalivesp-lh.akamaihd.net/i/live_1@715138/index_1500_av-p.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)</url>
 		</channel>
-		<channel active="False">
+		<channel active="True">
 			<name>STAR (2)</name>
-			<type></type>
-			<url></url>
+			<type>rls</type>
+			<url>https://www.star.gr/tv/live-stream/</url>
 		</channel>
 		<channel active="True">
 			<name>ALPHA (2)</name>
-			<type></type>
-			<url>https://alphalive-i.akamaihd.net/hls/live/682300/live/low/prog_index.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)</url>
+			<type>rls</type>
+			<url>https://www.alphatv.gr/live/</url>
 		</channel>
 		<channel active="False">
 			<name>SKAI (2)</name>
