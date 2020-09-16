@@ -95,10 +95,10 @@
 			<type>rls</type>
 			<url>https://www.alphatv.gr/live/</url>
 		</channel>
-		<channel active="False">
+		<channel active="True">
 			<name>SKAI (2)</name>
 			<type></type>
-			<url>plugin://plugin.video.youtube/play/?video_id=CmqbY_Gzsdo</url>
+			<url>https://skai-live.siliconweb.com/media/cambria2/index_bitrate800K.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)</url>
 		</channel>
 		<channel active="True">
 			<name>MEGA (2)</name>
