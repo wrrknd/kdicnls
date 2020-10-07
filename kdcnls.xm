@@ -103,7 +103,7 @@
 		<channel active="True">
 			<name>MEGA (2)</name>
 			<type>rls</type>
-			<url>https://www.megatv.com/default.asp?catid=13480</url>
+			<url>https://www.megatv.com/live/</url>
 		</channel>
 		<channel active="True">
 			<name>KONTRA (2)</name>
