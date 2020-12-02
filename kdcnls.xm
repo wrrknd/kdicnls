@@ -13,9 +13,9 @@
 		<channel active="True">
 			<name>ERT3</name>
 			<type></type>
-			<url>plugin://plugin.video.youtube/play/?video_id=TNVdb0tT0PM</url>
+			<url>https://ert-live-ert3.siliconweb.com/live/smil:ert3-ww.smil/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)</url>
 		</channel>
-		<channel active="True">
+		<channel active="False">
 			<name>ERT SPORTS</name>
 			<type></type>
 			<url>https://ert-live-bcbs15228.siliconweb.com/media/ert_sports_ww/ert_sports_ww.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)</url>
@@ -98,7 +98,7 @@
 		<channel active="True">
 			<name>SKAI (2)</name>
 			<type></type>
-			<url>https://skai-live.siliconweb.com/media/cambria4/index.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)</url>
+			<url>https://skai-live-gr-bb.siliconweb.com/media/cambria4/index.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)</url>
 		</channel>
 		<channel active="True">
 			<name>MEGA (2)</name>
@@ -123,7 +123,7 @@
 		<channel active="True">
 			<name>ERT3 GR</name>
 			<type></type>
-			<url>plugin://plugin.video.youtube/play/?video_id=F_jfMlJiDcc</url>
+			<url>https://ert-live-ert3.siliconweb.com/live/smil:ert3-live.smil/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)</url>
 		</channel>
 		<channel active="True">
 			<name>ERT SPORTS GR</name>
