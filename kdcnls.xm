@@ -48,7 +48,7 @@
 		<channel active="True">
 			<name>SKAI</name>
 			<type></type>
-			<url>https://skai-live.siliconweb.com/media/cambria4/index.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)</url>
+			<url>https://skai-live-back.siliconweb.com/media/cambria4/index.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)</url>
 		</channel>
 		<channel active="True">
 			<name>MEGA</name>
@@ -98,7 +98,7 @@
 		<channel active="True">
 			<name>SKAI (2)</name>
 			<type></type>
-			<url>https://skai-live-back.siliconweb.com/media/cambria4/index.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)</url>
+			<url>https://skai-live.siliconweb.com/media/cambria4/index.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)</url>
 		</channel>
 		<channel active="True">
 			<name>MEGA (2)</name>
