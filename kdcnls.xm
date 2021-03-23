@@ -123,7 +123,7 @@
 		<channel active="True">
 			<name>ERT3 GR</name>
 			<type></type>
-			<url>https://ert-live-ert3.siliconweb.com/live/smil:ert3-live.smil/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)</url>
+			<url>https://ert-live-bcbs15228.siliconweb.com/media/ert_3/ert_3.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)</url>
 		</channel>
 		<channel active="True">
 			<name>ERT SPORTS GR</name>
