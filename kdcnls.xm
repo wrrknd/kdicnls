@@ -3,12 +3,12 @@
 		<channel active="True">
 			<name>ERT1</name>
 			<type></type>
-			<url>https://ert-live-bcbs15228.siliconweb.com/media/ert_1_ww/ert_1_ww.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)</url>
+			<url>https://ert-live-bcbs15228.siliconweb.com/media/ert_1_ww/ert_1_wwmedium.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)</url>
 		</channel>
 		<channel active="True">
 			<name>ERT2</name>
 			<type></type>
-			<url>https://ert-live-bcbs15228.siliconweb.com/media/ert_2_ww/ert_2_ww.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)</url>
+			<url>https://ert-live-bcbs15228.siliconweb.com/media/ert_2_ww/ert_2_wwmedium.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)</url>
 		</channel>
 		<channel active="True">
 			<name>ERT3</name>
@@ -113,21 +113,21 @@
 		<channel active="True">
 			<name>ERT1 GR</name>
 			<type></type>
-			<url>https://ert-live-bcbs15228.siliconweb.com/media/ert_1/ert_1.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)</url>
+			<url>https://ert-live-bcbs15228.siliconweb.com/media/ert_1/ert_1medium.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)</url>
 		</channel>
 		<channel active="True">
 			<name>ERT2 GR</name>
 			<type></type>
-			<url>https://ert-live-bcbs15228.siliconweb.com/media/ert_2/ert_2.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)</url>
+			<url>https://ert-live-bcbs15228.siliconweb.com/media/ert_2/ert_2medium.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)</url>
 		</channel>
 		<channel active="True">
 			<name>ERT3 GR</name>
 			<type></type>
-			<url>https://ert-live-bcbs15228.siliconweb.com/media/ert_3/ert_3.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)</url>
+			<url>https://ert-live-bcbs15228.siliconweb.com/media/ert_3/ert_3medium.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)</url>
 		</channel>
 		<channel active="True">
 			<name>ERT SPORTS GR</name>
 			<type></type>
-			<url>https://ert-live-bcbs15228.siliconweb.com/media/ert_sports/ert_sports.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)</url>
+			<url>https://ert-live-bcbs15228.siliconweb.com/media/ert_sports/ert_sportsmedium.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)</url>
 		</channel>
 </channels>
