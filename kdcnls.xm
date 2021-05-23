@@ -15,11 +15,6 @@
 			<type></type>
 			<url>https://ert-live-ert3.siliconweb.com/live/smil:ert3-ww.smil/chunklist_b1000000.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)</url>
 		</channel>
-		<channel active="False">
-			<name>ERT SPORTS</name>
-			<type></type>
-			<url>https://ert-live-bcbs15228.siliconweb.com/media/ert_sports_ww/ert_sports_ww.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)</url>
-		</channel>
 		<channel active="True">
 			<name>OPEN</name>
 			<type></type>
@@ -59,21 +54,6 @@
 			<name>KONTRA</name>
 			<type></type>
 			<url>http://flashcloud.mediacdn.com/live/kontratv/.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)</url>
-		</channel>
-		<channel active="True">
-			<name>TV 100</name>
-			<type></type>
-			<url>https://live.fm100.gr/hls/tv100/index.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)</url>
-		</channel>
-		<channel active="True">
-			<name>BOYLH TV</name>
-			<type></type>
-			<url>http://streamer-cache.grnet.gr/parliament/hls/webtv_640_640x360/index.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)</url>
-		</channel>
-		<channel active="True">
-			<name>EPT WORLD</name>
-			<type></type>
-			<url>https://ert-live-bcbs15228.siliconweb.com/media/ert_world/ert_worldlow.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)</url>
 		</channel>
 		<channel active="True">
 			<name>OPEN (2)</name>
@@ -129,5 +109,20 @@
 			<name>ERT SPORTS GR</name>
 			<type></type>
 			<url>https://ert-live-bcbs15228.siliconweb.com/media/ert_sports/ert_sports_1Mbps.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)</url>
+		</channel>
+		<channel active="True">
+			<name>TV 100</name>
+			<type></type>
+			<url>https://live.fm100.gr/hls/tv100/index.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)</url>
+		</channel>
+		<channel active="True">
+			<name>BOYLH TV</name>
+			<type></type>
+			<url>http://streamer-cache.grnet.gr/parliament/hls/webtv_640_640x360/index.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)</url>
+		</channel>
+		<channel active="True">
+			<name>EPT WORLD</name>
+			<type></type>
+			<url>https://ert-live-bcbs15228.siliconweb.com/media/ert_world/ert_worldlow.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)</url>
 		</channel>
 </channels>
