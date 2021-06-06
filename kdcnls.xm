@@ -93,22 +93,22 @@
 		<channel active="True">
 			<name>ERT1 GR</name>
 			<type></type>
-			<url>https://ert-live-bcbs15228.siliconweb.com/media/ert_1/ert_1_1Mbps.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)</url>
+			<url>https://ert-live-bcbs15228.siliconweb.com/media/ert_1/ert_1_3Mbps.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)</url>
 		</channel>
 		<channel active="True">
 			<name>ERT2 GR</name>
 			<type></type>
-			<url>https://ert-live-bcbs15228.siliconweb.com/media/ert_2/ert_2_1Mbps.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)</url>
+			<url>https://ert-live-bcbs15228.siliconweb.com/media/ert_2/ert_2_3Mbps.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)</url>
 		</channel>
 		<channel active="True">
 			<name>ERT3 GR</name>
 			<type></type>
-			<url>https://ert-live-bcbs15228.siliconweb.com/media/ert_3/ert_3_1Mbps.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)</url>
+			<url>https://ert-live-bcbs15228.siliconweb.com/media/ert_3/ert_3_2Mbps.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)</url>
 		</channel>
 		<channel active="True">
 			<name>ERT SPORTS GR</name>
 			<type></type>
-			<url>https://ert-live-bcbs15228.siliconweb.com/media/ert_sports/ert_sports_1Mbps.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)</url>
+			<url>https://ert-live-bcbs15228.siliconweb.com/media/ert_sports/ert_sports_3Mbps.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)</url>
 		</channel>
 		<channel active="True">
 			<name>TV 100</name>
