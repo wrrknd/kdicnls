@@ -3,17 +3,17 @@
 		<channel active="True">
 			<name>ERT1</name>
 			<type></type>
-			<url>https://ert-live-bcbs15228.siliconweb.com/media/ert_1_ww/ert_1_ww_1500Kbps.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)</url>
+			<url>https://ert-live-bcbs15228.siliconweb.com/media/ert_1_ww/ert_1_ww_1500Kbps.m3u8|Referer=https://www.ertflix.gr/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)</url>
 		</channel>
 		<channel active="True">
 			<name>ERT2</name>
 			<type></type>
-			<url>https://ert-live-bcbs15228.siliconweb.com/media/ert_2_ww/ert_2_ww_1500Kbps.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)</url>
+			<url>https://ert-live-bcbs15228.siliconweb.com/media/ert_2_ww/ert_2_ww_1500Kbps.m3u8|Referer=https://www.ertflix.gr/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)</url>
 		</channel>
 		<channel active="True">
 			<name>ERT3</name>
 			<type></type>
-			<url>https://ert-live-ert3.siliconweb.com/live/smil:ert3-ww.smil/chunklist_b1000000.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)</url>
+			<url>https://ert-live-ert3.siliconweb.com/live/smil:ert3-ww.smil/chunklist_b1000000.m3u8|Referer=https://www.ertflix.gr/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)</url>
 		</channel>
 		<channel active="True">
 			<name>OPEN</name>
