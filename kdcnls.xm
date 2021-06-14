@@ -23,7 +23,7 @@
 		<channel active="True">
 			<name>ANT1</name>
 			<type></type>
-			<url>https://antennalivesp-lh.akamaihd.net/i/live_1@715138/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)</url>
+			<url>https://antennaamdnoenc.akamaized.net/ant1_akamai/abr/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.90 Safari/537.36</url>
 		</channel>
 		<channel active="True">
 			<name>STAR</name>
@@ -63,7 +63,7 @@
 		<channel active="True">
 			<name>ANT1 (2)</name>
 			<type></type>
-			<url>https://antennalivesp-lh.akamaihd.net/i/live_1@715138/index_1500_av-p.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)</url>
+			<url>https://antennaamdnoenc.akamaized.net/ant1_akamai/abr/ant1prodabr/ant1prodstream_480p/video.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.90 Safari/537.36</url>
 		</channel>
 		<channel active="True">
 			<name>STAR (2)</name>
