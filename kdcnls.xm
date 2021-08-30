@@ -23,7 +23,7 @@
 		<channel active="True">
 			<name>ANT1</name>
 			<type></type>
-			<url>https://antennaamdnoenc.akamaized.net/ant1_akamai/abr/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.90 Safari/537.36</url>
+			<url>http://5.135.92.136:42692/out/u/atsykmssuyrsyhth.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.90 Safari/537.36</url>
 		</channel>
 		<channel active="True">
 			<name>STAR</name>
@@ -55,20 +55,20 @@
 			<type></type>
 			<url>http://flashcloud.mediacdn.com/live/kontratv/.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)</url>
 		</channel>
-		<channel active="True">
+		<channel active="False">
 			<name>MACEDONIA TV</name>
 			<type></type>
-			<url>https://antennaamdnoenc.akamaized.net/maktv_akamai/abr/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.90 Safari/537.36</url>
+			<url>|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.90 Safari/537.36</url>
 		</channel>
 		<channel active="True">
 			<name>OPEN (2)</name>
 			<type>rls</type>
 			<url>https://www.tvopen.gr/templates/data/LiveDetails</url>
 		</channel>
-		<channel active="True">
+		<channel active="False">
 			<name>ANT1 (2)</name>
 			<type></type>
-			<url>https://antennaamdnoenc.akamaized.net/ant1_akamai/abr/ant1prodabr/ant1prodstream_480p/video.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.90 Safari/537.36</url>
+			<url>|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.90 Safari/537.36</url>
 		</channel>
 		<channel active="True">
 			<name>STAR (2)</name>
