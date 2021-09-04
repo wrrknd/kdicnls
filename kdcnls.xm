@@ -1,29 +1,34 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <channels>
 		<channel active="True">
+			<name>EPT WORLD</name>
+			<type></type>
+			<url>https://ert-live-bcbs15228.siliconweb.com/media/ert_world/ert_worldlow.m3u8|Referer=https://www.ertflix.gr/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)</url>
+		</channel>
+		<channel active="False">
 			<name>ERT1</name>
 			<type></type>
-			<url>https://ert-live-bcbs15228.siliconweb.com/media/ert_1_ww/ert_1_ww_1500Kbps.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)</url>
+			<url></url>
 		</channel>
-		<channel active="True">
+		<channel active="False">
 			<name>ERT2</name>
 			<type></type>
-			<url>https://ert-live-bcbs15228.siliconweb.com/media/ert_2_ww/ert_2_ww_1500Kbps.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)</url>
+			<url></url>
 		</channel>
-		<channel active="True">
+		<channel active="False">
 			<name>ERT3</name>
 			<type></type>
-			<url>https://ert-live-ert3.siliconweb.com/live/smil:ert3-ww.smil/chunklist_b1000000.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)</url>
+			<url></url>
 		</channel>
 		<channel active="True">
 			<name>OPEN</name>
 			<type></type>
 			<url>https://liveopen.siliconweb.com/openTvLive/OpenLive2/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)</url>
 		</channel>
-		<channel active="True">
+		<channel active="False">
 			<name>ANT1</name>
 			<type></type>
-			<url>http://5.135.92.136:42692/out/u/atsykmssuyrsyhth.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.90 Safari/537.36</url>
+			<url>|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.90 Safari/537.36</url>
 		</channel>
 		<channel active="True">
 			<name>STAR</name>
@@ -124,10 +129,5 @@
 			<name>BOYLH TV</name>
 			<type></type>
 			<url>http://streamer-cache.grnet.gr/parliament/hls/webtv_640_640x360/index.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)</url>
-		</channel>
-		<channel active="True">
-			<name>EPT WORLD</name>
-			<type></type>
-			<url>https://ert-live-bcbs15228.siliconweb.com/media/ert_world/ert_worldlow.m3u8|Referer=https://www.ertflix.gr/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)</url>
 		</channel>
 </channels>
