@@ -25,10 +25,10 @@
 			<type></type>
 			<url>https://liveopen.siliconweb.com/openTvLive/OpenLive2/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)</url>
 		</channel>
-		<channel active="False">
+		<channel active="True">
 			<name>ANT1</name>
 			<type></type>
-			<url>|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.90 Safari/537.36</url>
+			<url>https://antennaamdnoenc.akamaized.net/ant1_akamai/abr/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.90 Safari/537.36</url>
 		</channel>
 		<channel active="True">
 			<name>STAR</name>
