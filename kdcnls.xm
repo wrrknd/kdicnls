@@ -38,7 +38,7 @@
 		<channel active="True">
 			<name>ALPHA</name>
 			<type></type>
-			<url>https://alphalive-i.akamaihd.net/hls/live/682300/live/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)</url>
+			<url>https://alphatvlive.siliconweb.com/1/Y2Rsd1lUcUVoajcv/UVdCN25h/hls/bpfkbp2c/2728/chunklist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)</url>
 		</channel>
 		<channel active="False">
 			<name>ALPHA CY</name>
