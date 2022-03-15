@@ -25,7 +25,7 @@
 			<type></type>
 			<url>https://liveopen.siliconweb.com/openTvLive/OpenLive2/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)</url>
 		</channel>
-		<channel active="True">
+		<channel active="False">
 			<name>ANT1</name>
 			<type></type>
 			<url>https://antennaamdnoenc.akamaized.net/ant1_akamai/abr/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.90 Safari/537.36</url>
@@ -38,7 +38,7 @@
 		<channel active="True">
 			<name>ALPHA</name>
 			<type></type>
-			<url>http://alphatvlive.siliconweb.com/1/Y2Rsd1lUcUVoajcv/UVdCN25h/hls/live/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)</url>
+			<url>https://alphatvlive.siliconweb.com/1/Y2Rsd1lUcUVoajcv/UVdCN25h/hls/live/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)</url>
 		</channel>
 		<channel active="False">
 			<name>ALPHA CY</name>
@@ -84,6 +84,11 @@
 			<name>ALPHA (2)</name>
 			<type>rls</type>
 			<url>https://www.alphatv.gr/live/</url>
+		</channel>
+		<channel active="True">
+			<name>ALPHA (3)</name>
+			<type></type>
+			<url>https://alphatvlive.siliconweb.com/1/Y2Rsd1lUcUVoajcv/UVdCN25h/hls/f1yvzq9v/2728/chunklist.m3u8|Referer=https://www.alphatv.gr/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)</url>
 		</channel>
 		<channel active="True">
 			<name>SKAI (2)</name>
