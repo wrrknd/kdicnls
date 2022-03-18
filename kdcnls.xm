@@ -23,7 +23,7 @@
 		<channel active="True">
 			<name>OPEN</name>
 			<type></type>
-			<url>https://liveopen.siliconweb.com/openTvLive/OpenLive2/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)</url>
+			<url>https://liveopencloud.siliconweb.com/1/ZlRza2R6L2tFRnFJ/eWVLSlQx/hls/live/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)</url>
 		</channel>
 		<channel active="False">
 			<name>ANT1</name>
@@ -69,6 +69,11 @@
 			<name>OPEN (2)</name>
 			<type>rls</type>
 			<url>https://www.tvopen.gr/templates/data/LiveDetails</url>
+		</channel>
+		<channel active="True">
+			<name>OPEN (3)</name>
+			<type></type>
+			<url>https://liveopencloud.siliconweb.com/1/ZlRza2R6L2tFRnFJ/eWVLSlQx/hls/fbp5lvnb/2728/chunklist.m3u8|Referer=https://www.tvopen.gr/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)</url>
 		</channel>
 		<channel active="False">
 			<name>ANT1 (2)</name>
