@@ -102,8 +102,13 @@
 		</channel>
 		<channel active="True">
 			<name>MEGA (2)</name>
+			<type>rls</type>
+			<url>https://www.megatv.com/live/</url>
+		</channel>
+		<channel active="True">
+			<name>MEGA (3)</name>
 			<type></type>
-			<url>https://c98db5952cb54b358365984178fb898a.msvdn.net/live/S86713049/gonOwuUacAxM/chunklist_b1064000.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)</url>
+			<url>https://c98db5952cb54b358365984178fb898a.msvdn.net/live/S86713049/gonOwuUacAxM/chunklist_b732000.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)</url>
 		</channel>
 		<channel active="True">
 			<name>KONTRA (2)</name>
