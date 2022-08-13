@@ -3,7 +3,12 @@
 		<channel active="True">
 			<name>EPT WORLD</name>
 			<type></type>
-			<url>https://ert-live-bcbs15228.siliconweb.com/media/ert_world/ert_worldmedium.m3u8|Referer=https://www.ertflix.gr/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)</url>
+			<url>https://ert-live-bcbs15228.siliconweb.com/media/ert_world/ert_world_1Mbps.m3u8|Referer=https://www.ertflix.gr/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)</url>
+		</channel>
+		<channel active="True">
+			<name>EPT WORLD (2)</name>
+			<type></type>
+			<url>https://ert-live-bcbs15228.siliconweb.com/media/ert_world/ert_world.m3u8|Referer=https://www.ertflix.gr/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)</url>
 		</channel>
 		<channel active="False">
 			<name>ERT1</name>
