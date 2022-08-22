@@ -10,25 +10,10 @@
 			<type></type>
 			<url>https://ert-live-bcbs15228.siliconweb.com/media/ert_world/ert_world.m3u8|Referer=https://www.ertflix.gr/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)</url>
 		</channel>
-		<channel active="False">
-			<name>ERT1</name>
-			<type></type>
-			<url></url>
-		</channel>
-		<channel active="False">
-			<name>ERT2</name>
-			<type></type>
-			<url></url>
-		</channel>
-		<channel active="False">
-			<name>ERT3</name>
-			<type></type>
-			<url></url>
-		</channel>
 		<channel active="True">
 			<name>OPEN</name>
 			<type></type>
-			<url>https://liveopencloud.siliconweb.com/1/ZlRza2R6L2tFRnFJ/eWVLSlQx/hls/live/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)</url>
+			<url>https://liveopencloud.siliconweb.com/1/ZlRza2R6L2tFRnFJ/eWVLSlQx/hls/live/playlist.m3u8|Referer=https://www.tvopen.gr/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)</url>
 		</channel>
 		<channel active="False">
 			<name>ANT1</name>
@@ -45,30 +30,20 @@
 			<type></type>
 			<url>https://alphatvlive.siliconweb.com/1/Y2Rsd1lUcUVoajcv/UVdCN25h/hls/live/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)</url>
 		</channel>
-		<channel active="False">
-			<name>ALPHA CY</name>
-			<type>rls</type>
-			<url>http://www.alphacyprus.com.cy/page/live</url>
-		</channel>
 		<channel active="True">
 			<name>SKAI</name>
 			<type></type>
-			<url>https://skai-live-gr.siliconweb.com/media/cambria4/index_bitrate1200K.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)</url>
+			<url>https://skai-live-gr.siliconweb.com/media/cambria4/index_bitrate1200K.m3u8|Referer=https://www.skaitv.gr/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)</url>
 		</channel>
 		<channel active="True">
 			<name>MEGA</name>
 			<type></type>
-			<url>https://c98db5952cb54b358365984178fb898a.msvdn.net/live/S86713049/gonOwuUacAxM/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)</url>
+			<url>https://c98db5952cb54b358365984178fb898a.msvdn.net/live/S86713049/gonOwuUacAxM/playlist.m3u8|Referer=https://www.megatv.com/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)</url>
 		</channel>
 		<channel active="True">
 			<name>KONTRA</name>
 			<type></type>
 			<url>http://flashcloud.mediacdn.com/live/kontratv/.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)</url>
-		</channel>
-		<channel active="False">
-			<name>MACEDONIA TV</name>
-			<type></type>
-			<url>|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.90 Safari/537.36</url>
 		</channel>
 		<channel active="True">
 			<name>OPEN (2)</name>
@@ -79,11 +54,6 @@
 			<name>OPEN (3)</name>
 			<type></type>
 			<url>https://liveopencloud.siliconweb.com/1/ZlRza2R6L2tFRnFJ/eWVLSlQx/hls/fbp5lvnb/2728/chunklist.m3u8|Referer=https://www.tvopen.gr/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)</url>
-		</channel>
-		<channel active="False">
-			<name>ANT1 (2)</name>
-			<type></type>
-			<url>|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.90 Safari/537.36</url>
 		</channel>
 		<channel active="True">
 			<name>STAR (2)</name>
@@ -103,7 +73,12 @@
 		<channel active="True">
 			<name>SKAI (2)</name>
 			<type></type>
-			<url>https://skai-live.siliconweb.com/media/cambria4/index_bitrate1200K.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)</url>
+			<url>https://skai-live.siliconweb.com/media/cambria4/index_bitrate1200K.m3u8|Referer=https://www.skaitv.gr/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)</url>
+		</channel>
+		<channel active="True">
+			<name>SKAI (3)</name>
+			<type></type>
+			<url>https://skai-live-back.siliconweb.com/media/cambria4/index.m3u8|Referer=https://www.skaitv.gr/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)</url>
 		</channel>
 		<channel active="True">
 			<name>MEGA (2)</name>
@@ -113,7 +88,12 @@
 		<channel active="True">
 			<name>MEGA (3)</name>
 			<type></type>
-			<url>https://c98db5952cb54b358365984178fb898a.msvdn.net/live/S86713049/gonOwuUacAxM/chunklist_b732000.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)</url>
+			<url>https://c98db5952cb54b358365984178fb898a.msvdn.net/live/S86713049/gonOwuUacAxM/chunklist_b732000.m3u8|Referer=https://www.megatv.com/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)</url>
+		</channel>
+		<channel active="True">
+			<name>MEGA (4)</name>
+			<type></type>
+			<url>https://streamcdnm7-c98db5952cb54b358365984178fb898a.msvdn.net/live/S86713049/gonOwuUacAxM/playlist.m3u8|Referer=https://www.megatv.com/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)</url>
 		</channel>
 		<channel active="True">
 			<name>KONTRA (2)</name>
