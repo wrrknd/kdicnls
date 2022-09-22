@@ -3,12 +3,12 @@
 		<channel active="True">
 			<name>EPT WORLD</name>
 			<type></type>
-			<url>https://cbd537474fbad4634b64787657ff6456.msvdn.net/ert5/ert_ev5_main/main_540/chunks.m3u8|Referer=https://www.ertflix.gr/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)</url>
+			<url>https://cbd537474fbad4634b64787657ff6456.msvdn.net/ertworld/ert_world_main/main_540/chunks.m3u8|Referer=https://www.ertflix.gr/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)</url>
 		</channel>
 		<channel active="True">
 			<name>EPT WORLD (2)</name>
 			<type></type>
-			<url>https://cbd537474fbad4634b64787657ff6456.msvdn.net/ert5/ert_ev5_main/mainabr/playlist.m3u8|Referer=https://www.ertflix.gr/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)</url>
+			<url>https://cbd537474fbad4634b64787657ff6456.msvdn.net/ertworld/ert_world_main/mainabr/playlist.m3u8|Referer=https://www.ertflix.gr/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)</url>
 		</channel>
 		<channel active="True">
 			<name>OPEN</name>
@@ -103,22 +103,22 @@
 		<channel active="True">
 			<name>ERT1 GR</name>
 			<type></type>
-			<url>https://ert1-live.ert.insyscd.net/out/v1/6370627d34c04383a7b3dfb5c53e7db9/ert1-live_2.m3u8|Referer=https://www.ertflix.gr/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)</url>
+			<url>https://cbd537474fbad4634b64787657ff6456.msvdn.net/ert1/ert_ev1_main/main_540/chunks.m3u8|Referer=https://www.ertflix.gr/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)</url>
 		</channel>
 		<channel active="True">
 			<name>ERT2 GR</name>
 			<type></type>
-			<url>https://cbd537474fbad4634b64787657ff6456.msvdn.net/ert4/ert_ev4_main/main_540/chunks.m3u8|Referer=https://www.ertflix.gr/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)</url>
+			<url>https://cbd537474fbad4634b64787657ff6456.msvdn.net/ert2/ert_ev2_main/main_540/chunks.m3u8|Referer=https://www.ertflix.gr/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)</url>
 		</channel>
 		<channel active="True">
 			<name>ERT3 GR</name>
 			<type></type>
-			<url>https://ert-live-bcbs15228.siliconweb.com/media/ert_3/ert_3_1Mbps.m3u8|Referer=https://www.ertflix.gr/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)</url>
+			<url>https://cbd537474fbad4634b64787657ff6456.msvdn.net/ert3/ert_ev3_main/main_540/chunks.m3u8|Referer=https://www.ertflix.gr/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)</url>
 		</channel>
 		<channel active="True">
 			<name>ERT SPORTS GR</name>
 			<type></type>
-			<url>https://cbd537474fbad4634b64787657ff6456.msvdn.net/ert/main/mainabr/playlist.m3u8|Referer=https://www.ertflix.gr/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)</url>
+			<url>https://cbd537474fbad4634b64787657ff6456.msvdn.net/sports1/ert_sports1_main/mainabr/playlist.m3u8|Referer=https://www.ertflix.gr/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)</url>
 		</channel>
 		<channel active="True">
 			<name>TV 100</name>
