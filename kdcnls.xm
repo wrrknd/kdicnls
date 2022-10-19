@@ -68,7 +68,7 @@
 		<channel active="True">
 			<name>ALPHA (3)</name>
 			<type></type>
-			<url>https://alphatvlive.siliconweb.com/1/Y2Rsd1lUcUVoajcv/UVdCN25h/hls/ppvpgppg/2728/chunklist.m3u8|Referer=https://www.alphatv.gr/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)</url>
+			<url>https://alphatvlive.siliconweb.com/1/Y2Rsd1lUcUVoajcv/UVdCN25h/hls/cz2fpdj6/2728/chunklist.m3u8|Referer=https://www.alphatv.gr/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)</url>
 		</channel>
 		<channel active="True">
 			<name>SKAI (2)</name>
