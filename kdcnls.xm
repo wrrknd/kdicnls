@@ -46,14 +46,19 @@
 			<url>https://kontralive.siliconweb.com/live/kontratv/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)</url>
 		</channel>
 		<channel active="True">
+			<name>ATTICA</name>
+			<type></type>
+			<url>https://atticatv.siliconweb.com/atticatv/atticaliveabr/atticatv/atticalive_480p/chunks.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)</url>
+		</channel>
+		<channel active="True">
+			<name>ACTION24</name>
+			<type></type>
+			<url>https://actionlive.siliconweb.com/actionabr/actiontv/actionlive/actiontv_480p/chunks.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)</url>
+		</channel>
+		<channel active="True">
 			<name>OPEN (2)</name>
 			<type>rls</type>
 			<url>https://www.tvopen.gr/templates/data/LiveDetails</url>
-		</channel>
-		<channel active="True">
-			<name>OPEN (3)</name>
-			<type></type>
-			<url>https://liveopencloud.siliconweb.com/1/ZlRza2R6L2tFRnFJ/eWVLSlQx/hls/w0rhs8m7/2728/chunklist.m3u8|Referer=https://www.tvopen.gr/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)</url>
 		</channel>
 		<channel active="True">
 			<name>STAR (2)</name>
@@ -99,6 +104,16 @@
 			<name>KONTRA (2)</name>
 			<type></type>
 			<url>https://kontralive.siliconweb.com/live/kontratv/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)</url>
+		</channel>
+		<channel active="True">
+			<name>ATTICA (2)</name>
+			<type>rls</type>
+			<url>https://www.attica-tv.gr/live-stream/</url>
+		</channel>
+		<channel active="True">
+			<name>ACTION24 (2)</name>
+			<type>rls</type>
+			<url>https://www.action24.gr/live-stream/</url>
 		</channel>
 		<channel active="True">
 			<name>ERT1 GR</name>
