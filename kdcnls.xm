@@ -16,9 +16,9 @@
 			<url>https://liveopencloud.siliconweb.com/1/ZlRza2R6L2tFRnFJ/eWVLSlQx/hls/live/playlist.m3u8|Referer=https://www.tvopen.gr/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)</url>
 		</channel>
 		<channel active="True">
-			<name>ANT1 EU</name>
+			<name>ANT1</name>
 			<type></type>
-			<url>http://95.107.132.106/out/u/atsykmssuyrsyhth.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.90 Safari/537.36</url>
+			<url>http://d1nfykbwa3n98t.cloudfront.net/out/v1/6e5667da5a6843899a337dea72adb61b/antenna_3.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.90 Safari/537.36</url>
 		</channel>
 		<channel active="True">
 			<name>STAR</name>
@@ -59,6 +59,11 @@
 			<name>OPEN (2)</name>
 			<type>rls</type>
 			<url>https://www.tvopen.gr/templates/data/LiveDetails</url>
+		</channel>
+		<channel active="True">
+			<name>ANT1 (2)</name>
+			<type></type>
+			<url>http://d1nfykbwa3n98t.cloudfront.net/out/v1/6e5667da5a6843899a337dea72adb61b/antenna.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.90 Safari/537.36</url>
 		</channel>
 		<channel active="True">
 			<name>STAR (2)</name>
