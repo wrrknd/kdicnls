@@ -48,7 +48,7 @@
 		<channel active="True">
 			<name>ATTICA</name>
 			<type></type>
-			<url>https://atticatv.siliconweb.com/atticatv/atticaliveabr/atticatv/atticalive_480p/chunks.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)</url>
+			<url>https://atticatv.siliconweb.com/atticatv/atticaliveabr/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)</url>
 		</channel>
 		<channel active="True">
 			<name>ACTION24</name>
@@ -136,9 +136,14 @@
 			<url>https://cbd537474fbad4634b64787657ff6456.msvdn.net/ert3/ert_ev3_main/main_540/chunks.m3u8|Referer=https://www.ertflix.gr/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)</url>
 		</channel>
 		<channel active="True">
-			<name>ERT SPORTS GR</name>
+			<name>ERT NEWS GR</name>
 			<type></type>
-			<url>https://cbd537474fbad4634b64787657ff6456.msvdn.net/sports1/ert_sports1_main/mainabr/playlist.m3u8|Referer=https://www.ertflix.gr/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)</url>
+			<url>https://cbd537474fbad4634b64787657ff6456.msvdn.net/news/ert_news_main/main_540/chunks_dvr.m3u8|Referer=https://www.ertflix.gr/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)</url>
+		</channel>
+		<channel active="True">
+			<name>ERT NEWS GR (2)</name>
+			<type></type>
+			<url>https://cbd537474fbad4634b64787657ff6456.msvdn.net/news/ert_news_main/mainabr/playlist_dvr.m3u8|Referer=https://www.ertflix.gr/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)</url>
 		</channel>
 		<channel active="True">
 			<name>TV 100</name>
