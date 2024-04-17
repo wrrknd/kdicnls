@@ -3,7 +3,7 @@
 		<channel active="True">
 			<name>EPT WORLD</name>
 			<type></type>
-			<url>https://telmacosa.s.llnwi.net/ertlive/ertworld/default/ERTWorld-audio_104621_und=104400-video=3000000.m3u8|Referer=https://www.ertflix.gr/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)</url>
+			<url>https://ertflix.s.llnwi.net/ertlive/ertworld/default/ERTWorld-audio_104621_und=104400-video=3000000.m3u8|Referer=https://www.ertflix.gr/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)</url>
 		</channel>
 		<channel active="True">
 			<name>OPEN</name>
@@ -118,22 +118,22 @@
 		<channel active="True">
 			<name>ERT1 GR</name>
 			<type></type>
-			<url>https://telmacosa.s.llnwi.net/ertlive/ert1/default/ERT-audio_104621_und=104400-video=3000000.m3u8|Referer=https://www.ertflix.gr/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)</url>
+			<url>https://ertflix.s.llnwi.net/ertlive/ert1/default/ERT-audio_104621_und=104400-video=3000000.m3u8|Referer=https://www.ertflix.gr/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)</url>
 		</channel>
 		<channel active="True">
 			<name>ERT2 GR</name>
 			<type></type>
-			<url>https://telmacosa.s.llnwi.net/ertlive/ert2/default/ERT2-audio_104621_und=104400-video=3000000.m3u8|Referer=https://www.ertflix.gr/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)</url>
+			<url>https://ertflix.s.llnwi.net/ertlive/ert2/default/ERT2-audio_104621_und=104400-video=3000000.m3u8|Referer=https://www.ertflix.gr/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)</url>
 		</channel>
 		<channel active="True">
 			<name>ERT3 GR</name>
 			<type></type>
-			<url>https://telmacosa.s.llnwi.net/ertlive/ert3/default/ERT3-audio_104621_und=104400-video=3000000.m3u8|Referer=https://www.ertflix.gr/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)</url>
+			<url>https://ertflix.s.llnwi.net/ertlive/ert3/default/ERT3-audio_104621_und=104400-video=3000000.m3u8|Referer=https://www.ertflix.gr/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)</url>
 		</channel>
 		<channel active="True">
 			<name>ERT NEWS GR</name>
 			<type></type>
-			<url>https://telmacosa.s.llnwi.net/ertlive/ertnews/default/ERTNews-audio_104621_und=104400-video=3000000.m3u8|Referer=https://www.ertflix.gr/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)</url>
+			<url>https://ertflix.s.llnwi.net/ertlive/ertnews/default/ERTNews-audio_104621_und=104400-video=3000000.m3u8|Referer=https://www.ertflix.gr/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)</url>
 		</channel>
 		<channel active="True">
 			<name>TV 100</name>
