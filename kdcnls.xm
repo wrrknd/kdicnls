@@ -13,12 +13,12 @@
 		<channel active="True">
 			<name>ANT1</name>
 			<type></type>
-			<url>http://d1nfykbwa3n98t.cloudfront.net/out/v1/6e5667da5a6843899a337dea72adb61b/antenna_3.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.90 Safari/537.36</url>
+			<url>https://mcdn.antennaplus.gr/live/media0/Ant1/HLS/Ant1.m3u8|Referer=https://www.antenna.gr/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)</url>
 		</channel>
 		<channel active="True">
 			<name>STAR</name>
 			<type></type>
-			<url>https://livestar.siliconweb.com/media/star1/star1mediumhd.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)</url>
+			<url>https://livestar.siliconweb.com/starvod/star4/star4.m3u8|Referer=https://www.star.gr/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)</url>
 		</channel>
 		<channel active="True">
 			<name>ALPHA</name>
@@ -28,12 +28,12 @@
 		<channel active="True">
 			<name>SKAI</name>
 			<type></type>
-			<url>https://skai-live-gr.siliconweb.com/media/cambria4/index_bitrate1200K.m3u8|Referer=https://www.skaitv.gr/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)</url>
+			<url>https://skai-live.siliconweb.com/media/cambria4/index.m3u8|Referer=https://www.skai.gr/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)</url>
 		</channel>
 		<channel active="True">
 			<name>MEGA</name>
 			<type></type>
-			<url>https://c98db5952cb54b358365984178fb898a.msvdn.net/live/S86713049/gonOwuUacAxM/playlist.m3u8|Referer=https://www.megatv.com/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)</url>
+			<url>https://c98db5952cb54b358365984178fb898a.msvdn.net/vod/X5p1HMoDRUJg/playlist.m3u8|Referer=https://www.megatv.com/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)</url>
 		</channel>
 		<channel active="True">
 			<name>KONTRA</name>
@@ -56,11 +56,6 @@
 			<url>https://www.tvopen.gr/templates/data/LiveDetails</url>
 		</channel>
 		<channel active="True">
-			<name>ANT1 (2)</name>
-			<type></type>
-			<url>http://d1nfykbwa3n98t.cloudfront.net/out/v1/6e5667da5a6843899a337dea72adb61b/antenna.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.90 Safari/537.36</url>
-		</channel>
-		<channel active="True">
 			<name>STAR (2)</name>
 			<type>rls</type>
 			<url>https://www.star.gr/tv/live-stream/</url>
@@ -71,14 +66,9 @@
 			<url>https://www.alphatv.gr/live/</url>
 		</channel>
 		<channel active="True">
-			<name>ALPHA (3)</name>
-			<type></type>
-			<url>https://alphatvlive.siliconweb.com/1/Y2Rsd1lUcUVoajcv/UVdCN25h/hls/cz2fpdj6/2728/chunklist.m3u8|Referer=https://www.alphatv.gr/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)</url>
-		</channel>
-		<channel active="True">
 			<name>SKAI (2)</name>
-			<type></type>
-			<url>https://skai-live.siliconweb.com/media/cambria4/index_bitrate1200K.m3u8|Referer=https://www.skaitv.gr/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)</url>
+			<type>rls</type>
+			<url>https://www.skai.gr/tv/live</url>
 		</channel>
 		<channel active="True">
 			<name>SKAI (3)</name>
@@ -89,16 +79,6 @@
 			<name>MEGA (2)</name>
 			<type>rls</type>
 			<url>https://www.megatv.com/live/</url>
-		</channel>
-		<channel active="True">
-			<name>MEGA (3)</name>
-			<type></type>
-			<url>https://c98db5952cb54b358365984178fb898a.msvdn.net/live/S86713049/gonOwuUacAxM/chunklist_b732000.m3u8|Referer=https://www.megatv.com/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)</url>
-		</channel>
-		<channel active="True">
-			<name>MEGA (4)</name>
-			<type></type>
-			<url>https://streamcdnm7-c98db5952cb54b358365984178fb898a.msvdn.net/live/S86713049/gonOwuUacAxM/playlist.m3u8|Referer=https://www.megatv.com/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)</url>
 		</channel>
 		<channel active="True">
 			<name>KONTRA (2)</name>
