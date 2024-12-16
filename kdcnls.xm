@@ -33,7 +33,7 @@
 		<channel active="True">
 			<name>MEGA</name>
 			<type></type>
-			<url>https://c98db5952cb54b358365984178fb898a.msvdn.net/vod/X5p1HMoDRUJg/playlist.m3u8|Referer=https://www.megatv.com/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)</url>
+			<url>https://streamcdng16-c98db5952cb54b358365984178fb898a.msvdn.net/live/S14373792/aGr5KG7RcZ9a/playlist.m3u8|Referer=https://www.megatv.com/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)</url>
 		</channel>
 		<channel active="True">
 			<name>KONTRA</name>
@@ -54,6 +54,11 @@
 			<name>OPEN (2)</name>
 			<type>rls</type>
 			<url>https://www.tvopen.gr/templates/data/LiveDetails</url>
+		</channel>
+		<channel active="True">
+			<name>ANT1 (2)</name>
+			<type></type>
+			<url>https://cdn1.smart-tv-data.com/live/ant1/playlist.m3u8|Referer=https://www.antennaplus.gr/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)</url>
 		</channel>
 		<channel active="True">
 			<name>STAR (2)</name>
@@ -98,17 +103,17 @@
 		<channel active="True">
 			<name>ERT1 GR</name>
 			<type></type>
-			<url>https://ertflix.s.llnwi.net/ertlive/ert1/default/ERT-audio_104621_und=104400-video=3000000.m3u8|Referer=https://www.ertflix.gr/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)</url>
+			<url>https://ertflix.s.llnwi.net/ertlive/ert1/clrdef24723b/index.m3u8|Referer=https://www.ertflix.gr/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)</url>
 		</channel>
 		<channel active="True">
 			<name>ERT2 GR</name>
 			<type></type>
-			<url>https://ertflix.s.llnwi.net/ertlive/ert2/default/ERT2-audio_104621_und=104400-video=3000000.m3u8|Referer=https://www.ertflix.gr/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)</url>
+			<url>https://ertflix.s.llnwi.net/ertlive/ert2/clrdef24828z/index.m3u8|Referer=https://www.ertflix.gr/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)</url>
 		</channel>
 		<channel active="True">
 			<name>ERT3 GR</name>
 			<type></type>
-			<url>https://ertflix.s.llnwi.net/ertlive/ert3/default/ERT3-audio_104621_und=104400-video=3000000.m3u8|Referer=https://www.ertflix.gr/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)</url>
+			<url>https://ertflix.s.llnwi.net/ertlive/ert3/clrdef24828n/index.m3u8|Referer=https://www.ertflix.gr/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)</url>
 		</channel>
 		<channel active="True">
 			<name>ERT NEWS GR</name>
